@@ -20,8 +20,20 @@ def load_cat():
                 known |= set(c.keys())
     return known
 
+TR_KEYS = {"Name","UseText","InfoText","SansText","DropText","PUseText",
+           "Check","AttackText"}
+
 def tokens(path):
+    """.ini icin sadece cevrilebilir anahtarlarin DEGERI, .txt icin tokenlar."""
     raw = open(path,"rb").read().decode("utf-8",errors="replace")
+    if path.endswith(".ini"):
+        for line in raw.split("\n"):
+            m = re.match(r"^([A-Za-z0-9_]+)=(.*)$", line.rstrip("\r"))
+            if m and m.group(1) in TR_KEYS and m.group(2).strip():
+                v = re.match(r"^(.*?)[\s,]*$", m.group(2), re.S).group(1)
+                if v and not SKIP.match(v):
+                    yield v
+        return
     for p in re.split(r"\||\r\n|\n", raw):
         s = p.strip()
         if s and not SKIP.match(s):

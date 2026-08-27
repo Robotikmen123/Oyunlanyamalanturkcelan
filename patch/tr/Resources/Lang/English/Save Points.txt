@@ -1,0 +1,158 @@
+Grimwood - Sentry Post
+* (Agaclar,[w:07] gorunuste neredeyse\rsonsuz,[w:07] seni ormanin\rderinlerine cekiyor.)|* (Iraden seni devam etmeye\rzorluyor.)
+
+Grimwood - 2
+* (room was cut)
+
+Grimwood - 3
+* (room was cut)
+
+Grimwood - 4
+* TEXT
+
+Grimwood - Papyrus Corridor
+* (room was cut)
+
+Snowdin - Unnamed 1
+* (room was cut)
+
+Snowdin - Boat
+* (room was cut)
+
+Snowdin - River Room 1
+* (room was cut)
+
+Snowdin - River Room 2
+* (room was cut)
+
+Grimwood - 6
+* TEXT
+
+Grimwood - 7
+* TEXT
+
+Grimwood - 8
+* TEXT
+
+Grimwood - 9
+* TEXT
+
+Grimwood - 10
+* TEXT
+
+Grimwood - 11
+* TEXT
+
+Grimwood - Spooky Field
+* (Iraden direniyor.)
+
+Grimwood - 13
+* TEXT
+
+Grimwood - 14
+* TEXT
+
+Grimwood - 15
+* TEXT
+
+Grimwood - 16
+* TEXT
+
+Grimwood - 17
+* TEXT
+
+Grimwood - 18
+* TEXT
+
+Grimwood - 19
+* TEXT
+
+Grimwood - 20
+* TEXT
+
+Grimwood - 21
+* TEXT
+
+Grimwood - 22
+* TEXT
+
+Grimwood - By the lake
+* (Carpisan dalgalarin sesi\rher yanda uyum icinde.)|* (Gorusun daralmaya basliyor,[w:07]\rama iraden direniyor.)
+
+Grimwood - 24
+* TEXT
+
+Grimwood - 25
+* TEXT
+
+Grimwood - Deeper Forest
+* (Ortam sessizlesiyor.)
+
+Grimwood - Chase room 1
+* TEXT
+
+Grimwood - Chase room 2
+* TEXT
+
+Grimwood - Chase room 3
+* TEXT
+
+Grimwood - Chase room 4
+* TEXT
+
+Grimwood - Chase room 5
+* TEXT
+
+Grimwood - 32
+* TEXT
+
+Grimwood - 33
+* TEXT
+
+Grimwood - 34
+* TEXT
+
+Grimwood - 35
+* TEXT
+
+Grimwood - 36
+* TEXT
+
+Grimwood - 37
+* TEXT
+
+Grimwood Lodge - Muffet's
+* (Bir golgeden bir sey\rbelirdi.)|* (Bir yildiz,[w:07] yalnizca senin\rgorebildigin...)|* (Ona uzanmak icin elini\ruzattin,[w:07] ve...)
+
+Grimwood - 39 (additional speedrun room)
+* TEXT
+
+Grimwood - 42 (additional room 3)
+* TEXT
+
+Grimwood - Lakeside
+* (Carpisan dalgalarin sesi\rher yanda uyum icinde.)|* (Gorusun daralmaya basliyor,[w:07]\rama iraden direniyor.)
+
+Grimwood - 44 (additional room 5)
+* this is the boat transition
+
+Grimwood - 40 (additional room 1)
+* first tutorial puzzle
+
+Grimwood - 41 (additional room 2)
+* second tutorial puzzle
+
+Grimwood - 45 (papyrus aurafarm room)
+* TEXT
+
+Grimwood - 46 (reset secret room 1)
+* TEXT
+
+Grimwood - 47 (reset secret room 2)
+* TEXT
+
+Grimwood - 48 (reset secret room 3)
+* TEXT
+
+Grimwood - 49 (reset secret room 4)
+* TEXT

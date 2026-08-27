@@ -22,6 +22,9 @@ BREAK = re.compile(r"\\[rn]")               # \\r kutu ici satir, \\n yeni kutu
 # .ini icinde sadece bu anahtarlarin degeri cevrilir
 TR_KEYS = {"Name","UseText","InfoText","SansText","DropText","PUseText",
            "Check","AttackText"}
+# [BoxText]/[Dialogues] altindaki sayisal anahtarlar da metindir. Katalog tam
+# eslesme kullandigi icin katalogda olmayan yer tutucular kendiliginde korunur.
+NUM_KEY = re.compile(r"^\d+$")
 PAD = re.compile(r"^(.*?)([\s,]*)$", re.S)   # "Apple     ," -> govde + hizalama eki
 
 def markup_sig(s):
@@ -49,7 +52,8 @@ def apply_ini(rel, cat):
     for line in raw.split("\n"):
         eol = "\r" if line.endswith("\r") else ""   # CRLF satir sonunu koru
         m = re.match(r"^([A-Za-z0-9_]+)=(.*)$", line[:len(line)-len(eol)])
-        if not m or m.group(1) not in TR_KEYS or not m.group(2).strip():
+        if not m or not m.group(2).strip() or (
+                m.group(1) not in TR_KEYS and not NUM_KEY.match(m.group(1))):
             out.append(line); continue
         key, val = m.group(1), m.group(2)
         body, pad = PAD.match(val).groups()
