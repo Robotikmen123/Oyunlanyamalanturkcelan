@@ -1,0 +1,9 @@
+* (Muhurlu tahta bir sandik.)[w:07]\n* (Acmak icin ALTIN\rgerekiyor.)|* (Gizemli esya 20G'ye\ralinsin mi?)\n        [choice:06]Evet          [choice:07]Hayir
+[noskip][hide][w:15] [next]
+[draw.box][inv.sound]* (KOR BICAK [color:255,255,000]ENVANTERINE[color:255,255,255]\reklendi.)
+* Artik ise yaramaz.
+* (Yeterli ALTININ yok.)
+
+
+(unused)
+* (Sandigi actin.)[w:07]\n* (Icinde [color:255,255,000]KOR BICAK[color:255,255,255] vardi.)|* (Alinsin mi?)[choice]\n \n        Evet          Hayir

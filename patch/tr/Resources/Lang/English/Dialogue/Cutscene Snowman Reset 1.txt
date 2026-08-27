@@ -1,0 +1,59 @@
+[draw.portrait][s]* EN IYI KAR\rHEYKELLERINI YAPMAYA\rHAZIR MISIN?
+[p]* tamam.
+[s][grimwood.sans.anim:15][set.portrait:18]* BUNUN MUHTESEM\rOLACAGINI\rBILIYORUM!
+[grimwood.sans.frame:14]* HARIKA BIR GUN ICIN\rHARIKA BIR KARDAN ADAM\rOLMALI!
+[p][grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:01]* dogru.
+[s][set.portrait:00]* TATIL, ISI SAVSAKLAMAK\rICIN BIR BAHANE\rDEGIL!
+[p][set.portrait:01]* bunu kopeklere soyle.
+[s][grimwood.sans.anim:14][set.portrait:11]* OH,[w:07] SAKIN\rBASLAMA!
+[set.portrait:01]* MUFFET'IN YERINE\rGITMEK ICIN CAN\rATTIGINI BILIYORUM!
+[grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:00]* MUHAFIZLAR BUGUN\rGOREVDE OLMAYABILIR...
+* AMA OYLEYMIS GIBI\rDAVRANACAGIZ!
+[p][set.portrait:00]* tamam.
+[grimwood.cutscene.snowman.0] [grimwood.cutscene.snowman.posechange.1] [grimwood.sans.anim:29] [snd.wing] [w:90] [next]
+[draw.portrait][draw.box][s][grimwood.sans.anim:31][grimwood.sans.frame:05][grimwood.papyrus.anim:17][grimwood.papyrus.frame:00][expression:05]* HEY,[w:07] PAPYRUS?
+[p][grimwood.papyrus.frame:02]* naber?
+[s][expression:06]* DAHA ONCE ALPHYS'LE\rTELEFONDAYDIM.
+[p]* tamam.
+[s][expression:06]* VE BELKI ISTEN BIR\rTATIL YAPMAM GEREKTIGINI\rSOYLEDI.
+[p][grimwood.papyrus.frame:03]* oh,[w:07] guzel.
+* bir tatil iyi gelirdi.
+[s][expression:18]* EVET.[w:07] SEY...
+[grimwood.sans.frame:07][grimwood.papyrus.frame:01][expression:22]* SENIN FIKRIN OLDUGUNU\rSOYLEDI.
+[p][expression:01]* ...
+[grimwood.sans.frame:05][grimwood.papyrus.frame:02][expression:00]* evet,[w:07] onunla bu konuda\rkonustugumu\rhatirliyorum galiba.
+[s][expression:03]* NEDEN?
+[p][grimwood.papyrus.frame:01][expression:01]* siki\rcalisiyorsun.
+[grimwood.papyrus.frame:03]* belki bir tatil senin icin\rguzel bir odul olur\rdiye dusundum.
+[s][expression:06]* DUSUNCEN ICIN\rTESEKKURLER,
+[grimwood.papyrus.frame:00][expression:09]* AMA SU AN BUNUN NE\rKADAR ONEMLI OLDUGUNU\rBILIYORSUN!
+[expression:15]* HER BIRINE BENIMLE\rBIRLIKTE\rGELIYORSUN,
+[expression:06]* BU YUZDEN ZAMANLAMA\rTUHAF GELIYOR.
+[p][grimwood.papyrus.frame:02][expression:01]* sadece seni\rkolluyordum.
+[expression:00]* cok havalisin,[w:07]\rsenin icin guzel bir\rsey yapmak istedim.
+[grimwood.papyrus.frame:03]* bilirsin,[w:07] onemsedigimi gostermek icin.
+[s][grimwood.papyrus.frame:02][expression:03]* NEDEN SUREKLI BUNU\rBANA BIR TATILMIS GIBI\rSOYLUYORSUN?
+[p][grimwood.papyrus.frame:03][expression:00]* ...sey,[w:07] burada birinin\rnobet tutmasi lazim.[w:07] oyle\rdegil mi?
+[expression:02]* dedigin gibi,[w:07] bu onemli\rbir mesele.
+[expression:00]* en onemli oldugu anda\risimizi oylece\rbirakamayiz.
+[s][grimwood.papyrus.frame:02][expression:05]* BEN...
+[grimwood.sans.frame:07][expression:06]* SANIRIM ANLIYORUM.
+[p][grimwood.sans.frame:06][grimwood.papyrus.frame:01]* bu harika,[w:07] kardesim.
+[grimwood.papyrus.frame:03]* cantalarini toplamana\ryardim lazim mi?
+[s][grimwood.sans.frame:07][expression:16]* HAYIR,[w:07] HENUZ GITMEK\rISTEMIYORUM.
+[grimwood.sans.frame:06][grimwood.papyrus.frame:01][expression:00]* ISIMIZ BITTIGINDE,[w:07]\rBIRLIKTE TATILE\rCIKABILIRIZ!
+[p][grimwood.papyrus.frame:05][expression:01]* oh.
+[s][grimwood.papyrus.frame:02]* BENI KOLLADIGIN ICIN\rMINNETTARIM,[w:07]\rPAPYRUS.
+[expression:18]* AMA KARDESINLE HARIKA\rBIR TATILI SENDEN\rCALMAYACAGIM!
+[p][grimwood.papyrus.frame:01][expression:01]* vay.[w:07] sag ol.
+[s]* BU SADECE BIZE\rDORT GOZLE BEKLEYECEK\rBIR SEY VERIYOR!
+[p][expression:01]* sanirim.
+[pause:100][grimwood.papyrus.frame:00] [skippable] [next]
+[draw.portrait][draw.box][s][expression:03]* ... NEREYE\rGIDERDIK KI?
+[p][grimwood.papyrus.frame:01]* bilmem.
+[s][grimwood.sans.frame:08][expression:04]* BUTUN BU FIKIR\rSENINDI!
+[p][grimwood.papyrus.frame:03]* evet,[w:07] sanirim o kadar\rilerisini dusunmemisim.
+[s][grimwood.sans.frame:06][grimwood.papyrus.frame:02][expression:16]* OH,[w:07] NEYSE.
+[grimwood.sans.frame:09][expression:18]* SANIRIM SIRASI\rGELDIGINDE\rDUSUNURUZ.
+[p][grimwood.sans.frame:06][grimwood.papyrus.frame:03]* tamam.
+[hide][grimwood.cutscene.snowman.5][grimwood.sans.anim:29][grimwood.papyrus.anim:16]

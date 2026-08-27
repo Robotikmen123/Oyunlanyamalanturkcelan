@@ -1,0 +1,45 @@
+[t]* Sence bunu ne zamandir\ryapiyoruz?
+* Ne zamandir bu oyunun bir\rparcasiyiz?
+* ONLARIN oyunu.
+* Acikcasi, biktim artik.
+* O insan... O SEY.
+[pitch:28000]* Ne yaptiklarini\rbilmiyorlar.
+[p]* belli ki,[w:07] oyle.
+[t]* Ha![w:07] Oyle sanirsin.
+[pitch:24000]* Hayir,[w:07] bu bir trajedi degil,[w:07]\rplanli ve koordineli.
+[pitch:14000]* Bu...[w:13] akilsizca.
+[pitch:36000]* Ne kadar BASIT oldugu beni\rCILDIRTIYOR!
+* Bu yuzden sana geldim.
+* Bunun GERCEKTEN ne kadar kotu\roldugunu bilen tek kisiler\rsen ve benim.
+* Bir seyi tekrar tekrar ve\rtekrar ve tekrar ve TEKRAR\ryapmak...
+[t][pitch:42000][effect:shake,0]* Ve HIC.[w:07] [pitch:48000][xscale:40]DEGISMEMEK.[w:07][scale:20]\n[effect:shake,2]* [pitch:64000][xscale:80][yscale:40]HIC MI?![xscale:20][yscale:20]
+[t][effect:shake,0]* Tabii,[w:07] O AN farkli seyler\ryapiyorlar.
+* Surada bir sey soyle,[w:07] burada bir\resya al...
+* Ama hepsi ayni sekilde bitiyor.
+* Onlar icin,[w:07] bu bir OYUN.
+* Peki sonuclari neden UMURSAYASIN?
+[p]* yani asla durmayacaklar.
+[t]* Aynen!
+* Bu yuzden ONLARI DURDURMALIYIZ.
+[p]* ...
+[t]* Benimle oynama, Papyrus!\n* Onlari durdurmamiz gerektigini biliyorsun!
+[effect:shake,0]* En azindan [effect:shake,1]BIR SEY\ryapmalarini saglamak icin!
+[p][effect:shake,0]* denemedim mi saniyorsun?
+[t]* Ha! Her sey degil!
+* Seni taniyorum, Papyrus.[w:07]\n* Ne oldugunu.
+* Sen de en az benim kadar\rcevap bulmak istiyorsun.
+* Ve onlari elde etmek icin HER SEYI\ryapardin.
+[p]* beni tanimiyorsun.
+* anlam aramaktan uzun zaman\ronce vazgectim.
+[t]* YALANCI!
+* Sen kimseye benzemiyorsun.[w:07]\n* Sahip oldugun bilgiyle\rLANETLENDIN.
+* Sen olaylara farkli bakiyorsun,[w:07]\rve bu yuzden...
+* Sonuca kendi basina nasil\rvaracagini TAM OLARAK biliyorum.
+[p]* bu ne demek simdi?
+[t][pitch:24000]* Ne demek istedigimi biliyorsun, Papyrus.
+* Noktalari birlestir.
+* Insan senin en buyuk\rornegin.
+* Bunu cozmek icin biraz\rvaktin var.
+* Ve eger yapmazsan...
+* Zaten ne olacagini\rbiliyorsun.
+[pitch:48000][voice:6]* Bu arada...[w:07]\n* Gorusuruz!!

@@ -1,0 +1,63 @@
+[draw.portrait][p]* evet, ben de dedim ki:\r[w:07]"o ucak falan degil!"
+* "o benim karim!"
+[as][set.portrait:01]* Oh ho ho![w:07]\n* Bu iyiydi!
+[p]* tesekkurler,[w:07] tesekkurler.
+* sen simdiye kadarki en iyi\rseyircimsin.
+[as][set.portrait:05]* Cok naziksin,[w:07]\rdostum.
+[set.portrait:01]* Iyi oldugunu duymak\rbeni\rsevindirdi.
+[p]* sana da.
+[as]* Hayatlarimizi konusmak\risterdim,[w:07]\reger istersen.
+[p]* elbette.
+[as]* Soyle bana,[w:07] ne is\ryapiyorsun?
+* Orada neler oldugunu\rmerak ediyorum\rdogrusu.
+[set.portrait:02]* Ayrica,[w:07] bana o ekip\rhakkinda cok sey anlattin,
+[set.portrait:01]* Amaclarindan hic\rbahsetmeden!
+[p]* sey,[w:07] kardesimle ben\rnobetci olarak\rgorevlendirildik.
+* ama sey...[w:07]\n* acikcasi bunu o kadar da\rumursamiyorum.
+[as][set.portrait:02]* Nasil yani?[w:07]\n* Onemli bir is\ryapiyorsun,[w:07] oyle degil mi?
+[p]* yanlis anlama,[w:07]\n* kralligima hizmet etmekten\rmemnunum.
+* sadece...[w:07] gelecek icin\rendiselenmeyi\rsevmiyorum.
+* anin icinde kalmayi\rseviyorum.
+* simdiye odaklan,[w:07]\ranladin mi?
+[as][set.portrait:00]* Anliyorum.
+* Cogu zaman gelecegimize\rtakilip kaliriz.
+* Bazen agirdan almak\rguzel.
+[set.portrait:02]* Soyle bana,[w:07] ne\rugruna?[w:07]\n* Seni ayakta tutan ne?
+[p]* kardesim,[w:07] gercekten.
+* bu ise elinden gelen\rher seyi koyuyor.
+* ve basarilariyla gurur\rduydugunu\rgormek...
+* bana yetiyor,[w:07]\rgercekten.
+* pardon,[w:07] bu muhtemelen pek\rilginc degildir.
+[as][set.portrait:01]* Hayir,[w:07] boyle soyleme.
+[set.portrait:00]* Baskalarinda teselli\rbulmanin hicbir yanlisi\ryok.
+* Baskalarinin daha iyisini\ryaptigini gormek bizi de daha\riyi olmaya tesvik edebilir.
+[set.portrait:01]* Ve anlasilan,[w:07] buyuk\rbir etkin\rvar.
+[p]* heh, evet.[w:07]\n* o en havalisi.
+* bir gun bir insanla tanismayi\rgercekten cok istiyor.
+* surekli aynanin karsisinda\rmonologlarini\rprova ediyor.
+[as][set.portrait:11]* Korkmuyor mu?
+[p][set.portrait:04]* insanlardan mi?[w:07]\n* yok,[w:07] aslinda onlara\rhayran.
+[set.portrait:02]* bir yanim bu isi birine\ryaklasmak icin aldigini\rdusunuyor.
+[set.portrait:07]* biriyle arkadas olmak icin,[w:07]\rbelki? bilmem.
+[as][set.portrait:11]* Bu...[w:07] onun isiyle pek\rortusmuyor\rgibi.
+* Ya da tarihimizi,[w:07] hatta\rondan da ote.
+[p]* ben de oyle sanmistim.[w:07]\n* ama bu konuda\rtutkulu.
+* bence gayet iyi bir\rsansi var,[w:07] acikcasi\rsoylemek gerekirse.
+[as][set.portrait:02]* Emin misin?
+[p]* evet.[w:07] neden olmasin?
+* kim kardesimle en iyi\rdost olmak istemez ki?
+[as][set.portrait:01]* Sanirim bunu\rduzeltemem.
+[set.portrait:00]* Bir bakima guzel.
+* Uzun zaman once,[w:07] insanlarla\rbir arada yasamayi\rhayal ederdim.
+[set.portrait:11]* Bugunlerde bunu...[w:07]\rkosullarimiz dusunulunce\rhayal etmek zor.
+* Cogu insanin magaralarimizdan\rmemnun kalacagindan\rsupheliyim.
+* Ve sinirlarini.
+[set.portrait:00]* Yine de kardesinden\rve onun hayallerinden\rbahsedisin...
+[set.portrait:01]* Bence onlara sunacak\rcok seyimiz olurdu,[w:07] zamanlar\rdaha iyi olsaydi.
+[p]* evet,[w:07] guzel dedin.
+[as]* Herkese huzur.[w:07]\n* Bu harika olmaz\rmiydi?
+[p]* olurdu.
+* herkese huzur.
+
+
+[p]* herkese huzur.

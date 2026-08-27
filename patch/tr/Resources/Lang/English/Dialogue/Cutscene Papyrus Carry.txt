@@ -1,0 +1,6 @@
+[p]* daha cok vaktim var saniyordum.
+* bunun boyle olmasini\ristemedim,[w:07] ama isler ne zaman\rbenim istedigim gibi gitti ki?
+[grimwood.cutscene.papyrus.carry.1] [next]
+[show]* bu gece...[w:12]\n* bu gece her seyi ortaya\rkoyuyorum.
+* ve arkama bakmiyorum.
+[grimwood.cutscene.papyrus.carry.2]

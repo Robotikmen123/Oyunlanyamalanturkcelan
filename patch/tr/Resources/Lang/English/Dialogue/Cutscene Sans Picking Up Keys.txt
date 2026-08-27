@@ -1,0 +1,4 @@
+[draw.box]* (Sans'a tanidik gelen bir nesne\rkarin ustunde duruyor.)
+[set.camera.progression:01]
+[draw.box]* (Sans [color:255,000,000]Kulube Anahtarlarini[color:255,255,255] aldi.)
+[set.camera.progression:03]

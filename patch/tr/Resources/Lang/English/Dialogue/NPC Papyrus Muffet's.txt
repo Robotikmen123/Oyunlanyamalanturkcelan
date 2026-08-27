@@ -1,0 +1,1 @@
+[draw.portrait][s][set.portrait:23]* PAPYRUS...?|[s][set.portrait:23]* PAPYRUS,[w:07] IYI\rMISIN?|[s][set.portrait:26]* BIR SEY...[w:07]\n* KORKUNC BIR SEY\rOLDU,[w:07] VE BEN...|[s][set.portrait:29]* BILMIYORUM...|[s][set.portrait:23]* NEDEN...?|[s][set.portrait:29]* ...|[s][set.portrait:25][speed:060]* PAPYRUS?|[set.camera.progression:01]

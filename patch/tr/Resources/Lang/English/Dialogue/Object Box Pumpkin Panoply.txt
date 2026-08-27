@@ -1,0 +1,5 @@
+* (Muhurlu tahta bir sandik.)[w:07]\n* (Acmak icin ALTIN\rgerekiyor.)|* (Gizemli esya 15G'ye\ralinsin mi?)\n        [choice:08]Evet          [choice:09]Hayir
+[noskip][hide][w:15] [next]
+[draw.box][inv.sound]* (BALKABAGI ZIRHI [color:255,255,000]ENVANTERINE[color:255,255,255]\reklendi.)
+* Artik ise yaramaz.
+* (Yeterli ALTININ yok.)

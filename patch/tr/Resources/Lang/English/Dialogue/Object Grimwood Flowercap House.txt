@@ -1,0 +1,5 @@
+* (Calinsin mi?)\n \n        Evet          Hayir[choice]
+* (Cevap yok.)
+* 
+* (Flowercap kapiyi caldigini\rgayet net duydu.)|* (Ama simdi sagir numarasi\ryapiyor.)
+* 

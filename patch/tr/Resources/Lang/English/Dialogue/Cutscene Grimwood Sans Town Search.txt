@@ -1,0 +1,23 @@
+[draw.portrait][draw.box][s]* MERHABA?[w:07]\n* HERKES IYI MI?
+[grimwood.sans.anim:14][set.portrait:18]* BANA SOYLENDI KI...
+[grimwood.sans.anim:13][set.portrait:17]* ...
+[pause:999][set.camera.progression:02] [next]
+[draw.portrait][draw.box][s][set.portrait:25]* ... KIMSE YOK...
+[set.portrait:26]* ...
+[pause:045][set.camera.progression:04] [next]
+[draw.portrait][draw.box.noskip][s][set.portrait:19]* ALPHYS![w:07]\n* ALPHYS,[w:07] CABUK GEL! [w:18] [next]
+[set.portrait:25]* BIR SEY...[w:18] [next]
+[set.portrait:19]* KASABADA BIR SEY\rKONTROLDEN\rCIKTI![w:20] [next]
+[set.camera.progression:05] [next]
+[a][set.portrait:02]* Yavasla, Sans![w:07]\n* Yoldayim!
+[set.portrait:03]* Oldugun yerde kal!
+[s][set.portrait:24]* HER SEY...
+[set.portrait:31][effect:shake,0]* KIMSE CEVAP VERMIYOR![effect:shake,0]
+[grimwood.sans.anim:35][set.portrait:24]* BUNU NE YAPTI\rBILMIYORUM!
+[a][grimwood.sans.anim:35][set.portrait:11]* Oradan cikman\rlazim, Sans!!
+[s][set.portrait:26]* KIMSEYI BULAMIYORUM,[w:07]\rVE...
+[grimwood.sans.anim:35][pause:045] [next]
+[draw.portrait][draw.box][s][set.portrait:24]* OLAMAZ.[w:07]\n* PAPYRUS?[w:07] NEREDE\r[effect:shake,1]PAPYRUS[effect:shake,0]?!
+* BULUSACAGIMIZI\rSOYLEMISTIK...
+[a][set.portrait:15]* Sans![w:07]\n* Senin [next]
+[set.camera.progression:06]

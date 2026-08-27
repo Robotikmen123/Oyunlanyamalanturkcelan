@@ -1,0 +1,2 @@
+[speed:090]*  A r k a n d a .[speed:030]|[grimwood.event.papyrus.chase.start]
+* (Fena halde sessiz.)

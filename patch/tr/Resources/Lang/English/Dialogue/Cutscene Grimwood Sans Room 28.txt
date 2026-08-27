@@ -1,0 +1,3 @@
+[draw.box][s]* (KASABA...)
+* (...KAYBOLMALARLA ILGILI\rOLABILIR MI..?)
+[set.camera.progression:01]

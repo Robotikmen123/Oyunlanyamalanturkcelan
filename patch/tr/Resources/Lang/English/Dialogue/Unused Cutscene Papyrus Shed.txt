@@ -1,0 +1,59 @@
+[p]* kari seviyorum.
+* yururken cikardigi citirtiyi\rseviyorum.
+* kardan adam yapmak eglenceli,[w:07]\rkardesim bunda benden cok\rdaha iyi olsa da.
+* bazi insanlar kari sevmez.[w:07]\rkalin giysileri de\rsevmezler.
+* ama bununla basa cikmak\rzorundalar,[w:07] yoksa acidan\ruyusuyorlar.
+* heh.
+* ne sanslilar, degil mi?
+[grimwood.cutscene.papyrus.shed.1] [next]
+[show]* onlari oldurdum.
+* hepsini oldurdum.
+* biraz zaman aldi,[w:07] kesinlikle.
+* bagisiklik kazanmak icin kucuk\rdozlarda zehir almak gibiydi.
+* haftalarca ormanda saklanip\rbirinin gelmesini\rbekledim.
+* sonra onlari didiklerdim.[w:07]\ryavasca,[w:07] dikkatlice.
+* cogu direndi,[w:07] ama sonunda\rhepsi pes etti.
+* ve devam ettikce...[w:07]\n* bunda daha iyi oldum.
+* cigliklari kisaldi,[w:07]\rve aksam yemegine evdeydim.
+* o zaman tek zor kisim\rkendimi temiz tutmakti.
+* kendimden nefret ediyorum.\n[w:07]* ve seni sucluyorum.
+* hissettigim aciyi senin de\rhissetmeni saglayacagim.
+* bu surecte kendimi tamamen\rkaybetmek anlamina gelse bile.
+* ve isim bittiginde,[w:07] ve\rherkes gittiginde...
+* seni paramparca edecegim.[w:07]\n* hic dogmamis olmayi\rdilemeni saglayacagim.
+* sana olumden yeniden\rkorkmayi ogretecegim.
+* ve bir daha asla zerre kadar\rkontrolun olmamasini\rsaglayacagim.
+* o andan itibaren,[w:07] benim\rkurallarimla oynayacaksin.
+* ve ancak tatmin oldugumda\rolmene izin verecegim.
+* anlasildi mi?
+[pause:090] [next]
+[show]* ve bilesin diye...
+* bunu sana sadece hasta\roldugun icin soyluyorum.
+* biliyorum ki sorularin varsa,[w:07]\rcevaplarini bulursun.
+* bu yuzden ayni fikirde\rolmamiza sevindim.
+* rahatina bak,[w:07] isim bitince\rseni bulurum.
+* bir ickiye ihtiyacim var.
+[pause:090] [grimwood.cutscene.papyrus.shed.2] [pause:120] [next]
+[font:0][voice:0][speed:66]   [w:12]   [next]
+[show]* (Tamamen karanlikta\rkaldin.)
+[pause:120] [next]
+[show]* (Kendin olarak yapabilecegin\rcok sey yok[w:18].)
+[pause:090] [next]
+[show]* (Gozlerini kapatmaya karar\rverdin.)
+* (Ve PAPYRUS'un[w:16] ne yaptigini\rdusun.)
+[pause:120] [next]
+[show]* (... Ama yine de,[w:16] bir sey bulmak\rzor.)
+* (Bir kez olsun,[w:07] dunyaya dair\ranlayisin yanlis.)
+* (Simdiye dek tanistigin\rbaska birini dusunuyorsun...)
+* (Ama aklina hicbir sey gelmiyor.)
+* (Hafizan seni yaniltiyor.)
+* (Sanki bu insanlari hic\rtanimiyormussun gibi.)
+* (Zaten onlari hic\rtanimadin ki.)
+* (Yine de,[w:07] bir sey bulmaya\rcalisiyorsun...[w:16] dusunecek\rbirini.)
+* (Bir goruntu,[w:07] cok soluk,[w:07] belirmeye\rbasliyor.)
+* (Tanidigini sandigin biri.)
+* (Bu goruntuye zihninde\rtutunmaya karar veriyorsun.)
+* (Cunku bu noktada,[w:07] hayatta\rkalmak istiyorsan...)
+[pause:060] [next]
+[show]* (Tek umudun onlar olabilir.)
+[pause:090] [grimwood.cutscene.papyrus.shed.3]

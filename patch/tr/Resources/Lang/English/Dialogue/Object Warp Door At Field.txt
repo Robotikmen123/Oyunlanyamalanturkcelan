@@ -1,0 +1,2 @@
+* Gol Kiyisi'na gitmek ister\rmisin?\n        [choice:17]Evet            [choice:13]Hayir
+* Emin misin?\n \n      [choice:17]Gayet eminim!       [choice:15]Hayir

@@ -1,0 +1,1 @@
+[draw.portrait][s][set.portrait:23][speed:060]* ...|[s][set.portrait:25]* PAPYRUS?|[set.camera.progression:01]

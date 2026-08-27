@@ -1,0 +1,39 @@
++[draw.box][p][voice:9][speed:060]* bana bak.
++* bana ne yaptirdigina\rbak.
++* BANA BAK.
++* ...
++* ozel oldugunu mu saniyorsun?
++* geri kalanimizin HICBIR SEY\rifade etmedigini?
++* senden nefret ediyorum.
++* seninle ilgili her seyden nefret ediyorum.
++* ...
++* ikimiz de bunun nereye\rgittigini biliyoruz.
++* seni[w:10] OLDURECEGIM[w:10].
++[set.camera.progression:02]
++
++
++
++
++
++
++
++[draw.box][p][speed:030]* seni [effect:shake,1]LANET VELET[effect:shake,0]!
++* bir [effect:shake,0]SAVASIN[effect:shake,0] seni kurtarabilecegini\rmi saniyorsun?!
++[pause:010]
++[draw.box][p][effect:shake,0]* HADI ama![w:07]\n* nerede o ruh [effect:shake,1]SIMDI?! [w:20] [next]
++[set.camera.progression:06]
++[draw.box][p][effect:shake,2]* [xscale:40][yscale:40]CEVAP VER!
++[pause:120] [next]
++[draw.box][p][effect:shake,0][xscale:20][yscale:20]* . . .
++[pause:090][set.camera.progression:08] [next]
++[draw.box]* ben mi...?
++[pause:090] [next]
++[draw.box][p]* heh.[w:07] heh heh heh...
++[set.camera.progression:09]* hadi.[w:07] yap sunu.
++* tekrar dene.
++* bu hicbir seyi degistirmiyor.
++* ben kazanacagim.
++* seni yenecegim.
++* baska hicbir sey onemli degil.
++[noskip][speed:090][effect:shake,0][snd.stop.all]* [color:255,000,000]KAZANANA[color:255,255,255] kadar\rbunu birakmayacagim.
++[set.camera.progression:10]

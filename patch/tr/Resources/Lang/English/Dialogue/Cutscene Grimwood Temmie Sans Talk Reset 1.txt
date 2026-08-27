@@ -1,0 +1,44 @@
+[draw.portrait][draw.box][t][voice:6][effect:shake,2][expression:00]* [xscale:99][yscale:60]SAS!
+[pause:060][set.camera.progression:01] [next]
+[draw.portrait][draw.box][t][voice:6][effect:shake,1][scale:20][grimwood.temmie.anim:13][grimwood.temmie.effect:01][expression:03]* HOOOOOOIIiiiiii!
+[s][set.camera.progression:02][set.portrait:18][effect:shake,0][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* OH,[w:07] TEMMIE![w:07]\n* NE KADAR ZAMAN\rOLDU!
+[set.portrait:00]* NASIL\rGIDIYOR?
+[t][grimwood.sans.anim:13][voice:6][expression:04]* iyiyim ama SEN burda\rne yapiyon
+[expression:05]* senii bulmam bi\rasir surdu
+[s]* SADECE BURAYA GETIREN\rBAZI AYAK IZLERINI\rTAKIP ETTIM.
+* BU BULMACALAR KIME AIT\rBILMIYORUM,
+* AMA YARDIM EDIP ONLARI\rSIFIRLAYABILECEGIMI\rSANDIM.
+[t][voice:6][expression:07]* tamam neyse
+[grimwood.temmie.anim:20][expression:02]* SAS
+[expression:05]* KSABAYA gitmen\rlazm
+[s][set.portrait:10][grimwood.temmie.frame:00]* KASABA MI?
+[set.portrait:03]* NE OLDU?[w:07]\n* BIR SORUN MU\rVAR?
+[t][voice:6][grimwood.temmie.effect:02][expression:05]* kasba...[w:07]\n* herkez...
+[grimwood.temmie.anim:23][grimwood.temmie.effect:03][expression:11]* insanlar YARALI!
+[s][set.portrait:10][grimwood.temmie.effect:00]* INSANLAR MI YARALI?
+[t][voice:6][grimwood.temmie.anim:17][grimwood.temmie.effect:02][expression:03]* yaYA!
+[grimwood.temmie.anim:03][expression:00]* gidip yardim\retmelisin!
+[s][set.portrait:18][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* TAMAM![w:07]\n* BENI UYARDIGIN ICIN\rTESEKKURLER!
+[set.portrait:00]* IS BENDE!
+[pause:030][set.camera.progression:03] [grimwood.temmie.effect:04] [w:15] [next]
+[draw.portrait][draw.box][t][grimwood.sans.dir:08][grimwood.sans.frame:00][voice:6][grimwood.temmie.anim:22][grimwood.temmie.dir:24][expression:02]* dur [effect:shake,1][xscale:60]DUR
+[effect:shake,0][xscale:20][update.tem.pos][grimwood.temmie.effect:01][expression:12]* hayirhayirhayir[w:07]\n* dur artik DUR [xscale:90]ARTIK[xscale:20]
+[s][set.portrait:03][grimwood.temmie.effect:00]* NE?[w:07]\n* AMA SEN DEMISTIN [next]
+[t][voice:6][expression:02]* yaya tem oyle dedi\rama BAK
+[pause:015][grimwood.temmie.anim:12][grimwood.temmie.frame:00][grimwood.temmie.effect:05] [next]
+[draw.portrait][draw.box][t][expression:02]* suna bak[w:07]\n* [xscale:40]hele[xscale:20]
+[pause:999][grimwood.sans.anim:00][grimwood.sans.dir:00][grimwood.sans.frame:00][set.camera.progression:04] [next]
+[draw.portrait][draw.box][t][grimwood.temmie.anim:17][update.tem.pos][grimwood.temmie.effect:01][expression:03]* [xscale:67][yscale:30]KISAYOL
+[s][set.portrait:10][xscale:20][yscale:20][grimwood.temmie.anim:00]* OH!
+[pause:999][set.camera.progression:05] [next]
+[draw.portrait][draw.box][t][voice:6][update.tem.pos][grimwood.temmie.effect:02]* bu senii[w:07] kasabaya\rgoturur
+[grimwood.temmie.anim:16][grimwood.temmie.dir:16][grimwood.temmie.effect:03][expression:03]*[xscale:60] [effect:shake,3]HEMEN GIT[xscale:20]
+[s][grimwood.sans.anim:15][set.portrait:18][effect:shake,0][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* SAG OL, TEMMIE!
+[pause:999][set.camera.progression:07] [next]
+[draw.portrait][draw.box][t][voice:4][pitch:24000][expression:14]* Iste gidiyor.[w:07] Yine.
+* ... yine de,[w:07] komik.
+* Bu sefer...[w:07] daha az emin\rhissediyorum.
+* Sanki iki yone de\rgidebilirmis gibi,[w:07] acikcasi.
+[pause:060] [next]
+[draw.portrait][draw.box][t][voice:4][pitch:24000][expression:08]* Neyse.[w:07]\n* Yine de hazirlansam\riyi olur.
+[set.camera.progression:09]

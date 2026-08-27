@@ -1,0 +1,13 @@
+* ...Defol buradan,[w:07] evlat.|* Bu ormanlar senin gibi biri\ricin degil.|* Yeterince tecruben yoksa,[w:07]\rkulubede kalman daha\riyi olur.|* Giris, geldigin yerin\rkuzeybatisinda,|* Ama iceri girmek icin o iskelete\rsorman gerekecek.|* Git onunla konus.|\n     [choice:18]Bir sey            [choice:19]Ayril\n     yakaladin mi
+* Balikcilik hep yasaldi,[w:07]\rcogu tabu saysa bile.|* Ben de burada yapiyorum.[w:07] Huzur\rbulabildigim yerde.|* O yuzden benimle alay etme.[w:07]\n* Bir cocuktan ahlak dersi\rdinlemeye ihtiyacim yok.|* Yuzeyde bunu yapmak\rnormaldi.|* Bazilari icin,[w:07] hatta bir spor\rsayilirdi.|* Bahse girerim ailen bunu sana\rhic soylemedi,[w:07] degil mi?|* ...tch.[w:07] Nasil yapabildiler?|\n   [choice:20]Iyi misin      [choice:21]Dikkatli\n                     olmalisin
+* ...|* Fark etmez.|* Gunun sonunda,[w:07] hicbirimiz\rdegiliz.|* Bu dagda sikisip kaldik.[w:07]\n* Buradan gitmeyecegiz.|* Duygularimizi gulumsemeyle\rgizlemeye degmez.|* Bunu onlemek icin yapabilecegimiz\rbunca sey varken olmaz.|\n    [choice:21]Dikkatli         [choice:19]Ayril\n    olmalisin
+* Kaybolmalar benim icin hicbir\ranlam ifade etmiyor.|* Daha once de oldu,[w:07] biliyorsun.|* Bazilari Grimwood'un insanlari\rdiri diri yedigini soyler.|* Lanet aptallar.[w:07]\n* Bu ormanlar oyun bahcesi\rdegil.|* Bu dagin tamami bir mezar.[w:07]\n* Hic kimse icin guvenli\rolmadi.|* Orada yasayarak isleri daha da\rkotulestirdik.|* Ve sira bendeyse,[w:07] varsin oyle olsun.|\n   [choice:20]Iyi misin          [choice:19]Ayril
+
+* Dur.
+* ...Disarida dikkatli ol.
+* Sen gencsin.[w:07] Bu ormanlarin\rtehlikelerini\ranlayamazsin.
+* Tam olarak degil.
+* Kendi dusuncelerinde kaybolmak\rkolaydir.
+* Ama bu baskalarinin pahasina\rolmamali.
+* Ya da en azindan,[w:07] kendime\rboyle soyluyorum.
+* Iyi sanslar.

@@ -1,0 +1,33 @@
+[draw.portrait][draw.box][t][voice:6][effect:shake,2]* [xscale:99][yscale:60]SAS!
+[pause:060][set.camera.progression:01] [next]
+[draw.portrait][draw.box][t][voice:6][effect:shake,1][scale:20]* HOOOOOOIIiiiiii!
+[s][set.camera.progression:02][set.portrait:18][effect:shake,0]* OH,[w:07] TEMMIE![w:07]\n* NE KADAR ZAMAN\rOLDU!
+[set.portrait:00]* NASIL\rGIDIYOR?
+[t][voice:6][grimwood.sans.anim:13]* onun icin VAKIT\ryok
+* SAS
+* KSABAYA gitmen\rlazm
+[s][set.portrait:10]* KASABA MI?
+[set.portrait:03]* NE OLDU?[w:07]\n* BIR SORUN MU\rVAR?
+[t][voice:6]* kasba...[w:07]\n* herkez...
+* insanlar YARALI!
+[s][set.portrait:10]* INSANLAR MI YARALI?
+[t][voice:6]* yaYA!
+* gidip yardim\retmelisin!
+[s][set.portrait:18]* TAMAM![w:07]\n* BENI UYARDIGIN ICIN\rTESEKKURLER!
+[set.portrait:00]* IS BENDE!
+[pause:045][set.camera.progression:03] [next]
+[draw.portrait][draw.box][t][voice:6]* dur [effect:shake,1][xscale:60]DUR
+[effect:shake,0][xscale:20]* hayirhayirhayir[w:07]\n* dur DUR ARTIK
+[s][set.portrait:03]* NE?[w:07]\n* AMA SEN DEMISTIN [next]
+[t][voice:6]* yaya tem oyle dedi\rama ben BISEY biliyom
+* bir [yscale:50]KISAYOL
+[s][set.portrait:10][yscale:20]* OH!
+[t][voice:6]* DOGU,YA git[w:07] seni kasabaya\rgoturur
+*[xscale:60] [effect:shake,1]HEMEN GIT[xscale:20]
+[s][set.portrait:18][effect:shake,0]* SAG OL, TEMMIE!
+[pause:150][set.camera.progression:04] [next]
+[hide.portrait][draw.box][t][voice:4][pitch:24000]* Oh,[w:07] cok kolay!
+* Neredeyse kotu hissediyorum.
+* Neyse...[w:07]\n* Olan oldu.
+* Bakalim simdi hazir misin,[w:07]\rPapyrus.
+[set.camera.progression:05]

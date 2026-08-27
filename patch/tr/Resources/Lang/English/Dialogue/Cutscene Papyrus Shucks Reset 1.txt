@@ -1,0 +1,21 @@
+[p]* onlari oldurdum.
+* hepsini oldurdum.
+* gercekten alismam biraz\rzaman aldi.
+* sende olmayana sahip\rolmam gerekiyordu.
+* sabir benim anahtarimdi.
+* sen ortaya cikana kadar\rmuhafizlarla risk\ralamazdim.
+* biriyle yalniz kalma sansi\ricin ormanda saatlerce\rbekledim.
+* ... ama bir sekilde,[w:07] bir sekilde\rbiliyordum.
+* yeterince hizli\rgitmedigimi.
+[pause:060] [next]
+[show]* yikik ev mukemmeldi.[w:07]\rissiz.
+* ... kolay.
+* yasli adami gectikten sonra,[w:07]\rkendimi salivermek icin\rmukemmel zamandi.
+* ne kadar guclu oldugumu\rsana gostermek icin sabirsizlaniyorum.
+* ... ama hazir degilim.
+* ve sen de degilsin.
+[pause:075] [next]
+[show]* hala vakit var.
+* ve bundan en iyi sekilde\ryararlanmayi planliyorum.
+[grimwood.cutscene.papyrus.shed.4] [grimwood.cutscene.papyrus.shed.2] [pause:120] [next]
+[grimwood.cutscene.papyrus.shed.3]

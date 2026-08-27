@@ -1,0 +1,40 @@
+[draw.portrait][draw.box][s]* HEY, KAPTAN!
+[set.portrait:18]* SADECE GUNLUK\rRAPORUMU VERMEK ICIN\rARIYORUM.
+[a][set.portrait:18]* Bunu yapmak zorunda\rdegildin,[w:07] Sans.
+* Bugun tatil,\rhatirladin mi?
+[s][grimwood.sans.anim:15][set.portrait:18]* BILIYORUM,[w:07] AMA BU BENI\rMUHAFIZLARA HIZMET ETMEKTEN\rALIKOYMAYACAK!
+[grimwood.sans.progress.02][set.portrait:00]* TUM BULMACALARI\rSIFIRLADIM,[w:07] TUM TUZAKLARI\rKURDUM...
+* VE HER YERE ILAN\rBIRAKIYORUM!
+* BIRINI GORURLERSE,[w:07]\rONLARI ARADIGIMIZI\rANLARLAR!
+[grimwood.sans.progress.04][set.portrait:18]* VE ONLARI AILELERIYLE\rYENIDEN\rBULUSTURABILIRIZ!
+[a][set.portrait:19]* Ben...[w:07] Tesekkur ederim.
+* Muhafizliga olan\radanmisligin kabul\redildi.
+[set.portrait:18]* Simdi lutfen,[w:07] iznin\rtadini cikar.
+[s][grimwood.sans.anim:16][set.portrait:16]* EDECEGIM!
+[grimwood.sans.anim:20][set.portrait:00]* KAMERALARI NASIL\rONARACAGIMI\rCOZDUKTEN SONRA!
+[a][grimwood.sans.anim:19][grimwood.sans.frame:00][set.portrait:20]* Sans.[w:07]\n* Ne yaptigini\rbiliyorum.
+[s][grimwood.sans.anim:20][set.portrait:18]* TABII KI!
+[set.portrait:11]* HER ZAMAN ELIMDEN\rGELENI YAPIYORUM!
+[a][grimwood.sans.anim:19][grimwood.sans.frame:00][set.portrait:16]* Hayir,[w:07] bunu raporlar\ryuzunden\ryapiyorsun.
+[grimwood.sans.dir:08][grimwood.sans.frame:00]* En son ne zaman\rizin yaptin?
+[s][grimwood.sans.dir:08][grimwood.sans.frame:00][set.portrait:18]* BEN...
+[grimwood.sans.anim:18][grimwood.sans.dir:00][set.portrait:05]* . . .
+[grimwood.sans.anim:20][set.portrait:00]* KARDESIMLE BEN\rEKSTRA SIKI\rARIYORUZ!
+[grimwood.sans.anim:21][set.portrait:01]* ORMANDA DOLASARAK\rSAATLER\rHARCANDI...
+[set.portrait:18]* HER KOSE BUCAGI\rARIYORUM!
+[grimwood.sans.anim:14][set.portrait:00]* KAYIP INSANLARI\rBULACAGIZ!
+[a][grimwood.sans.anim:19][grimwood.sans.frame:00][set.portrait:16]* Sans,[w:07] kendini fazla\ryipratiyorsun.
+[grimwood.sans.dir:08][grimwood.sans.frame:00][set.portrait:16]* Papyrus bu hafta iki kez\rbana gelip mola vermeni\rsoylemem gerektigini soyledi.
+* Bunun uzerine bu kadar\rtakilmak sagligin icin\riyi degil.
+* Dinlenmen gerek.
+* Onlari bulacagiz,[w:07]\rsoz veriyorum.
+* Ama simdilik,[w:07] sadece rahatla.[w:12]\n* En azindan bugunluk.
+[s][set.portrait:06]* AMA...
+[a][set.portrait:13]* Bu bir emir.
+[s][grimwood.sans.anim:18][set.portrait:23]* . . .
+[grimwood.sans.anim:19][grimwood.sans.dir:08][grimwood.sans.frame:00][set.portrait:14]* TAMAM,[w:07] ALPHYS.
+[a][set.portrait:18]* ...Tesekkur ederim.[w:07]\n* Yarin gorusuruz.
+[s][set.portrait:05]* YARIN\rGORUSURUZ.
+[pause:060] [set.camera.progression:02] [pause:075] [next]
+[draw.box][set.camera.progression:04][font:0][voice:0][inv.sound]* (Canavar Sakizi envanterine\reklendi.)
+[inv.sound]* (10G aldin.)

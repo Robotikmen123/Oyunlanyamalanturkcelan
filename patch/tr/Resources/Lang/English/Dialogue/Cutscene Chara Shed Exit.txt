@@ -1,0 +1,5 @@
+[draw.box]* (Kapi kilitli.)
+* (Sans'in eli titriyor.)
+* (...)
+* (Kapi kilitli degil.)
+[set.camera.progression:04]

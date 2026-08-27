@@ -1,0 +1,5 @@
+* (Calinsin mi?)\n \n        Evet          Hayir[choice]
+* (Cevap yok.)
+* 
+* Ama kimse gelmedi.
+* 
