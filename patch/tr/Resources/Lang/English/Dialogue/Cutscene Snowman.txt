@@ -6,7 +6,7 @@
 [s][set.portrait:00]* TATIL, ISI SAVSAKLAMAK\rICIN BIR BAHANE\rDEGIL!
 [p][set.portrait:01]* bunu kopeklere soyle.
 [s][grimwood.sans.anim:14][set.portrait:11]* OH,[w:07] SAKIN\rBASLAMA!
-[set.portrait:01]* I KNOW YOU'RE JUST\rDYING TO HEAD TO\rMUFFET'S!
+[set.portrait:01]* MUFFET'IN YERINE\rGITMEK ICIN CAN\rATTIGINI BILIYORUM!
 [grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:00]* MUHAFIZLAR BUGUN\rGOREVDE OLMAYABILIR...
 * AMA OYLEYMIS GIBI\rDAVRANACAGIZ!
 [p][set.portrait:00]* tamam.
@@ -23,8 +23,8 @@
 [draw.portrait][draw.box][s][grimwood.sans.anim:31][grimwood.sans.frame:05][grimwood.papyrus.anim:17][grimwood.papyrus.frame:02][set.portrait:07]* SADECE SEY DIYE\rSORUYORDUM...
 [grimwood.papyrus.anim:17][grimwood.papyrus.frame:01][set.portrait:05]* ONLARIN ARAMALARI DA\rBASARILI\rOLMADI.
 [p][grimwood.papyrus.frame:00][set.portrait:01]* tamam.
-[s][set.portrait:08]* DON'T "OK" ME!
-[set.portrait:07]* I'M CONCERNED.\n[w:07]* IT'S NOT LIKE PEOPLE\rTO JUST DISAPPEAR.
+[s][set.portrait:08]* BANA "TAMAM" DEME!
+[set.portrait:07]* ENDISELIYIM.\n[w:07]* OYLECE KAYBOLMAK\rINSANLARA GORE DEGIL.
 [p][grimwood.papyrus.frame:04][set.portrait:01]* bilmem.[w:07] olabiliyor\rboyle seyler.
 [p][grimwood.papyrus.frame:03][set.portrait:00]* karin altinda mahsur\rkaldigin zamani\rhatirliyor musun?
 [p][set.portrait:01]* herkesin basina\rgelebilirdi.
@@ -33,7 +33,7 @@
 [s][grimwood.papyrus.frame:01][set.portrait:06]* BU NEDEN DAHA\rCIDDIYE\rALINMIYOR?
 [p][grimwood.papyrus.frame:04][set.portrait:01]* bilmem.
 [s][grimwood.papyrus.frame:02][set.portrait:03]* BUGUN NEYIN\rVAR SENIN?
-[set.portrait:06]* YOU'VE BEEN SO\rGRUMPY ALL DAY!
+[set.portrait:06]* BUTUN GUN COK\rHUYSUZDUN!
 [p][grimwood.papyrus.frame:00][set.portrait:00]* hayir, yapmadim.
 [s][grimwood.sans.frame:07][set.portrait:18]* EVET, YAPTIN![w:07]\n* SU AN\rHUYSUZSUN!
 [p][grimwood.sans.frame:05][grimwood.papyrus.frame:01][set.portrait:02]* sadece kardan adamima\rdaha cok emek\rveriyorum.
@@ -45,43 +45,43 @@
 [draw.portrait][draw.box][s][grimwood.sans.frame:08][grimwood.papyrus.anim:17][set.portrait:10]* NE?
 [p][grimwood.papyrus.frame:02][set.portrait:03]* pek\ruyumadim.
 [s][grimwood.sans.frame:07][set.portrait:13]* HAYIR,[w:07] SENI DUYDUM.
-[set.portrait:17]* I'M JUST CONFUSED.
+[set.portrait:17]* SADECE KAFAM KARISIK.
 [grimwood.papyrus.frame:01][set.portrait:18]* SEN NE ZAMAN YETERINCE\rUYUMAMISLIK\rETTIN KI?
 [grimwood.sans.frame:05][set.portrait:06]* ...
 [grimwood.papyrus.frame:00][set.portrait:05]* PAPYRUS...
 * ... HAYIR.[w:07] TABII KI.
 [grimwood.papyrus.frame:04]* BUNU DAHA ONCE\rGORMELIYDIM!
-[set.portrait:09]* HOW COULD I NOT\rHAVE KNOWN?
+[set.portrait:09]* NASIL OLUR DA\rBILMEZDIM?
 [grimwood.papyrus.frame:00][set.portrait:06]* SEN DE EN AZ BENIM\rKADAR ENDISELISIN.
 * YUZUNDEKI IFADEDEN\rGAYET BELLI\rOLUYOR!
 [p][grimwood.papyrus.frame:03][set.portrait:00]* oyle mi?
 [s][set.portrait:01]* EVET!
 [grimwood.papyrus.frame:02][set.portrait:05]* AYLARDIR BU ORMANLARI\rKARIS KARIS\rARIYORUZ,
 * VE HALA HICBIR SEY\rBULAMADIM!
-[set.portrait:27]* IT MUST BE SO\rDRAINING FOR YOU!
+[set.portrait:27]* SENIN ICIN COK\rYIPRATICI OLMALI!
 [grimwood.cutscene.snowman.posechange.3][grimwood.papyrus.frame:01][set.portrait:01]* PAPYRUS.[w:07]\n* DERHAL EVE\rGITMELISIN!
 [grimwood.sans.anim:14][grimwood.papyrus.frame:02][set.portrait:00]* BIR SEYLERE TAKINTILI\rOLMAK SAGLIGIN ICIN\rKOTU.
-[set.portrait:18]* SO AS YOUR LOVING\rBROTHER...
+[set.portrait:18]* SEVGI DOLU KARDESIN\rOLARAK...
 * SANA MOLA VERMENI\rONERIYORUM!
 [p][grimwood.sans.anim:13][grimwood.papyrus.frame:01][set.portrait:01]* tamam.[w:07]\n* sag ol.
 [s][grimwood.cutscene.snowman.posechange.4][set.portrait:00]* ARAMAMIZA YARIN\rDEVAM EDEBILIRIZ.
 [p][grimwood.papyrus.dir:16][set.portrait:00]* buraya kardan adam\ryapmaya geldik\rsaniyordum.
-[s][set.portrait:18]* OH![w:07]\n* THAT'S WHAT I\rMEANT.
+[s][set.portrait:18]* OH![w:07]\n* BENIM KASTETTIGIM\rBUYDU.
 [p][set.portrait:00]* anlasildi.
 [s][grimwood.sans.anim:14][set.portrait:00]* BANA GELINCE...[w:07]\n* HALA YAPACAK ISIM\rVAR.
-[set.portrait:13]* IT MAY BE A HOLIDAY,[w:07]\rBUT ALPHYS PUT ME\rUP TO A SPECIAL TASK...
+[set.portrait:13]* TATIL OLABILIR,[w:07]\rAMA ALPHYS BENI OZEL\rBIR GOREVE VERDI...
 [p][grimwood.sans.anim:13][set.portrait:00]* oyle mi dedi?
-[s][set.portrait:18]* YES![w:07]\n* ONE SO SECRET AND\rIMPORTANT...
+[s][set.portrait:18]* EVET![w:07]\n* OYLE GIZLI VE\rONEMLI KI...
 * NE OLDUGUNU\rSOYLEYEMEM!
 [p][set.portrait:01]* tamam.
 [s][set.portrait:00]* O YUZDEN BEN GIDIYORUM!
-[set.portrait:18]* I'LL SEE YOU AT\rMUFFET'S!
+[set.portrait:18]* MUFFET'IN YERINDE\rGORUSURUZ!
 [grimwood.cutscene.snowman.1] [next]
 [draw.portrait][draw.box][p][set.portrait:00]* bana eve git demistin\rsaniyordum.
 [s][set.portrait:01]* ORASI ZATEN SENIN\rEVIN SAYILIR.
 [p][set.portrait:02]* dogru.
-[set.portrait:00]* see you,[w:07] then.
-[s][set.portrait:18]* BYE!
+[set.portrait:00]* gorusuruz,[w:07] o zaman.
+[s][set.portrait:18]* HOSCA KAL!
 [hide][grimwood.cutscene.snowman.2] [grimwood.papyrus.anim:12] [w:66] [next]
 [draw.box][p][speed:090]* ...[speed:030]
 [grimwood.cutscene.snowman.3] [grimwood.cutscene.snowman.4]

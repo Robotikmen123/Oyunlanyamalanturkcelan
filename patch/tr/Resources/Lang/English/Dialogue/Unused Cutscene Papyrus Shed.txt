@@ -6,7 +6,7 @@
 * heh.
 * ne sanslilar, degil mi?
 [grimwood.cutscene.papyrus.shed.1] [next]
-[show]* i killed them.
+[show]* onlari oldurdum.
 * hepsini oldurdum.
 * biraz zaman aldi,[w:07] kesinlikle.
 * bagisiklik kazanmak icin kucuk\rdozlarda zehir almak gibiydi.
@@ -27,7 +27,7 @@
 * ve ancak tatmin oldugumda\rolmene izin verecegim.
 * anlasildi mi?
 [pause:090] [next]
-[show]* and just so you know...
+[show]* ve bilesin diye...
 * bunu sana sadece hasta\roldugun icin soyluyorum.
 * biliyorum ki sorularin varsa,[w:07]\rcevaplarini bulursun.
 * bu yuzden ayni fikirde\rolmamiza sevindim.
@@ -35,14 +35,14 @@
 * bir ickiye ihtiyacim var.
 [pause:090] [grimwood.cutscene.papyrus.shed.2] [pause:120] [next]
 [font:0][voice:0][speed:66]   [w:12]   [next]
-[show]* (You're left in complete\rdarkness.)
+[show]* (Tamamen karanlikta\rkaldin.)
 [pause:120] [next]
-[show]* (There's not much you can\rdo[w:18] as you.)
+[show]* (Kendin olarak yapabilecegin\rcok sey yok[w:18].)
 [pause:090] [next]
-[show]* (You decided to close your\reyes.)
+[show]* (Gozlerini kapatmaya karar\rverdin.)
 * (Ve PAPYRUS'un[w:16] ne yaptigini\rdusun.)
 [pause:120] [next]
-[show]* (... But yet,[w:16] it's hard to come\rup with anything.)
+[show]* (... Ama yine de,[w:16] bir sey bulmak\rzor.)
 * (Bir kez olsun,[w:07] dunyaya dair\ranlayisin yanlis.)
 * (Simdiye dek tanistigin\rbaska birini dusunuyorsun...)
 * (Ama aklina hicbir sey gelmiyor.)
@@ -55,5 +55,5 @@
 * (Bu goruntuye zihninde\rtutunmaya karar veriyorsun.)
 * (Cunku bu noktada,[w:07] hayatta\rkalmak istiyorsan...)
 [pause:060] [next]
-[show]* (They may be your only hope.)
+[show]* (Tek umudun onlar olabilir.)
 [pause:090] [grimwood.cutscene.papyrus.shed.3]

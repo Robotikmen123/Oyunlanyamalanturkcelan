@@ -18,15 +18,20 @@ Oyun açılınca **dosya seçme ekranı** gelir. `SELECT A SAVE FILE` yerine
 - **Değişmediyse** → `Lang/` ölü. Metin `Dusttrust X.dat` içinde paketli,
   oraya girmek gerekir.
 
-## Şu an çevrili olan
+## Kapsam: TAMAMI çevrildi
 
-| Bölüm | Durum |
-|---|---|
-| Menü, başlık ve kayıt ekranı (`OW Menu.txt`) | tamam |
-| Başarımlar (`Achievements.txt`) | tamam |
-| Eşyalar (30 dosya: isim, açıklama, kullanım) | tamam |
-| Diyaloglar (90 dosya) | bekliyor |
-| Kayıt noktaları, jenerik | bekliyor |
+| Bölüm | Dosya | Durum |
+|---|---|---|
+| Menü, başlık ve kayıt ekranı | 1 | tamam |
+| Başarımlar | 1 | tamam |
+| Eşyalar (isim, açıklama, kullanım) | 30 | tamam |
+| Kayıt noktaları | 1 | tamam |
+| Jenerik | 1 | tamam |
+| Savaş | 1 | tamam |
+| Diyaloglar | 90 | tamam |
+| **Toplam** | **125** | **1400 benzersiz string** |
+
+`python3 tools/missing.py` → 0 eksik token, 0 eksik dosya.
 
 ## Çeviri kararları
 
