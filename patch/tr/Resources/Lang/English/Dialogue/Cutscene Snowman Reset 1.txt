@@ -2,58 +2,58 @@
 [p]* tamam.
 [s][grimwood.sans.anim:15][set.portrait:18]* I JUST KNOW THIS\rONE'S GONNA BE\rMAGNIFICENT!
 [grimwood.sans.frame:14]* HARIKA BIR GUN ICIN\rHARIKA BIR KARDAN ADAM\rOLMALI!
-[p][grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:01]* right.
+[p][grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:01]* dogru.
 [s][set.portrait:00]* A HOLIDAY IS NO\rEXCUSE TO SLACK\rOFF!
 [p][set.portrait:01]* tell that to the dogs.
 [s][grimwood.sans.anim:14][set.portrait:11]* OH,[w:07] DON'T YOU EVEN\rSTART!
 [set.portrait:01]* I KNOW YOU'RE JUST\rDYING TO HEAD TO\rMUFFET'S!
 [grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:00]* MUHAFIZLAR BUGUN\rGOREVDE OLMAYABILIR...
 * AMA OYLEYMIS GIBI\rDAVRANACAGIZ!
-[p][set.portrait:00]* ok.
+[p][set.portrait:00]* tamam.
 [grimwood.cutscene.snowman.0] [grimwood.cutscene.snowman.posechange.1] [grimwood.sans.anim:29] [snd.wing] [w:90] [next]
 [draw.portrait][draw.box][s][grimwood.sans.anim:31][grimwood.sans.frame:05][grimwood.papyrus.anim:17][grimwood.papyrus.frame:00][expression:05]* HEY,[w:07] PAPYRUS?
-[p][grimwood.papyrus.frame:02]* what’s up?
+[p][grimwood.papyrus.frame:02]* naber?
 [s][expression:06]* I WAS ON THE PHONE\rWITH ALPHYS EARLIER.
 [p]* tamam.
 [s][expression:06]* AND SHE SAID I\rSHOULD MAYBE TAKE A\rVACATION FROM WORK.
-[p][grimwood.papyrus.frame:03]* oh,[w:07] cool.
+[p][grimwood.papyrus.frame:03]* oh,[w:07] guzel.
 * bir tatil iyi gelirdi.
 [s][expression:18]* YEAH.[w:07] WELL...
 [grimwood.sans.frame:07][grimwood.papyrus.frame:01][expression:22]* SENIN FIKRIN OLDUGUNU\rSOYLEDI.
 [p][expression:01]* ...
 [grimwood.sans.frame:05][grimwood.papyrus.frame:02][expression:00]* evet,[w:07] onunla bu konuda\rkonustugumu\rhatirliyorum galiba.
 [s][expression:03]* WHY?
-[p][grimwood.papyrus.frame:01][expression:01]* you’ve been working\rhard.
+[p][grimwood.papyrus.frame:01][expression:01]* siki\rcalisiyorsun.
 [grimwood.papyrus.frame:03]* belki bir tatil senin icin\rguzel bir odul olur\rdiye dusundum.
 [s][expression:06]* I APPRECIATE THE\rSENTIMENT,
 [grimwood.papyrus.frame:00][expression:09]* AMA SU AN BUNUN NE\rKADAR ONEMLI OLDUGUNU\rBILIYORSUN!
 [expression:15]* HER BIRINE BENIMLE\rBIRLIKTE\rGELIYORSUN,
 [expression:06]* BU YUZDEN ZAMANLAMA\rTUHAF GELIYOR.
-[p][grimwood.papyrus.frame:02][expression:01]* i was just looking out\rfor you.
+[p][grimwood.papyrus.frame:02][expression:01]* sadece seni\rkolluyordum.
 [expression:00]* cok havalisin,[w:07]\rsenin icin guzel bir\rsey yapmak istedim.
 [grimwood.papyrus.frame:03]* bilirsin,[w:07] onemsedigimi gostermek icin.
 [s][grimwood.papyrus.frame:02][expression:03]* WHY DO YOU KEEP\rSAYING IT LIKE IT’S A\rVACATION FOR ME?
-[p][grimwood.papyrus.frame:03][expression:00]* ...well,[w:07] someone has to\rkeep watch here.[w:07] isn’t\rthat right?
+[p][grimwood.papyrus.frame:03][expression:00]* ...sey,[w:07] burada birinin\rnobet tutmasi lazim.[w:07] oyle\rdegil mi?
 [expression:02]* dedigin gibi,[w:07] bu onemli\rbir mesele.
 [expression:00]* en onemli oldugu anda\risimizi oylece\rbirakamayiz.
 [s][grimwood.papyrus.frame:02][expression:05]* I...
 [grimwood.sans.frame:07][expression:06]* SANIRIM ANLIYORUM.
-[p][grimwood.sans.frame:06][grimwood.papyrus.frame:01]* that’s awesome,[w:07] bro.
+[p][grimwood.sans.frame:06][grimwood.papyrus.frame:01]* bu harika,[w:07] kardesim.
 [grimwood.papyrus.frame:03]* cantalarini toplamana\ryardim lazim mi?
 [s][grimwood.sans.frame:07][expression:16]* NO,[w:07] I DON’T WANT TO\rGO JUST YET.
 [grimwood.sans.frame:06][grimwood.papyrus.frame:01][expression:00]* ISIMIZ BITTIGINDE,[w:07]\rBIRLIKTE TATILE\rCIKABILIRIZ!
 [p][grimwood.papyrus.frame:05][expression:01]* oh.
 [s][grimwood.papyrus.frame:02]* I APPRECIATE YOU\rLOOKING OUT FOR ME,[w:07]\rPAPYRUS.
 [expression:18]* AMA KARDESINLE HARIKA\rBIR TATILI SENDEN\rCALMAYACAGIM!
-[p][grimwood.papyrus.frame:01][expression:01]* wow.[w:07] thanks.
+[p][grimwood.papyrus.frame:01][expression:01]* vay.[w:07] sag ol.
 [s]* IT ONLY GIVES US\rSOMETHING TO LOOK\rFORWARD TO!
-[p][expression:01]* i guess.
+[p][expression:01]* sanirim.
 [pause:100][grimwood.papyrus.frame:00] [skippable] [next]
 [draw.portrait][draw.box][s][expression:03]* ... NEREYE\rGIDERDIK KI?
-[p][grimwood.papyrus.frame:01]* i dunno.
+[p][grimwood.papyrus.frame:01]* bilmem.
 [s][grimwood.sans.frame:08][expression:04]* THIS WHOLE THING\rWAS YOUR IDEA!
-[p][grimwood.papyrus.frame:03]* yeah,[w:07] guess i didn’t\rthink that far ahead.
+[p][grimwood.papyrus.frame:03]* evet,[w:07] sanirim o kadar\rilerisini dusunmemisim.
 [s][grimwood.sans.frame:06][grimwood.papyrus.frame:02][expression:16]* OH,[w:07] WELL.
 [grimwood.sans.frame:09][expression:18]* SANIRIM SIRASI\rGELDIGINDE\rDUSUNURUZ.
-[p][grimwood.sans.frame:06][grimwood.papyrus.frame:03]* ok.
+[p][grimwood.sans.frame:06][grimwood.papyrus.frame:03]* tamam.
 [hide][grimwood.cutscene.snowman.5][grimwood.sans.anim:29][grimwood.papyrus.anim:16]

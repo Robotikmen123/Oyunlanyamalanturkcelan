@@ -1,4 +1,4 @@
-[p]* want in on this?
+[p]* sen de katilmak ister misin?
 [set.camera.progression:01]
 [draw.box][p]* cok yavas.
 [set.camera.progression:03]

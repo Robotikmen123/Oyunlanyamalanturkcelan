@@ -24,18 +24,18 @@
 [p]* ...
 [t]* Don’t play with me, Papyrus!\n* You know we need to stop them!
 [effect:shake,0]* En azindan [effect:shake,1]BIR SEY\ryapmalarini saglamak icin!
-[p][effect:shake,0]* you think i haven’t tried?
+[p][effect:shake,0]* denemedim mi saniyorsun?
 [t]* Ha! Not everything!
 * Seni taniyorum, Papyrus.[w:07]\n* Ne oldugunu.
 * Sen de en az benim kadar\rcevap bulmak istiyorsun.
 * Ve onlari elde etmek icin HER SEYI\ryapardin.
-[p]* you don't know me.
+[p]* beni tanimiyorsun.
 * anlam aramaktan uzun zaman\ronce vazgectim.
 [t]* LIAR!
 * Sen kimseye benzemiyorsun.[w:07]\n* Sahip oldugun bilgiyle\rLANETLENDIN.
 * Sen olaylara farkli bakiyorsun,[w:07]\rve bu yuzden...
 * Sonuca kendi basina nasil\rvaracagini TAM OLARAK biliyorum.
-[p]* what’s that supposed to mean?
+[p]* bu ne demek simdi?
 [t][pitch:24000]* You know what I mean, Papyrus.
 * Noktalari birlestir.
 * Insan senin en buyuk\rornegin.

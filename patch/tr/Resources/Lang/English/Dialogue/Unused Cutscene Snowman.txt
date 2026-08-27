@@ -1,24 +1,24 @@
 [s]* ARE YOU READY TO CREATE\rTHE BEST SNOW SCULPTURES\rYET?
-[p]* sure.
+[p]* tabii.
 [p]* sadece merak ediyorum,[w:07] bugun\rizin gunumuz degil mi?
 [s][grimwood.sans.anim:12]* THE MAGNIFICENT SANS\rNEVER TAKES A DAY OFF!
 [s][grimwood.sans.anim:00]* EVEN WHEN IT'S SANCTIONED\rBY THE QUEEN!
-[p]* what's the deal with that\ragain?
+[p]* onun olayi neydi\rdemistin?
 [s]* THE GUARD TAKES A DAY OFF\rTO CELEBRATE THE PRINCE'S\rBIRTHDAY.
 [p]* dogru.
 [p]* kopeklerin bunun icin\rmuffet'e gitmekten bahsettigini\rduydugumu hatirliyorum galiba.
 [p]* amma buyuk bir kutlama.
 [s][grimwood.sans.anim:12]* DON'T YOU DARE THINK ABOUT\rGOING OFF DRINKING AGAIN!
-[p][grimwood.sans.anim:00]* i know,[w:07] i know.
+[p][grimwood.sans.anim:00]* biliyorum,[w:07] biliyorum.
 [p]* neyse,[w:07] neden burasi?
 [s]* BECAUSE THERE'S SNOW HERE!
 [s]* AND WE'RE BUILDING SNOWMEN.
-[p]* there's snow everywhere.[w:07]\n* we coulda done this in the\rtown.
+[p]* her yer kar.[w:07]\n* bunu kasabada da\ryapabilirdik.
 [s]* I KNOW BUT...
 [s][grimwood.sans.anim:12]* ...
 [p]* sans, neler oluyor?
 [s]* I'M JUST A LITTLE WORRIED,[w:07]\rTHAT'S ALL.
-[p]* what for?
+[p]* ne icin?
 [s]* YOU KNOW WHAT FOR.
 [s][grimwood.sans.anim:00]* THE DISAPPEARANCES!
 [p]* oh.
@@ -26,7 +26,7 @@
 [s][grimwood.sans.anim:12]* AND...[w:07] THIS IS WHERE\rSOME OF THEM WERE\rLAST SEEN.
 [s]* I WANT TO BE READY IN CASE\rANYTHING HAPPENS.
 [p]* ...
-[p]* you really don't take a day\roff,[w:07] huh?
+[p]* gercekten hic izin\ryapmiyorsun,[w:07] ha?
 [s][grimwood.sans.anim:13]* NO I DON'T!
 [s][grimwood.sans.dir:24]* SO WHAT WE'RE GONNA DO IS\rSIT HERE,
 [s]* BUILD SNOW SANSES,
@@ -41,7 +41,7 @@
 [s]* WHAT?
 [s]* YOU DIDN'T GET MUCH SLEEP\rLAST NIGHT?
 [s]* SINCE WHEN DO YOU EVER\rNOT GET ENOUGH SLEEP?
-[p]* uh...
+[p]* sey...
 [s]* PAPYRUS?
 [p]* dinle, sans, ben...[w:07]\n* sadece...
 [p]* bir sey degil, gercekten, ben...
@@ -49,12 +49,12 @@
 [s]* ...
 [s]* PAPYRUS,[w:07] COME ON...
 [s]* YOU KNOW YOU CAN JUST\rTELL ME WHEN I'M TOO MUCH\rFOR YOU.
-[p]* what?
+[p]* ne?
 [s]* THIS WAS SUPPOSED TO BE\rOUR DAY OFF,
 [s]* AND I DIDN'T CONSIDER WHAT\rYOU WANTED TO DO.
 [s]* I WAS SO HUNG UP ABOUT\rFINDING THE MISSING PEOPLE\rTHAT I...
 [p]* sans,[w:07] sorun degil.[w:07] gercekten.
-[p]* you just wanted to do what\rwas right.
+[p]* sadece dogru olani yapmak\ristedin.
 [s]* YEAH,[w:07] BUT...
 [s]* NOT WHAT WAS RIGHT FOR\rYOU.
 [s]* I'M SORRY, PAPYRUS.
@@ -65,7 +65,7 @@
 [p]* gercekten mi?
 [s]* YES,[w:07] TRY TO HAVE FUN!
 [s]* JUST NOT TOO MUCH.
-[p]* sure thing.
+[p]* tabii ki.
 [grimwood.cutscene.snowman.1] [next]
 [drawbox][p]* nereye gidiyorsun?
 [s]* I'LL PROBABLY BE HEADING\rHOME.

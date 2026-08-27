@@ -1,7 +1,7 @@
 [draw.portrait][p]* evet, ben de dedim ki:\r[w:07]"o ucak falan degil!"
 * "o benim karim!"
 [as][set.portrait:01]* Oh ho ho![w:07]\n* Bu iyiydi!
-[p]* thank you,[w:07] thank you.
+[p]* tesekkurler,[w:07] tesekkurler.
 * sen simdiye kadarki en iyi\rseyircimsin.
 [as][set.portrait:05]* Cok naziksin,[w:07]\rdostum.
 [set.portrait:01]* It makes me glad to\rhear you've been\rdoing well.
@@ -12,7 +12,7 @@
 * Orada neler oldugunu\rmerak ediyorum\rdogrusu.
 [set.portrait:02]* Besides,[w:07] you've told me\rso much about that crew,
 [set.portrait:01]* Without mentioning\rtheir purpose!
-[p]* well,[w:07] my brother and i\rare stationed as\rsentries.
+[p]* sey,[w:07] kardesimle ben\rnobetci olarak\rgorevlendirildik.
 * ama sey...[w:07]\n* acikcasi bunu o kadar da\rumursamiyorum.
 [as][set.portrait:02]* Nasil yani?[w:07]\n* Onemli bir is\ryapiyorsun,[w:07] oyle degil mi?
 [p]* yanlis anlama,[w:07]\n* kralligima hizmet etmekten\rmemnunum.
@@ -44,7 +44,7 @@
 [p]* ben de oyle sanmistim.[w:07]\n* ama bu konuda\rtutkulu.
 * bence gayet iyi bir\rsansi var,[w:07] acikcasi\rsoylemek gerekirse.
 [as][set.portrait:02]* Emin misin?
-[p]* yeah.[w:07] why not?
+[p]* evet.[w:07] neden olmasin?
 * kim kardesimle en iyi\rdost olmak istemez ki?
 [as][set.portrait:01]* Sanirim bunu\rduzeltemem.
 [set.portrait:00]* It's nice in a way.
@@ -54,7 +54,7 @@
 * Ve sinirlarini.
 [set.portrait:00]* Yet the way you speak\rof your brother and\rhis ambitions...
 [set.portrait:01]* I think we could have a\rlot to offer them,[w:07] if\rtimes were better.
-[p]* yeah,[w:07] well said.
+[p]* evet,[w:07] guzel dedin.
 [as]* Herkese huzur.[w:07]\n* Bu harika olmaz\rmiydi?
 [p]* olurdu.
 * herkese huzur.
