@@ -4,13 +4,13 @@
 [s][set.camera.progression:02][set.portrait:18][effect:shake,0][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* OH,[w:07] TEMMIE![w:07]\n* IT’S BEEN SO\rLONG!
 [set.portrait:00]* HOW HAVE YOU\rBEEN?
 [t][grimwood.sans.anim:13][voice:6][expression:04]* im ok but WHAT are\ru doing here
-[expression:05]* took me forever to\rfind yo u
+[expression:05]* senii bulmam bi\rasir surdu
 [s]* JUST FOLLOWED SOME\rFOOTPRINTS THAT LED\rHERE.
 * BU BULMACALAR KIME AIT\rBILMIYORUM,
 * AMA YARDIM EDIP ONLARI\rSIFIRLAYABILECEGIMI\rSANDIM.
 [t][voice:6][expression:07]* ok wthaver
 [grimwood.temmie.anim:20][expression:02]* SAS
-[expression:05]* yu hav to go to\rTOWN
+[expression:05]* KSABAYA gitmen\rlazm
 [s][set.portrait:10][grimwood.temmie.frame:00]* THE TOWN?
 [set.portrait:03]* WHAT HAPPENED?[w:07]\n* IS SOMETHING\rWRONG?
 [t][voice:6][grimwood.temmie.effect:02][expression:05]* de town...[w:07]\n* eeryone...

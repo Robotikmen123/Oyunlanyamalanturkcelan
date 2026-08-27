@@ -7,7 +7,7 @@
 [p][set.portrait:01]* tell that to the dogs.
 [s][grimwood.sans.anim:14][set.portrait:11]* OH,[w:07] DON'T YOU EVEN\rSTART!
 [set.portrait:01]* I KNOW YOU'RE JUST\rDYING TO HEAD TO\rMUFFET'S!
-[grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:00]* THE GUARD MAY NOT\rBE ON DUTY TODAY...
+[grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:00]* MUHAFIZLAR BUGUN\rGOREVDE OLMAYABILIR...
 * AMA OYLEYMIS GIBI\rDAVRANACAGIZ!
 [p][set.portrait:00]* ok.
 [grimwood.cutscene.snowman.0] [grimwood.cutscene.snowman.posechange.1] [grimwood.sans.anim:29] [snd.wing] [w:90] [next]
@@ -24,27 +24,27 @@
 [grimwood.sans.frame:05][grimwood.papyrus.frame:02][expression:00]* yeah,[w:07] i think i remember\rtalking to her about\rthat.
 [s][expression:03]* WHY?
 [p][grimwood.papyrus.frame:01][expression:01]* you’ve been working\rhard.
-[grimwood.papyrus.frame:03]* i thought maybe a\rvacation could be a\rnice reward for you.
+[grimwood.papyrus.frame:03]* belki bir tatil senin icin\rguzel bir odul olur\rdiye dusundum.
 [s][expression:06]* I APPRECIATE THE\rSENTIMENT,
-[grimwood.papyrus.frame:00][expression:09]* BUT YOU KNOW HOW\rIMPORTANT THIS IS\rRIGHT NOW!
-[expression:15]* YOU’VE BEEN COMING\rWITH ME TO EACH AND\rEVERY SINGLE ONE,
-[expression:06]* SO THE TIMING JUST\rFEELS WEIRD.
+[grimwood.papyrus.frame:00][expression:09]* AMA SU AN BUNUN NE\rKADAR ONEMLI OLDUGUNU\rBILIYORSUN!
+[expression:15]* HER BIRINE BENIMLE\rBIRLIKTE\rGELIYORSUN,
+[expression:06]* BU YUZDEN ZAMANLAMA\rTUHAF GELIYOR.
 [p][grimwood.papyrus.frame:02][expression:01]* i was just looking out\rfor you.
-[expression:00]* you’re just so cool,[w:07]\ri wanted to do\rsomething nice for you.
-[grimwood.papyrus.frame:03]* y’know,[w:07] to show i care.
+[expression:00]* cok havalisin,[w:07]\rsenin icin guzel bir\rsey yapmak istedim.
+[grimwood.papyrus.frame:03]* bilirsin,[w:07] onemsedigimi gostermek icin.
 [s][grimwood.papyrus.frame:02][expression:03]* WHY DO YOU KEEP\rSAYING IT LIKE IT’S A\rVACATION FOR ME?
 [p][grimwood.papyrus.frame:03][expression:00]* ...well,[w:07] someone has to\rkeep watch here.[w:07] isn’t\rthat right?
-[expression:02]* like you said,[w:07] this is\rimportant stuff.
-[expression:00]* we can’t just abandon\rour work when it\rmatters most.
+[expression:02]* dedigin gibi,[w:07] bu onemli\rbir mesele.
+[expression:00]* en onemli oldugu anda\risimizi oylece\rbirakamayiz.
 [s][grimwood.papyrus.frame:02][expression:05]* I...
 [grimwood.sans.frame:07][expression:06]* I THINK I UNDERSTAND.
 [p][grimwood.sans.frame:06][grimwood.papyrus.frame:01]* that’s awesome,[w:07] bro.
-[grimwood.papyrus.frame:03]* do you need help\rpacking your bags?
+[grimwood.papyrus.frame:03]* cantalarini toplamana\ryardim lazim mi?
 [s][grimwood.sans.frame:07][expression:16]* NO,[w:07] I DON’T WANT TO\rGO JUST YET.
 [grimwood.sans.frame:06][grimwood.papyrus.frame:01][expression:00]* WHEN OUR WORK IS\rDONE,[w:07] WE CAN GO ON A\rVACATION TOGETHER!
 [p][grimwood.papyrus.frame:05][expression:01]* oh.
 [s][grimwood.papyrus.frame:02]* I APPRECIATE YOU\rLOOKING OUT FOR ME,[w:07]\rPAPYRUS.
-[expression:18]* BUT I WON’T ROB YOU\rOF A GREAT VACATION\rWITH YOUR BROTHER!
+[expression:18]* AMA KARDESINLE HARIKA\rBIR TATILI SENDEN\rCALMAYACAGIM!
 [p][grimwood.papyrus.frame:01][expression:01]* wow.[w:07] thanks.
 [s]* IT ONLY GIVES US\rSOMETHING TO LOOK\rFORWARD TO!
 [p][expression:01]* i guess.

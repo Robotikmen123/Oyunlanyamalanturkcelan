@@ -22,7 +22,7 @@
 [grimwood.sans.anim:20][set.portrait:00]* ME AND MY BROTHER\rHAVE BEEN SEARCHING\rEXTRA HARD!
 [grimwood.sans.anim:21][set.portrait:01]* HOURS HAVE BEEN\rSPENT WANDERING\rTHE WOODS...
 [set.portrait:18]* SEARCHING EVERY\rNOOK AND CRANNY!
-[grimwood.sans.anim:14][set.portrait:00]* WE'LL FIND THE\rMISSING PEOPLE!
+[grimwood.sans.anim:14][set.portrait:00]* KAYIP INSANLARI\rBULACAGIZ!
 [a][grimwood.sans.anim:19][grimwood.sans.frame:00][set.portrait:16]* Sans,[w:07] kendini fazla\ryipratiyorsun.
 [grimwood.sans.dir:08][grimwood.sans.frame:00][set.portrait:16]* Papyrus came to me\rtwice this week to tell\ryou to take a break.
 * Bunun uzerine bu kadar\rtakilmak sagligin icin\riyi degil.
@@ -32,7 +32,7 @@
 [s][set.portrait:06]* BUT...
 [a][set.portrait:13]* Bu bir emir.
 [s][grimwood.sans.anim:18][set.portrait:23]* . . .
-[grimwood.sans.anim:19][grimwood.sans.dir:08][grimwood.sans.frame:00][set.portrait:14]* OKAY,[w:07] ALPHYS.
+[grimwood.sans.anim:19][grimwood.sans.dir:08][grimwood.sans.frame:00][set.portrait:14]* TAMAM,[w:07] ALPHYS.
 [a][set.portrait:18]* ...Tesekkur ederim.[w:07]\n* Yarin gorusuruz.
 [s][set.portrait:05]* I'LL SEE YOU\rTOMORROW.
 [pause:060] [set.camera.progression:02] [pause:075] [next]

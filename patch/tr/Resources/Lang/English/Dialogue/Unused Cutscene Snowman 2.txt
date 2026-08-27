@@ -7,7 +7,7 @@
 [p][set.portrait:01]* tell that to the dogs.
 [s][grimwood.sans.anim:14][set.portrait:11]* OH,[w:07] DON'T YOU EVEN\rSTART!
 [set.portrait:01]* I KNOW YOU'RE JUST\rDYING TO HEAD TO\rMUFFET'S!
-[grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:00]* THE GUARD MAY NOT\rBE ON DUTY TODAY...
+[grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:00]* MUHAFIZLAR BUGUN\rGOREVDE OLMAYABILIR...
 * AMA OYLEYMIS GIBI\rDAVRANACAGIZ!
 [p][set.portrait:00]* ok.
 [grimwood.cutscene.snowman.0] [grimwood.cutscene.snowman.posechange.1] [next]
@@ -21,7 +21,7 @@
 [s][grimwood.sans.frame:03][set.portrait:18]* OKAY.[w:07] GOOD.
 [pause:090][grimwood.sans.anim:28][grimwood.papyrus.frame:00] [pause:100][grimwood.cutscene.snowman.posechange.2][grimwood.papyrus.anim:16] [pause:045][grimwood.sans.frame:00] [next]
 [draw.portrait][draw.box][s][grimwood.sans.anim:31][grimwood.sans.frame:05][grimwood.papyrus.anim:17][grimwood.papyrus.frame:02][set.portrait:07]* SADECE SEY DIYE\rSORUYORDUM...
-[grimwood.papyrus.anim:17][grimwood.papyrus.frame:01][set.portrait:05]* I HAVEN'T SEEN\rDOGAMY IN A WHILE.
+[grimwood.papyrus.anim:17][grimwood.papyrus.frame:01][set.portrait:05]* DOGAMY'YI BIR\rSUREDIR GORMEDIM.
 [set.portrait:05]* OR DOGERESSA.
 [p][grimwood.papyrus.frame:00][set.portrait:01]* ok.
 [s][set.portrait:08]* DON'T "OK" ME!
@@ -42,21 +42,21 @@
 [p][grimwood.papyrus.frame:02][set.portrait:03]* i didn't sleep\rmuch.
 [s][grimwood.sans.frame:07][set.portrait:13]* NO,[w:07] I HEARD YOU.
 [set.portrait:17]* I'M JUST CONFUSED.
-[grimwood.papyrus.frame:01][set.portrait:18]* WHEN DO YOU EVER\rNOT GET ENOUGH\rSLEEP?
+[grimwood.papyrus.frame:01][set.portrait:18]* SEN NE ZAMAN YETERINCE\rUYUMAMISLIK\rETTIN KI?
 [grimwood.sans.frame:05][set.portrait:06]* ...
 [grimwood.papyrus.frame:00][set.portrait:05]* PAPYRUS...
 * ... HAYIR.[w:07] TABII KI.
-[grimwood.papyrus.frame:04]* I SHOULD HAVE\rSEEN IT SOONER!
+[grimwood.papyrus.frame:04]* BUNU DAHA ONCE\rGORMELIYDIM!
 [set.portrait:09]* HOW COULD I NOT\rHAVE KNOWN?
-[grimwood.papyrus.frame:00][set.portrait:06]* YOU'RE JUST AS\rCONCERNED AS I AM.
+[grimwood.papyrus.frame:00][set.portrait:06]* SEN DE EN AZ BENIM\rKADAR ENDISELISIN.
 * YUZUNDEKI IFADEDEN\rGAYET BELLI\rOLUYOR!
 [p][grimwood.papyrus.frame:03][set.portrait:00]* it is?
 [s][set.portrait:01]* YES!
-[grimwood.papyrus.frame:02][set.portrait:05]* WE'VE BEEN SCOURING\rTHESE WOODS FOR\rMONTHS,
+[grimwood.papyrus.frame:02][set.portrait:05]* AYLARDIR BU ORMANLARI\rKARIS KARIS\rARIYORUZ,
 * VE HALA HICBIR SEY\rBULAMADIM!
 [set.portrait:27]* IT MUST BE SO\rDRAINING FOR YOU!
-[grimwood.cutscene.snowman.posechange.3][grimwood.papyrus.frame:01][set.portrait:01]* PAPYRUS.[w:07]\n* YOU MUST GO HOME\rIMMEDIATELY!
-[grimwood.sans.anim:14][grimwood.papyrus.frame:02][set.portrait:00]* OBSESSING OVER\rTHINGS IS BAD FOR\rYOUR HEALTH.
+[grimwood.cutscene.snowman.posechange.3][grimwood.papyrus.frame:01][set.portrait:01]* PAPYRUS.[w:07]\n* DERHAL EVE\rGITMELISIN!
+[grimwood.sans.anim:14][grimwood.papyrus.frame:02][set.portrait:00]* BIR SEYLERE TAKINTILI\rOLMAK SAGLIGIN ICIN\rKOTU.
 [set.portrait:18]* SO AS YOUR LOVING\rBROTHER...
 * SANA MOLA VERMENI\rONERIYORUM!
 [p][grimwood.sans.anim:13][grimwood.papyrus.frame:01][set.portrait:01]* ok.[w:07]\n* thanks.

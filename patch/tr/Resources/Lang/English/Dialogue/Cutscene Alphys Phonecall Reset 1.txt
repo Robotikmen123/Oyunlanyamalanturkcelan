@@ -5,7 +5,7 @@
 [s][grimwood.sans.anim:15][set.portrait:18]* I KNOW,[w:07] BUT THAT\rWON'T STOP ME FROM\rSERVING THE GUARD!
 [grimwood.sans.progress.02][set.portrait:00]* I RESET ALL THE\rPUZZLES,[w:07] ACTIVATED\rALL THE TRAPS...
 * VE HER YERE ILAN\rBIRAKIYORUM!
-[expression:18]* IF THEY SEE ONE,[w:07]\rTHEY’LL KNOW WE’RE\rLOOKING FOR THEM!
+[expression:18]* BIRINI GORURLERSE,[w:07]\rONLARI ARADIGIMIZI\rANLARLAR!
 [grimwood.sans.progress.04]* AND WE CAN REUNITE\rTHEM WITH THEIR\rFAMILIES!
 [a][set.portrait:19]* Ben...[w:07] Tesekkur ederim.
 * Muhafizliga olan\radanmisligin kabul\redildi.
@@ -22,7 +22,7 @@
 [grimwood.sans.anim:20][set.portrait:00]* ME AND MY BROTHER\rHAVE BEEN SEARCHING\rEXTRA HARD!
 [grimwood.sans.anim:21][set.portrait:01]* HOURS HAVE BEEN\rSPENT WANDERING\rTHE WOODS...
 [set.portrait:18]* SEARCHING EVERY\rNOOK AND CRANNY!
-[grimwood.sans.anim:14][set.portrait:00]* WE'LL FIND THE\rMISSING PEOPLE!
+[grimwood.sans.anim:14][set.portrait:00]* KAYIP INSANLARI\rBULACAGIZ!
 [a][grimwood.sans.anim:19][grimwood.sans.frame:00][set.portrait:16]* Sans,[w:07] kendini fazla\ryipratiyorsun.
 [grimwood.sans.dir:08][grimwood.sans.frame:00][set.portrait:16]* Papyrus came to me\rtwice this week to tell\ryou to take a break.
 [s][set.portrait:06]* ... HE DID?
@@ -32,7 +32,7 @@
 [a][set.portrait:16]* Seni\rkolluyordu.
 * Kendini ne kadar zorladigini\rgayet acik bir sekilde\rbelirtti.
 [s][set.portrait:06]* ...
-[expression:09]* WHY DIDN’T HE SAY\rANYTHING TO ME,[w:07]\rTHEN?
+[expression:09]* PEKI O ZAMAN,[w:07]\rNEDEN BANA HICBIR\rSEY SOYLEMEDI?
 [a][set.portrait:16]* ... Sanirim seni uzmek\ristemiyor,[w:07] Sans.
 * Hatta sana bu yil bir\rucretli izin daha vermemi\ronerdi.
 [set.portrait:19]* ... even though you\rnever used the one\ralready entitled to you.
@@ -43,7 +43,7 @@
 * Yine de,[w:07] muhafizliga olan\radanmisligin icin sana cok\rminnettarim.
 * Senden daha adanmis birini\rgordugumu\rsanmiyorum.
 [s][expression:05]* THANK YOU.
-[expression:09]* AND...[w:07] I’LL TALK TO\rPAPYRUS.
+[expression:09]* VE...[w:07] PAPYRUS'LA\rKONUSACAGIM.
 [pause:060] [set.camera.progression:02] [pause:075] [next]
 [draw.box][set.camera.progression:04][font:0][voice:0][inv.sound]* (Canavar Sakizi envanterine\reklendi.)
 [inv.sound]* (You got 10G.)
