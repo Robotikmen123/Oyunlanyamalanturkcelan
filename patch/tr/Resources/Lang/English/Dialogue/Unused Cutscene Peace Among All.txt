@@ -1,25 +1,25 @@
 [draw.portrait][p]* yeah, so i said:\r[w:07]"that's no airplane!"
 * "o benim karim!"
-[as][set.portrait:01]* Oh ho ho![w:07]\n* That was a good one!
+[as][set.portrait:01]* Oh ho ho![w:07]\n* Bu iyiydi!
 [p]* thank you,[w:07] thank you.
 * sen simdiye kadarki en iyi\rseyircimsin.
 [as][set.portrait:05]* You're too kind,[w:07]\rmy friend.
 [set.portrait:01]* It makes me glad to\rhear you've been\rdoing well.
 [p]* same to you.
-[as]* I would like to catch\rup on our lives,[w:07]\rif you will.
+[as]* Hayatlarimizi konusmak\risterdim,[w:07]\reger istersen.
 [p]* by all means.
-[as]* Tell me,[w:07] what do you\rdo for an occupation?
+[as]* Soyle bana,[w:07] ne is\ryapiyorsun?
 * Orada neler oldugunu\rmerak ediyorum\rdogrusu.
 [set.portrait:02]* Besides,[w:07] you've told me\rso much about that crew,
 [set.portrait:01]* Without mentioning\rtheir purpose!
 [p]* well,[w:07] my brother and i\rare stationed as\rsentries.
 * ama sey...[w:07]\n* acikcasi bunu o kadar da\rumursamiyorum.
-[as][set.portrait:02]* How come?[w:07]\n* You are doing important\rwork,[w:07] are you not?
+[as][set.portrait:02]* Nasil yani?[w:07]\n* Onemli bir is\ryapiyorsun,[w:07] oyle degil mi?
 [p]* don't get me wrong,[w:07]\n* i'm glad to serve my\rkingdom.
 * sadece...[w:07] gelecek icin\rendiselenmeyi\rsevmiyorum.
 * anin icinde kalmayi\rseviyorum.
 * simdiye odaklan,[w:07]\ranladin mi?
-[as][set.portrait:00]* I understand.
+[as][set.portrait:00]* Anliyorum.
 * Cogu zaman gelecegimize\rtakilip kaliriz.
 * Bazen agirdan almak\rguzel.
 [set.portrait:02]* So tell me,[w:07] what's it\rfor?[w:07]\n* What keeps you going?
@@ -28,7 +28,7 @@
 * ve basarilariyla gurur\rduydugunu\rgormek...
 * bana yetiyor,[w:07]\rgercekten.
 * pardon,[w:07] bu muhtemelen pek\rilginc degildir.
-[as][set.portrait:01]* No,[w:07] do not say that.
+[as][set.portrait:01]* Hayir,[w:07] boyle soyleme.
 [set.portrait:00]* There is nothing wrong\rin finding solace in\rothers.
 * Baskalarinin daha iyisini\ryaptigini gormek bizi de daha\riyi olmaya tesvik edebilir.
 [set.portrait:01]* And from the sounds of\rit,[w:07] you have a great\rinfluence.
@@ -43,10 +43,10 @@
 * Ya da tarihimizi,[w:07] hatta\rondan da ote.
 [p]* i thought so, too.[w:07]\n* but he's passionate\rabout it.
 * bence gayet iyi bir\rsansi var,[w:07] acikcasi\rsoylemek gerekirse.
-[as][set.portrait:02]* You're certain?
+[as][set.portrait:02]* Emin misin?
 [p]* yeah.[w:07] why not?
 * kim kardesimle en iyi\rdost olmak istemez ki?
-[as][set.portrait:01]* I suppose I can't remedy\rthat.
+[as][set.portrait:01]* Sanirim bunu\rduzeltemem.
 [set.portrait:00]* It's nice in a way.
 * Uzun zaman once,[w:07] insanlarla\rbir arada yasamayi\rhayal ederdim.
 [set.portrait:11]* Nowadays that's...[w:07]\rdifficult to imagine\rgiven our circumstances.
@@ -55,7 +55,7 @@
 [set.portrait:00]* Yet the way you speak\rof your brother and\rhis ambitions...
 [set.portrait:01]* I think we could have a\rlot to offer them,[w:07] if\rtimes were better.
 [p]* yeah,[w:07] well said.
-[as]* Peace among all.[w:07]\n* Wouldn't that be\rfascinating?
+[as]* Herkese huzur.[w:07]\n* Bu harika olmaz\rmiydi?
 [p]* it would.
 * herkese huzur.
 

@@ -1,14 +1,14 @@
-+[draw.box][p][voice:9][speed:060]* look at me.
-+* look at what you made me\rdo.
-+* LOOK AT ME.
++[draw.box][p][voice:9][speed:060]* bana bak.
++* bana ne yaptirdigina\rbak.
++* BANA BAK.
 +* ...
-+* you think you’re special?
-+* that the rest of us mean\rNOTHING?
-+* i hate you.
-+* i hate everything about you.
++* ozel oldugunu mu saniyorsun?
++* geri kalanimizin HICBIR SEY\rifade etmedigini?
++* senden nefret ediyorum.
++* seninle ilgili her seyden nefret ediyorum.
 +* ...
-+* we both know where this is\rgoing.
-+* i'll[w:10] KILL[w:10] you.
++* ikimiz de bunun nereye\rgittigini biliyoruz.
++* seni[w:10] OLDURECEGIM[w:10].
 +[set.camera.progression:02]
 +
 +
@@ -17,23 +17,23 @@
 +
 +
 +
-+[draw.box][p][speed:030]* you [effect:shake,1]DAMN BRAT[effect:shake,0]!
-+* you think a [effect:shake,0]BATTLE[effect:shake,0] can\rsave you?!
++[draw.box][p][speed:030]* seni [effect:shake,1]LANET VELET[effect:shake,0]!
++* bir [effect:shake,0]SAVASIN[effect:shake,0] seni kurtarabilecegini\rmi saniyorsun?!
 +[pause:010]
-+[draw.box][p][effect:shake,0]* come ON![w:07]\n* where's that spirit [effect:shake,1]NOW?! [w:20] [next]
++[draw.box][p][effect:shake,0]* HADI ama![w:07]\n* nerede o ruh [effect:shake,1]SIMDI?! [w:20] [next]
 +[set.camera.progression:06]
-+[draw.box][p][effect:shake,2]* [xscale:40][yscale:40]ANSWER ME!
++[draw.box][p][effect:shake,2]* [xscale:40][yscale:40]CEVAP VER!
 +[pause:120] [next]
 +[draw.box][p][effect:shake,0][xscale:20][yscale:20]* . . .
 +[pause:090][set.camera.progression:08] [next]
-+[draw.box]* did i...?
++[draw.box]* ben mi...?
 +[pause:090] [next]
 +[draw.box][p]* heh.[w:07] heh heh heh...
-+[set.camera.progression:09]* go on.[w:07] do it.
-+* try again.
-+* this doesn’t change anything.
-+* i’m going to win.
-+* i’m going to beat you.
-+* nothing else matters.
-+[noskip][speed:090][effect:shake,0][snd.stop.all]* i won’t stop this until\ri [color:255,000,000]WIN[color:255,255,255].
++[set.camera.progression:09]* hadi.[w:07] yap sunu.
++* tekrar dene.
++* bu hicbir seyi degistirmiyor.
++* ben kazanacagim.
++* seni yenecegim.
++* baska hicbir sey onemli degil.
++[noskip][speed:090][effect:shake,0][snd.stop.all]* [color:255,000,000]KAZANANA[color:255,255,255] kadar\rbunu birakmayacagim.
 +[set.camera.progression:10]

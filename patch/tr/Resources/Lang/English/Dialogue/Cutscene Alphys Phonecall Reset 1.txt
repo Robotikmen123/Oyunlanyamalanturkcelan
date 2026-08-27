@@ -1,21 +1,21 @@
 [draw.portrait][draw.box][s]* HEY, CAPTAIN!
 [set.portrait:18]* JUST CALLING TO\rGIVE MY DAILY\rREPORT.
-[a][set.portrait:18]* You didn't have to do\rthat,[w:07] Sans.
+[a][set.portrait:18]* Bunu yapmak zorunda\rdegildin,[w:07] Sans.
 * Bugun tatil,\rhatirladin mi?
 [s][grimwood.sans.anim:15][set.portrait:18]* I KNOW,[w:07] BUT THAT\rWON'T STOP ME FROM\rSERVING THE GUARD!
 [grimwood.sans.progress.02][set.portrait:00]* I RESET ALL THE\rPUZZLES,[w:07] ACTIVATED\rALL THE TRAPS...
 * VE HER YERE ILAN\rBIRAKIYORUM!
 [expression:18]* IF THEY SEE ONE,[w:07]\rTHEY’LL KNOW WE’RE\rLOOKING FOR THEM!
 [grimwood.sans.progress.04]* AND WE CAN REUNITE\rTHEM WITH THEIR\rFAMILIES!
-[a][set.portrait:19]* I...[w:07] Thank you.
+[a][set.portrait:19]* Ben...[w:07] Tesekkur ederim.
 * Muhafizliga olan\radanmisligin kabul\redildi.
 [set.portrait:18]* Now please,[w:07] enjoy your\rtime off.
 [s][grimwood.sans.anim:16][set.portrait:16]* I WILL!
 [grimwood.sans.anim:20][set.portrait:00]* AFTER I FIGURE HOW\rTO REPAIR THE\rCAMERAS!
-[a][grimwood.sans.anim:19][grimwood.sans.frame:00][set.portrait:20]* Sans.[w:07]\n* I know what you're\rdoing.
+[a][grimwood.sans.anim:19][grimwood.sans.frame:00][set.portrait:20]* Sans.[w:07]\n* Ne yaptigini\rbiliyorum.
 [s][grimwood.sans.anim:20][set.portrait:18]* OF COURSE!
 [set.portrait:11]* I'M ALWAYS GIVING IT\rMY ALL!
-[a][grimwood.sans.anim:19][grimwood.sans.frame:00][set.portrait:16]* No,[w:07] you're doing this\rbecause of the\rreports.
+[a][grimwood.sans.anim:19][grimwood.sans.frame:00][set.portrait:16]* Hayir,[w:07] bunu raporlar\ryuzunden\ryapiyorsun.
 [grimwood.sans.dir:08][grimwood.sans.frame:00]* When was the last one\ryou've had?
 [s][grimwood.sans.dir:08][grimwood.sans.frame:00][set.portrait:18]* I...
 [grimwood.sans.anim:18][grimwood.sans.dir:00][set.portrait:05]* . . .
@@ -23,23 +23,23 @@
 [grimwood.sans.anim:21][set.portrait:01]* HOURS HAVE BEEN\rSPENT WANDERING\rTHE WOODS...
 [set.portrait:18]* SEARCHING EVERY\rNOOK AND CRANNY!
 [grimwood.sans.anim:14][set.portrait:00]* WE'LL FIND THE\rMISSING PEOPLE!
-[a][grimwood.sans.anim:19][grimwood.sans.frame:00][set.portrait:16]* Sans,[w:07] you’re overworking\ryourself.
+[a][grimwood.sans.anim:19][grimwood.sans.frame:00][set.portrait:16]* Sans,[w:07] kendini fazla\ryipratiyorsun.
 [grimwood.sans.dir:08][grimwood.sans.frame:00][set.portrait:16]* Papyrus came to me\rtwice this week to tell\ryou to take a break.
 [s][set.portrait:06]* ... HE DID?
-[a][grimwood.sans.anim:19][grimwood.sans.frame:00][set.portrait:16]* Yes.[w:07] He was worried\rfor your health-
+[a][grimwood.sans.anim:19][grimwood.sans.frame:00][set.portrait:16]* Evet.[w:07] Sagligin icin\rendiseleniyordu-
 [s][set.portrait:06]* BUT WE'VE BEEN DOING\rTHESE SEARCHES\rTOGETHER!
 [s][set.portrait:06]* HE KNOWS JUST HOW\rIMPORTANT THIS IS,[w:07]\rAND WHY-
-[a][set.portrait:16]* He was looking out\rfor you.
+[a][set.portrait:16]* Seni\rkolluyordu.
 * Kendini ne kadar zorladigini\rgayet acik bir sekilde\rbelirtti.
 [s][set.portrait:06]* ...
 [expression:09]* WHY DIDN’T HE SAY\rANYTHING TO ME,[w:07]\rTHEN?
-[a][set.portrait:16]* ... I think he doesn’t\rwant to upset you,[w:07] Sans.
+[a][set.portrait:16]* ... Sanirim seni uzmek\ristemiyor,[w:07] Sans.
 * Hatta sana bu yil bir\rucretli izin daha vermemi\ronerdi.
 [set.portrait:19]* ... even though you\rnever used the one\ralready entitled to you.
 [s][set.portrait:06]* I JUST DON'T\rUNDERSTAND.
 * NEDEN BENIMLE BU KONUDA\rKONUSMAKTAN\rKACINDI...
 [set.portrait:07]* WHEN HE’S BEEN SO\rINSISTENT ON COMING?
-[a][set.portrait:16]* I think you should\rtalk to him about it.
+[a][set.portrait:16]* Bence onunla bu konuda\rkonusmalisin.
 * Yine de,[w:07] muhafizliga olan\radanmisligin icin sana cok\rminnettarim.
 * Senden daha adanmis birini\rgordugumu\rsanmiyorum.
 [s][expression:05]* THANK YOU.

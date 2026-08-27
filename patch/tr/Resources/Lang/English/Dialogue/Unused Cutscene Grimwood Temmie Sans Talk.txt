@@ -23,7 +23,7 @@
 * bir [yscale:50]KISAYOL
 [s][set.portrait:10][yscale:20]* OH!
 [t][voice:6]* go EAS,T[w:07] takes you\rto town
-*[xscale:60] [effect:shake,1]GO NOW[xscale:20]
+*[xscale:60] [effect:shake,1]HEMEN GIT[xscale:20]
 [s][set.portrait:18][effect:shake,0]* THANKS, TEMMIE!
 [pause:150][set.camera.progression:04] [next]
 [hide.portrait][draw.box][t][voice:4][pitch:24000]* Oh,[w:07] it’s too easy!
