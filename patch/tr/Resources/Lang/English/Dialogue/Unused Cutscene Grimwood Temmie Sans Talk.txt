@@ -26,7 +26,7 @@
 *[xscale:60] [effect:shake,1]HEMEN GIT[xscale:20]
 [s][set.portrait:18][effect:shake,0]* THANKS, TEMMIE!
 [pause:150][set.camera.progression:04] [next]
-[hide.portrait][draw.box][t][voice:4][pitch:24000]* Oh,[w:07] it’s too easy!
+[hide.portrait][draw.box][t][voice:4][pitch:24000]* Oh,[w:07] cok kolay!
 * Neredeyse kotu hissediyorum.
 * Neyse...[w:07]\n* Olan oldu.
 * Bakalim simdi hazir misin,[w:07]\rPapyrus.

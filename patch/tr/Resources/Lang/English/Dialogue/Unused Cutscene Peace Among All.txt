@@ -5,9 +5,9 @@
 * sen simdiye kadarki en iyi\rseyircimsin.
 [as][set.portrait:05]* Cok naziksin,[w:07]\rdostum.
 [set.portrait:01]* It makes me glad to\rhear you've been\rdoing well.
-[p]* same to you.
+[p]* sana da.
 [as]* Hayatlarimizi konusmak\risterdim,[w:07]\reger istersen.
-[p]* by all means.
+[p]* elbette.
 [as]* Soyle bana,[w:07] ne is\ryapiyorsun?
 * Orada neler oldugunu\rmerak ediyorum\rdogrusu.
 [set.portrait:02]* Besides,[w:07] you've told me\rso much about that crew,
@@ -15,7 +15,7 @@
 [p]* well,[w:07] my brother and i\rare stationed as\rsentries.
 * ama sey...[w:07]\n* acikcasi bunu o kadar da\rumursamiyorum.
 [as][set.portrait:02]* Nasil yani?[w:07]\n* Onemli bir is\ryapiyorsun,[w:07] oyle degil mi?
-[p]* don't get me wrong,[w:07]\n* i'm glad to serve my\rkingdom.
+[p]* yanlis anlama,[w:07]\n* kralligima hizmet etmekten\rmemnunum.
 * sadece...[w:07] gelecek icin\rendiselenmeyi\rsevmiyorum.
 * anin icinde kalmayi\rseviyorum.
 * simdiye odaklan,[w:07]\ranladin mi?
@@ -23,7 +23,7 @@
 * Cogu zaman gelecegimize\rtakilip kaliriz.
 * Bazen agirdan almak\rguzel.
 [set.portrait:02]* So tell me,[w:07] what's it\rfor?[w:07]\n* What keeps you going?
-[p]* my brother,[w:07] really.
+[p]* kardesim,[w:07] gercekten.
 * bu ise elinden gelen\rher seyi koyuyor.
 * ve basarilariyla gurur\rduydugunu\rgormek...
 * bana yetiyor,[w:07]\rgercekten.
@@ -32,7 +32,7 @@
 [set.portrait:00]* There is nothing wrong\rin finding solace in\rothers.
 * Baskalarinin daha iyisini\ryaptigini gormek bizi de daha\riyi olmaya tesvik edebilir.
 [set.portrait:01]* And from the sounds of\rit,[w:07] you have a great\rinfluence.
-[p]* heh, yeah.[w:07]\n* he's the coolest.
+[p]* heh, evet.[w:07]\n* o en havalisi.
 * bir gun bir insanla tanismayi\rgercekten cok istiyor.
 * surekli aynanin karsisinda\rmonologlarini\rprova ediyor.
 [as][set.portrait:11]* Korkmuyor mu?
@@ -41,7 +41,7 @@
 [set.portrait:07]* to be friends with one,[w:07]\rmaybe? i dunno.
 [as][set.portrait:11]* Bu...[w:07] onun isiyle pek\rortusmuyor\rgibi.
 * Ya da tarihimizi,[w:07] hatta\rondan da ote.
-[p]* i thought so, too.[w:07]\n* but he's passionate\rabout it.
+[p]* ben de oyle sanmistim.[w:07]\n* ama bu konuda\rtutkulu.
 * bence gayet iyi bir\rsansi var,[w:07] acikcasi\rsoylemek gerekirse.
 [as][set.portrait:02]* Emin misin?
 [p]* yeah.[w:07] why not?
@@ -56,8 +56,8 @@
 [set.portrait:01]* I think we could have a\rlot to offer them,[w:07] if\rtimes were better.
 [p]* yeah,[w:07] well said.
 [as]* Herkese huzur.[w:07]\n* Bu harika olmaz\rmiydi?
-[p]* it would.
+[p]* olurdu.
 * herkese huzur.
 
 
-[p]* peace among all.
+[p]* herkese huzur.

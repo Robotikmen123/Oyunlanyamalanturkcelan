@@ -14,10 +14,10 @@
 [s][set.portrait:10][grimwood.temmie.frame:00]* THE TOWN?
 [set.portrait:03]* WHAT HAPPENED?[w:07]\n* IS SOMETHING\rWRONG?
 [t][voice:6][grimwood.temmie.effect:02][expression:05]* de town...[w:07]\n* eeryone...
-[grimwood.temmie.anim:23][grimwood.temmie.effect:03][expression:11]* ppl are HURT!
+[grimwood.temmie.anim:23][grimwood.temmie.effect:03][expression:11]* insanlar YARALI!
 [s][set.portrait:10][grimwood.temmie.effect:00]* PEOPLE ARE HURT?
 [t][voice:6][grimwood.temmie.anim:17][grimwood.temmie.effect:02][expression:03]* yaYA!
-[grimwood.temmie.anim:03][expression:00]* you have to go and\rhelp!
+[grimwood.temmie.anim:03][expression:00]* gidip yardim\retmelisin!
 [s][set.portrait:18][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* OKAY![w:07]\n* THANK YOU FOR\rALERTING ME!
 [set.portrait:00]* I’M ON THE CASE!
 [pause:030][set.camera.progression:03] [grimwood.temmie.effect:04] [w:15] [next]
@@ -32,7 +32,7 @@
 [s][set.portrait:10][xscale:20][yscale:20][grimwood.temmie.anim:00]* OH!
 [pause:999][set.camera.progression:05] [next]
 [draw.portrait][draw.box][t][voice:6][update.tem.pos][grimwood.temmie.effect:02]* bu senii[w:07] kasabaya\rgoturur
-[grimwood.temmie.anim:16][grimwood.temmie.dir:16][grimwood.temmie.effect:03][expression:03]*[xscale:60] [effect:shake,3]GO NOW[xscale:20]
+[grimwood.temmie.anim:16][grimwood.temmie.dir:16][grimwood.temmie.effect:03][expression:03]*[xscale:60] [effect:shake,3]HEMEN GIT[xscale:20]
 [s][grimwood.sans.anim:15][set.portrait:18][effect:shake,0][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* THANKS, TEMMIE!
 [pause:999][set.camera.progression:07] [next]
 [draw.portrait][draw.box][t][voice:4][pitch:24000][expression:14]* Iste gidiyor.[w:07] Yine.

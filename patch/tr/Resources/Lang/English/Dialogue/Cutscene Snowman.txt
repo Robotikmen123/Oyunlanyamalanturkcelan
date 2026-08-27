@@ -1,7 +1,7 @@
 [draw.portrait][s]* EN IYI KAR\rHEYKELLERINI YAPMAYA\rHAZIR MISIN?
-[p]* ok.
+[p]* tamam.
 [s][grimwood.sans.anim:15][set.portrait:18]* I JUST KNOW THIS\rONE'S GONNA BE\rMAGNIFICENT!
-[grimwood.sans.frame:14]* IT HAS TO BE AN\rAWESOME SNOWMAN\rFOR AN AWESOME DAY!
+[grimwood.sans.frame:14]* HARIKA BIR GUN ICIN\rHARIKA BIR KARDAN ADAM\rOLMALI!
 [p][grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:01]* right.
 [s][set.portrait:00]* A HOLIDAY IS NO\rEXCUSE TO SLACK\rOFF!
 [p][set.portrait:01]* tell that to the dogs.
@@ -12,12 +12,12 @@
 [p][set.portrait:00]* ok.
 [grimwood.cutscene.snowman.0] [grimwood.cutscene.snowman.posechange.1] [next]
 [draw.portrait][draw.box][s][grimwood.sans.anim:31][grimwood.sans.frame:00][set.portrait:18]* . . .
-[grimwood.sans.frame:03]* SPEAKING OF THE\rDOGS...
-[grimwood.sans.frame:02][set.portrait:05]* HAVE YOU...[w:07] HEARD\rFROM THEM?
+[grimwood.sans.frame:03]* KOPEKLERDEN\rBAHSETMISKEN...
+[grimwood.sans.frame:02][set.portrait:05]* ONLARDAN...[w:07] HABER\rALDIN MI?
 [p][grimwood.papyrus.anim:17][grimwood.papyrus.frame:01][set.portrait:02]* i thought you would.
 [s][grimwood.sans.frame:03][grimwood.papyrus.frame:00][set.portrait:18]* I'M NOT THE ONE THAT\rGOES DRINKING WITH\rTHEM EVERY NIGHT.
 [p][grimwood.papyrus.anim:17][grimwood.papyrus.frame:01][set.portrait:04]* oh.[w:07] yeah.
-[grimwood.sans.frame:00][grimwood.papyrus.frame:03][set.portrait:03]* they're fine.[w:07]\n* same as usual.
+[grimwood.sans.frame:00][grimwood.papyrus.frame:03][set.portrait:03]* iyiler.[w:07]\n* her zamanki gibi.
 [s][grimwood.sans.frame:03][set.portrait:18]* OKAY.[w:07] GOOD.
 [pause:090][grimwood.sans.anim:28][grimwood.papyrus.frame:00] [pause:100][grimwood.cutscene.snowman.posechange.2][grimwood.papyrus.anim:16] [pause:045][grimwood.sans.frame:00] [next]
 [draw.portrait][draw.box][s][grimwood.sans.anim:31][grimwood.sans.frame:05][grimwood.papyrus.anim:17][grimwood.papyrus.frame:02][set.portrait:07]* SADECE SEY DIYE\rSORUYORDUM...

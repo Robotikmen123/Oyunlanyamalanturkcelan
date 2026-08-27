@@ -4,7 +4,7 @@
 * Acikcasi, biktim artik.
 * O insan... O SEY.
 [pitch:28000]* They don’t know what they’re\rdoing.
-[p]* clearly,[w:07] they do.
+[p]* belli ki,[w:07] oyle.
 [t]* Ha![w:07] You’d think so.
 [pitch:24000]* No,[w:07] this isn’t a tragedy,[w:07]\rplanned and coordinated.
 [pitch:14000]* This is...[w:13] mindless.
@@ -18,7 +18,7 @@
 * Ama hepsi ayni sekilde bitiyor.
 * Onlar icin,[w:07] bu bir OYUN.
 * Peki sonuclari neden UMURSAYASIN?
-[p]* so they’re never gonna stop.
+[p]* yani asla durmayacaklar.
 [t]* Exactly!
 * Bu yuzden ONLARI DURDURMALIYIZ.
 [p]* ...

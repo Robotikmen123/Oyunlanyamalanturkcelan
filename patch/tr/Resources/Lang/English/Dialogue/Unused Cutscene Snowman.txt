@@ -1,22 +1,22 @@
 [s]* ARE YOU READY TO CREATE\rTHE BEST SNOW SCULPTURES\rYET?
 [p]* sure.
-[p]* i'm just curious though,[w:07] isn't\rthis our day off?
+[p]* sadece merak ediyorum,[w:07] bugun\rizin gunumuz degil mi?
 [s][grimwood.sans.anim:12]* THE MAGNIFICENT SANS\rNEVER TAKES A DAY OFF!
 [s][grimwood.sans.anim:00]* EVEN WHEN IT'S SANCTIONED\rBY THE QUEEN!
 [p]* what's the deal with that\ragain?
 [s]* THE GUARD TAKES A DAY OFF\rTO CELEBRATE THE PRINCE'S\rBIRTHDAY.
-[p]* right.
-[p]* i think i remember hearing the\rdogs talking about heading to\rmuffet's for that.
-[p]* some big happy hour.
+[p]* dogru.
+[p]* kopeklerin bunun icin\rmuffet'e gitmekten bahsettigini\rduydugumu hatirliyorum galiba.
+[p]* amma buyuk bir kutlama.
 [s][grimwood.sans.anim:12]* DON'T YOU DARE THINK ABOUT\rGOING OFF DRINKING AGAIN!
 [p][grimwood.sans.anim:00]* i know,[w:07] i know.
-[p]* but anyway,[w:07] why here?
+[p]* neyse,[w:07] neden burasi?
 [s]* BECAUSE THERE'S SNOW HERE!
 [s]* AND WE'RE BUILDING SNOWMEN.
 [p]* there's snow everywhere.[w:07]\n* we coulda done this in the\rtown.
 [s]* I KNOW BUT...
 [s][grimwood.sans.anim:12]* ...
-[p]* sans, what's going on?
+[p]* sans, neler oluyor?
 [s]* I'M JUST A LITTLE WORRIED,[w:07]\rTHAT'S ALL.
 [p]* what for?
 [s]* YOU KNOW WHAT FOR.
@@ -32,19 +32,19 @@
 [s]* BUILD SNOW SANSES,
 [s]* TRY TO BUILD SNOW\rPAPYRUSES,[w:03]\n[p]* sure[next]
 [s][grimwood.sans.anim:15]* AND WATCH FOR ANY MISSING\rPEOPLE!
-[p]* sounds good to me.
+[p]* bana uyar.
 [grimwood.cutscene.snowman.0] [next]
 [drawbox][p][grimwood.snowman.papyrus.anim:00]* yoruldum.
 [s][grimwood.sans.anim:16]* WE BARELY STARTED!
-[p]* sorry, sans.
-[p]* i don't think i got much\rsleep last night.
+[p]* ozur dilerim, sans.
+[p]* dun gece pek uyudugumu\rsanmiyorum.
 [s]* WHAT?
 [s]* YOU DIDN'T GET MUCH SLEEP\rLAST NIGHT?
 [s]* SINCE WHEN DO YOU EVER\rNOT GET ENOUGH SLEEP?
 [p]* uh...
 [s]* PAPYRUS?
-[p]* listen, sans, i...[w:07]\n* i just didn't...
-[p]* it's nothing, really, i...
+[p]* dinle, sans, ben...[w:07]\n* sadece...
+[p]* bir sey degil, gercekten, ben...
 [s]* NO. IT'S NOT NOTHING.
 [s]* ...
 [s]* PAPYRUS,[w:07] COME ON...
@@ -53,16 +53,16 @@
 [s]* THIS WAS SUPPOSED TO BE\rOUR DAY OFF,
 [s]* AND I DIDN'T CONSIDER WHAT\rYOU WANTED TO DO.
 [s]* I WAS SO HUNG UP ABOUT\rFINDING THE MISSING PEOPLE\rTHAT I...
-[p]* sans,[w:07] it's okay.[w:07] really.
+[p]* sans,[w:07] sorun degil.[w:07] gercekten.
 [p]* you just wanted to do what\rwas right.
 [s]* YEAH,[w:07] BUT...
 [s]* NOT WHAT WAS RIGHT FOR\rYOU.
 [s]* I'M SORRY, PAPYRUS.
 [s]* I'LL BE MORE CONSIDERATE\rABOUT WHAT YOU WANT NEXT\rTIME!
-[p]* oh, okay.\n[w:07]* thanks, sans.
+[p]* oh, tamam.\n[w:07]* sag ol, sans.
 [s]* WE CAN BUILD SNOW SANSES\rANOTHER TIME.
 [s]* IN THE MEANTIME,[w:07] WHY\rDON'T YOU HEAD OVER TO\rMUFFET'S?
-[p]* really?
+[p]* gercekten mi?
 [s]* YES,[w:07] TRY TO HAVE FUN!
 [s]* JUST NOT TOO MUCH.
 [p]* sure thing.
@@ -70,8 +70,8 @@
 [drawbox][p]* nereye gidiyorsun?
 [s]* I'LL PROBABLY BE HEADING\rHOME.
 [s]* NAPSTATON IS ALMOST ON!
-[p]* oh, yeah.
-[p]* see you in a bit, then.
+[p]* oh, evet.
+[p]* birazdan gorusuruz o zaman.
 [s]* SEE YOU!
 [grimwood.cutscene.snowman.2] [next]
 [drawbox][p][grimwood.snowman.papyrus.anim:12]* ...

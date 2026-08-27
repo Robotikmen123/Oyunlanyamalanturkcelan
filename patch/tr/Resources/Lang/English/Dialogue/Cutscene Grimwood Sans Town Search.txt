@@ -13,7 +13,7 @@
 [set.portrait:03]* Stay where you are!
 [s][set.portrait:24]* EVERYTHING IS...
 [set.portrait:31][effect:shake,0]* NO ONE’S RESPONDING![effect:shake,0]
-[grimwood.sans.anim:35][set.portrait:24]* I DON’T KNOW WHAT\rDID THIS!
+[grimwood.sans.anim:35][set.portrait:24]* BUNU NE YAPTI\rBILMIYORUM!
 [a][grimwood.sans.anim:35][set.portrait:11]* Oradan cikman\rlazim, Sans!!
 [s][set.portrait:26]* I CAN'T FIND ANYONE,[w:07]\rAND...
 [grimwood.sans.anim:35][pause:045] [next]
