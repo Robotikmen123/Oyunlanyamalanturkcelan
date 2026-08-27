@@ -1,0 +1,29 @@
+[font=DTX Determination Sans]"[Name]"|
+
+SL [ATK]| ([ItemATK])|            DEN: [EXP]|
+SV [DEF]| ([ItemDEF])|
+
+KUL EDILEN: [KillCount]|
+BAGISLANAN: [SpareCount]|
+
+SILAH: [Weapon]|
+ZIRH: [Armor]|
+
+ALTIN: [Gold]
+|
+|
+ESYA|
+DURUM|
+MENU|
+KULLAN|
+BILGI|
+BIRAK
+|* Baslik ekranina donulsun mu?
+
+        Evet          Hayir
+|
+Kaydet|
+Geri Don|
+Dosya kaydedildi.
+|BOS|GERI DON|BIR KAYIT DOSYASI SEC|DEVAM ET|Sifirla|Basla|Devam Et|SILINECEK DOSYAYI SEC.|SIL|GERCEKTEN SILINSIN MI?|EVET (YENIDEN
+BASLATMA GEREKIR)|HAYIR|
