@@ -1,7 +1,7 @@
 [draw.portrait][draw.box][t][voice:6][effect:shake,2][expression:00]* [xscale:99][yscale:60]SAS!
 [pause:060][set.camera.progression:01] [next]
 [draw.portrait][draw.box][t][voice:6][effect:shake,1][scale:20][grimwood.temmie.anim:13][grimwood.temmie.effect:01][expression:03]* HOOOOOOIIiiiiii!
-[s][set.camera.progression:02][set.portrait:18][effect:shake,0][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* OH,[w:07] TEMMIE![w:07]\n* IT’S BEEN SO\rLONG!
+[s][set.camera.progression:02][set.portrait:18][effect:shake,0][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* OH,[w:07] TEMMIE![w:07]\n* NE KADAR ZAMAN\rOLDU!
 [set.portrait:00]* HOW HAVE YOU\rBEEN?
 [t][grimwood.sans.anim:13][voice:6][expression:04]* im ok but WHAT are\ru doing here
 [expression:05]* senii bulmam bi\rasir surdu
@@ -23,7 +23,7 @@
 [pause:030][set.camera.progression:03] [grimwood.temmie.effect:04] [w:15] [next]
 [draw.portrait][draw.box][t][grimwood.sans.dir:08][grimwood.sans.frame:00][voice:6][grimwood.temmie.anim:22][grimwood.temmie.dir:24][expression:02]* dur [effect:shake,1][xscale:60]DUR
 [effect:shake,0][xscale:20][update.tem.pos][grimwood.temmie.effect:01][expression:12]* hayirhayirhayir[w:07]\n* dur artik DUR [xscale:90]ARTIK[xscale:20]
-[s][set.portrait:03][grimwood.temmie.effect:00]* WHAT?[w:07]\n* BUT YOU SAID [next]
+[s][set.portrait:03][grimwood.temmie.effect:00]* NE?[w:07]\n* AMA SEN DEMISTIN [next]
 [t][voice:6][expression:02]* yaya tem said dat\rbut lOOK
 [pause:015][grimwood.temmie.anim:12][grimwood.temmie.frame:00][grimwood.temmie.effect:05] [next]
 [draw.portrait][draw.box][t][expression:02]* suna bak[w:07]\n* [xscale:40]hele[xscale:20]
@@ -33,7 +33,7 @@
 [pause:999][set.camera.progression:05] [next]
 [draw.portrait][draw.box][t][voice:6][update.tem.pos][grimwood.temmie.effect:02]* bu senii[w:07] kasabaya\rgoturur
 [grimwood.temmie.anim:16][grimwood.temmie.dir:16][grimwood.temmie.effect:03][expression:03]*[xscale:60] [effect:shake,3]HEMEN GIT[xscale:20]
-[s][grimwood.sans.anim:15][set.portrait:18][effect:shake,0][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* THANKS, TEMMIE!
+[s][grimwood.sans.anim:15][set.portrait:18][effect:shake,0][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* SAG OL, TEMMIE!
 [pause:999][set.camera.progression:07] [next]
 [draw.portrait][draw.box][t][voice:4][pitch:24000][expression:14]* Geri gelecek gibi\rgorunmuyor.
 * ...

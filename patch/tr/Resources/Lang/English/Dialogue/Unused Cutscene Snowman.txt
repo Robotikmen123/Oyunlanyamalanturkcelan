@@ -1,14 +1,14 @@
 [s]* SIMDIYE KADARKI EN IYI\rKAR HEYKELLERINI YAPMAYA\rHAZIR MISIN?
 [p]* tabii.
 [p]* sadece merak ediyorum,[w:07] bugun\rizin gunumuz degil mi?
-[s][grimwood.sans.anim:12]* THE MAGNIFICENT SANS\rNEVER TAKES A DAY OFF!
-[s][grimwood.sans.anim:00]* EVEN WHEN IT'S SANCTIONED\rBY THE QUEEN!
+[s][grimwood.sans.anim:12]* MUHTESEM SANS ASLA\rIZIN YAPMAZ!
+[s][grimwood.sans.anim:00]* KRALICE ONAYLAMIS\rOLSA BILE!
 [p]* onun olayi neydi\rdemistin?
 [s]* MUHAFIZLAR PRENSIN DOGUM\rGUNUNU KUTLAMAK ICIN BIR\rGUN IZIN YAPAR.
 [p]* dogru.
 [p]* kopeklerin bunun icin\rmuffet'e gitmekten bahsettigini\rduydugumu hatirliyorum galiba.
 [p]* amma buyuk bir kutlama.
-[s][grimwood.sans.anim:12]* DON'T YOU DARE THINK ABOUT\rGOING OFF DRINKING AGAIN!
+[s][grimwood.sans.anim:12]* SAKIN YINE ICMEYE\rGITMEYI AKLINDAN GECIRME!
 [p][grimwood.sans.anim:00]* biliyorum,[w:07] biliyorum.
 [p]* neyse,[w:07] neden burasi?
 [s]* CUNKU BURADA KAR VAR!
@@ -19,27 +19,27 @@
 [p]* sans, neler oluyor?
 [s]* SADECE BIRAZ ENDISELIYIM,[w:07]\rHEPSI BU.
 [p]* ne icin?
-[s]* YOU KNOW WHAT FOR.
-[s][grimwood.sans.anim:00]* THE DISAPPEARANCES!
+[s]* NE ICIN OLDUGUNU BILIYORSUN.
+[s][grimwood.sans.anim:00]* KAYBOLMALAR!
 [p]* oh.
-[s][grimwood.sans.anim:14]* YEAH,[w:07] AND THEY'VE BEEN\rHAPPENING MORE FREQUENTLY.
-[s][grimwood.sans.anim:12]* AND...[w:07] THIS IS WHERE\rSOME OF THEM WERE\rLAST SEEN.
+[s][grimwood.sans.anim:14]* EVET,[w:07] VE DAHA SIK\rOLMAYA BASLADILAR.
+[s][grimwood.sans.anim:12]* VE...[w:07] BAZILARININ SON\rGORULDUGU YER\rBURASI.
 [s]* BIR SEY OLURSA DIYE HAZIR\rOLMAK ISTIYORUM.
 [p]* ...
 [p]* gercekten hic izin\ryapmiyorsun,[w:07] ha?
-[s][grimwood.sans.anim:13]* NO I DON'T!
-[s][grimwood.sans.dir:24]* SO WHAT WE'RE GONNA DO IS\rSIT HERE,
+[s][grimwood.sans.anim:13]* HAYIR, YAPMIYORUM!
+[s][grimwood.sans.dir:24]* YAPACAGIMIZ SEY SU:\rBURADA OTURACAGIZ,
 [s]* KARDAN SANS'LAR YAP,
-[s]* TRY TO BUILD SNOW\rPAPYRUSES,[w:03]\n[p]* sure[next]
-[s][grimwood.sans.anim:15]* AND WATCH FOR ANY MISSING\rPEOPLE!
+[s]* KARDAN PAPYRUS'LAR\rYAPMAYA CALIS,[w:03]\n[p]* tabii[next]
+[s][grimwood.sans.anim:15]* VE KAYIP INSANLARA\rDIKKAT ET!
 [p]* bana uyar.
 [grimwood.cutscene.snowman.0] [next]
 [drawbox][p][grimwood.snowman.papyrus.anim:00]* yoruldum.
-[s][grimwood.sans.anim:16]* WE BARELY STARTED!
+[s][grimwood.sans.anim:16]* DAHA YENI BASLADIK!
 [p]* ozur dilerim, sans.
 [p]* dun gece pek uyudugumu\rsanmiyorum.
-[s]* WHAT?
-[s]* YOU DIDN'T GET MUCH SLEEP\rLAST NIGHT?
+[s]* NE?
+[s]* DUN GECE PEK\rUYUYAMADIN MI?
 [s]* SEN NE ZAMANDAN BERI\rYETERINCE UYUMUYORSUN?
 [p]* sey...
 [s]* PAPYRUS?
@@ -48,22 +48,22 @@
 [s]* HAYIR. BOS BIR SEY DEGIL.
 [s]* ...
 [s]* PAPYRUS,[w:07] HADI AMA...
-[s]* YOU KNOW YOU CAN JUST\rTELL ME WHEN I'M TOO MUCH\rFOR YOU.
+[s]* SANA FAZLA GELDIGIMDE\rBUNU BANA SOYLEYEBILECEGINI\rBILIYORSUN.
 [p]* ne?
-[s]* THIS WAS SUPPOSED TO BE\rOUR DAY OFF,
+[s]* BUGUN IZIN GUNUMUZ\rOLACAKTI,
 [s]* VE SENIN NE YAPMAK\rISTEDIGINI DUSUNMEDIM.
 [s]* KAYIP INSANLARI BULMAYA\rO KADAR TAKILMISTIM KI\rBEN...
 [p]* sans,[w:07] sorun degil.[w:07] gercekten.
 [p]* sadece dogru olani yapmak\ristedin.
-[s]* YEAH,[w:07] BUT...
+[s]* EVET,[w:07] AMA...
 [s]* SENIN ICIN DOGRU OLANI\rDEGIL.
 [s]* UZGUNUM, PAPYRUS.
 [s]* BIR DAHAKI SEFERE NE\rISTEDIGINE DAHA COK\rDIKKAT EDECEGIM!
 [p]* oh, tamam.\n[w:07]* sag ol, sans.
-[s]* WE CAN BUILD SNOW SANSES\rANOTHER TIME.
+[s]* KARDAN SANS'LARI BASKA\rZAMAN YAPARIZ.
 [s]* BU ARADA,[w:07] NEDEN\rMUFFET'IN YERINE\rGITMIYORSUN?
 [p]* gercekten mi?
-[s]* YES,[w:07] TRY TO HAVE FUN!
+[s]* EVET,[w:07] EGLENMEYE CALIS!
 [s]* SADECE COK FAZLA DEGIL.
 [p]* tabii ki.
 [grimwood.cutscene.snowman.1] [next]
