@@ -4,7 +4,7 @@
 [grimwood.sans.frame:14]* HARIKA BIR GUN ICIN\rHARIKA BIR KARDAN ADAM\rOLMALI!
 [p][grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:01]* dogru.
 [s][set.portrait:00]* A HOLIDAY IS NO\rEXCUSE TO SLACK\rOFF!
-[p][set.portrait:01]* tell that to the dogs.
+[p][set.portrait:01]* bunu kopeklere soyle.
 [s][grimwood.sans.anim:14][set.portrait:11]* OH,[w:07] DON'T YOU EVEN\rSTART!
 [set.portrait:01]* I KNOW YOU'RE JUST\rDYING TO HEAD TO\rMUFFET'S!
 [grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:00]* MUHAFIZLAR BUGUN\rGOREVDE OLMAYABILIR...
@@ -46,7 +46,7 @@
 [s][grimwood.papyrus.frame:02]* I APPRECIATE YOU\rLOOKING OUT FOR ME,[w:07]\rPAPYRUS.
 [expression:18]* AMA KARDESINLE HARIKA\rBIR TATILI SENDEN\rCALMAYACAGIM!
 [p][grimwood.papyrus.frame:01][expression:01]* vay.[w:07] sag ol.
-[s]* IT ONLY GIVES US\rSOMETHING TO LOOK\rFORWARD TO!
+[s]* BU SADECE BIZE\rDORT GOZLE BEKLEYECEK\rBIR SEY VERIYOR!
 [p][expression:01]* sanirim.
 [pause:100][grimwood.papyrus.frame:00] [skippable] [next]
 [draw.portrait][draw.box][s][expression:03]* ... NEREYE\rGIDERDIK KI?

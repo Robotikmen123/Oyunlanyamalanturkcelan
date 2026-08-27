@@ -36,7 +36,7 @@
 * bir gun bir insanla tanismayi\rgercekten cok istiyor.
 * surekli aynanin karsisinda\rmonologlarini\rprova ediyor.
 [as][set.portrait:11]* Korkmuyor mu?
-[p][set.portrait:04]* of humans?[w:07]\n* nah,[w:07] he admires them\ractually.
+[p][set.portrait:04]* insanlardan mi?[w:07]\n* yok,[w:07] aslinda onlara\rhayran.
 [set.portrait:02]* part of me thinks he\rtook the job to get\rcloser to one.
 [set.portrait:07]* to be friends with one,[w:07]\rmaybe? i dunno.
 [as][set.portrait:11]* Bu...[w:07] onun isiyle pek\rortusmuyor\rgibi.

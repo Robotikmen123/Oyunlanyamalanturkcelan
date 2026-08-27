@@ -3,12 +3,12 @@
 * ONLARIN oyunu.
 * Acikcasi, biktim artik.
 * O insan... O SEY.
-[pitch:28000]* They don’t know what they’re\rdoing.
+[pitch:28000]* Ne yaptiklarini\rbilmiyorlar.
 [p]* belli ki,[w:07] oyle.
 [t]* Ha![w:07] You’d think so.
-[pitch:24000]* No,[w:07] this isn’t a tragedy,[w:07]\rplanned and coordinated.
-[pitch:14000]* This is...[w:13] mindless.
-[pitch:36000]* It’s FRUSTRATING me just how\rSIMPLE it is!
+[pitch:24000]* Hayir,[w:07] bu bir trajedi degil,[w:07]\rplanli ve koordineli.
+[pitch:14000]* Bu...[w:13] akilsizca.
+[pitch:36000]* Ne kadar BASIT oldugu beni\rCILDIRTIYOR!
 * Bu yuzden sana geldim.
 * Bunun GERCEKTEN ne kadar kotu\roldugunu bilen tek kisiler\rsen ve benim.
 * Bir seyi tekrar tekrar ve\rtekrar ve tekrar ve TEKRAR\ryapmak...
@@ -42,4 +42,4 @@
 * Bunu cozmek icin biraz\rvaktin var.
 * Ve eger yapmazsan...
 * Zaten ne olacagini\rbiliyorsun.
-[pitch:48000][voice:6]* In the meantime...[w:07]\n* I’ll be seeing you!!
+[pitch:48000][voice:6]* Bu arada...[w:07]\n* Gorusuruz!!

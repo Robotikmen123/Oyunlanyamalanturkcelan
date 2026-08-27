@@ -4,7 +4,7 @@
 [grimwood.sans.frame:14]* HARIKA BIR GUN ICIN\rHARIKA BIR KARDAN ADAM\rOLMALI!
 [p][grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:01]* dogru.
 [s][set.portrait:00]* A HOLIDAY IS NO\rEXCUSE TO SLACK\rOFF!
-[p][set.portrait:01]* tell that to the dogs.
+[p][set.portrait:01]* bunu kopeklere soyle.
 [s][grimwood.sans.anim:14][set.portrait:11]* OH,[w:07] DON'T YOU EVEN\rSTART!
 [set.portrait:01]* I KNOW YOU'RE JUST\rDYING TO HEAD TO\rMUFFET'S!
 [grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:00]* MUHAFIZLAR BUGUN\rGOREVDE OLMAYABILIR...
@@ -69,13 +69,13 @@
 [p][grimwood.sans.anim:13][set.portrait:00]* oyle mi dedi?
 [s][set.portrait:18]* YES![w:07]\n* ONE SO SECRET AND\rIMPORTANT...
 * NE OLDUGUNU\rSOYLEYEMEM!
-[p][set.portrait:01]* alright.
+[p][set.portrait:01]* tamam.
 [s][set.portrait:00]* SO I'LL BE OFF!
 [set.portrait:18]* I'LL SEE YOU AT\rMUFFET'S!
 [grimwood.cutscene.snowman.1] [next]
 [draw.portrait][draw.box][p][set.portrait:00]* bana eve git demistin\rsaniyordum.
 [s][set.portrait:01]* THAT PLACE BASICALLY\rIS YOUR HOME.
-[p][set.portrait:02]* true.
+[p][set.portrait:02]* dogru.
 [set.portrait:00]* see you,[w:07] then.
 [s][set.portrait:18]* BYE!
 [hide][grimwood.cutscene.snowman.2] [grimwood.papyrus.anim:12] [w:66] [next]

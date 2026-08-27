@@ -5,7 +5,7 @@
 [set.portrait:00]* HOW HAVE YOU\rBEEN?
 [t][grimwood.sans.anim:13][voice:6][expression:04]* im ok but WHAT are\ru doing here
 [expression:05]* senii bulmam bi\rasir surdu
-[s]* JUST FOLLOWED SOME\rFOOTPRINTS THAT LED\rHERE.
+[s]* SADECE BURAYA GETIREN\rBAZI AYAK IZLERINI\rTAKIP ETTIM.
 * BU BULMACALAR KIME AIT\rBILMIYORUM,
 * AMA YARDIM EDIP ONLARI\rSIFIRLAYABILECEGIMI\rSANDIM.
 [t][voice:6][expression:07]* ok wthaver
