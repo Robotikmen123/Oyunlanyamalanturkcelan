@@ -2,7 +2,7 @@
 * "o benim karim!"
 [as][set.portrait:01]* Oh ho ho![w:07]\n* That was a good one!
 [p]* thank you,[w:07] thank you.
-* you're the best\raudience i've ever had.
+* sen simdiye kadarki en iyi\rseyircimsin.
 [as][set.portrait:05]* You're too kind,[w:07]\rmy friend.
 [set.portrait:01]* It makes me glad to\rhear you've been\rdoing well.
 [p]* same to you.
@@ -13,28 +13,28 @@
 [set.portrait:02]* Besides,[w:07] you've told me\rso much about that crew,
 [set.portrait:01]* Without mentioning\rtheir purpose!
 [p]* well,[w:07] my brother and i\rare stationed as\rsentries.
-* but uh...[w:07]\n* i don't really care\rabout it that much.
+* ama sey...[w:07]\n* acikcasi bunu o kadar da\rumursamiyorum.
 [as][set.portrait:02]* How come?[w:07]\n* You are doing important\rwork,[w:07] are you not?
 [p]* don't get me wrong,[w:07]\n* i'm glad to serve my\rkingdom.
-* it's just...[w:07] i don't like\rto worry about the\rfuture.
-* i like to stay in the\rmoment.
-* focus on the present,[w:07]\ry'know?
+* sadece...[w:07] gelecek icin\rendiselenmeyi\rsevmiyorum.
+* anin icinde kalmayi\rseviyorum.
+* simdiye odaklan,[w:07]\ranladin mi?
 [as][set.portrait:00]* I understand.
 * Cogu zaman gelecegimize\rtakilip kaliriz.
 * Bazen agirdan almak\rguzel.
 [set.portrait:02]* So tell me,[w:07] what's it\rfor?[w:07]\n* What keeps you going?
 [p]* my brother,[w:07] really.
-* he puts everything\rhe has into this job.
-* and seeing him feel\rproud of his\raccomplishments...
-* it's enough for me,[w:07]\rreally.
-* sorry,[w:07] that's probably\rnot super interesting.
+* bu ise elinden gelen\rher seyi koyuyor.
+* ve basarilariyla gurur\rduydugunu\rgormek...
+* bana yetiyor,[w:07]\rgercekten.
+* pardon,[w:07] bu muhtemelen pek\rilginc degildir.
 [as][set.portrait:01]* No,[w:07] do not say that.
 [set.portrait:00]* There is nothing wrong\rin finding solace in\rothers.
 * Baskalarinin daha iyisini\ryaptigini gormek bizi de daha\riyi olmaya tesvik edebilir.
 [set.portrait:01]* And from the sounds of\rit,[w:07] you have a great\rinfluence.
 [p]* heh, yeah.[w:07]\n* he's the coolest.
-* he really wants to meet\ra human someday.
-* he practices his\rmonologues in the\rmirror constantly.
+* bir gun bir insanla tanismayi\rgercekten cok istiyor.
+* surekli aynanin karsisinda\rmonologlarini\rprova ediyor.
 [as][set.portrait:11]* Is he not afraid?
 [p][set.portrait:04]* of humans?[w:07]\n* nah,[w:07] he admires them\ractually.
 [set.portrait:02]* part of me thinks he\rtook the job to get\rcloser to one.
@@ -42,10 +42,10 @@
 [as][set.portrait:11]* That...[w:07] doesn't seem to\rline up with his line\rof work.
 * Ya da tarihimizi,[w:07] hatta\rondan da ote.
 [p]* i thought so, too.[w:07]\n* but he's passionate\rabout it.
-* i think he has a pretty\rgood shot,[w:07] in all\rhonesty.
+* bence gayet iyi bir\rsansi var,[w:07] acikcasi\rsoylemek gerekirse.
 [as][set.portrait:02]* You're certain?
 [p]* yeah.[w:07] why not?
-* who wouldn't wanna be\rbest buds with my bro?
+* kim kardesimle en iyi\rdost olmak istemez ki?
 [as][set.portrait:01]* I suppose I can't remedy\rthat.
 [set.portrait:00]* It's nice in a way.
 * Uzun zaman once,[w:07] insanlarla\rbir arada yasamayi\rhayal ederdim.
@@ -57,7 +57,7 @@
 [p]* yeah,[w:07] well said.
 [as]* Peace among all.[w:07]\n* Wouldn't that be\rfascinating?
 [p]* it would.
-* peace among all.
+* herkese huzur.
 
 
 [p]* peace among all.

@@ -1,19 +1,19 @@
 [p]* i killed them.
-* i killed all of them.
-* it took me a while to really\rget the hang of it.
-* i needed to have what you\rdidn't have.
-* patience was my key.
-* i couldn’t take any chances\rwith the guard until you\rshowed up.
-* i waited hours upon hours in\rthe woods for the chance to\rget alone with someone.
+* hepsini oldurdum.
+* gercekten alismam biraz\rzaman aldi.
+* sende olmayana sahip\rolmam gerekiyordu.
+* sabir benim anahtarimdi.
+* sen ortaya cikana kadar\rmuhafizlarla risk\ralamazdim.
+* biriyle yalniz kalma sansi\ricin ormanda saatlerce\rbekledim.
 * ... ama bir sekilde,[w:07] bir sekilde\rbiliyordum.
-* that i wasn’t going fast\renough.
+* yeterince hizli\rgitmedigimi.
 [pause:060] [next]
 [show]* ruined home was perfect.[w:07]\risolated.
 * ... kolay.
-* once i got past the old man,[w:07]\rit was my perfect time to\rlet myself loose.
-* i can’t wait to show you\rjust how strong i am.
+* yasli adami gectikten sonra,[w:07]\rkendimi salivermek icin\rmukemmel zamandi.
+* ne kadar guclu oldugumu\rsana gostermek icin sabirsizlaniyorum.
 * ... ama hazir degilim.
-* and neither are you.
+* ve sen de degilsin.
 [pause:075] [next]
 [show]* there’s still time.
 * ve bundan en iyi sekilde\ryararlanmayi planliyorum.

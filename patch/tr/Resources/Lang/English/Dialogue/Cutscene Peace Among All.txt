@@ -32,7 +32,7 @@
 |[as][expression:02]* How come?[w:07] You are doing\rimportant work,[w:07] are you\rnot?
 |[p][grimwood.papyrus.anim:20][expression:06]* don't get me wrong,[w:07]\ri'm glad to help\rpeople.
 |[grimwood.papyrus.anim:18][grimwood.papyrus.frame:00][expression:00]* it's just...[w:07] i dunno.
-|* i guess i’m not the\rbiggest fan of the\rwhole...
+|* sanirim seyin pek de\rhayrani\rdegilim...
 |[grimwood.papyrus.anim:20]* "capturing humans"[w:07]\rpart of my job.
 |[as][grimwood.papyrus.anim:18][grimwood.papyrus.frame:00][expression:05]* I understand.
 |[expression:00]* It’s difficult to find\rthe will to do what we\rmust.
@@ -42,7 +42,7 @@
 |[as]* So tell me,[w:07] what's it\rfor?[w:07] What keeps you\rgoing?
 |[p][grimwood.papyrus.anim:20][expression:09]* my brother,[w:07] really.
 |[grimwood.papyrus.anim:18][grimwood.papyrus.frame:00]* he puts everything he\rhas into this job.
-|* and seeing him feel\rproud of his\raccomplishments...
+|* ve basarilariyla gurur\rduydugunu\rgormek...
 |[expression:02]* it's enough for me,[w:07]\rreally.
 |[expression:00]* sorry,[w:07] that's probably\rnot super interesting.
 |[as][expression:02]* No,[w:07] do not say that.

@@ -5,14 +5,14 @@
 [set.portrait:00]* HOW HAVE YOU\rBEEN?
 [t][voice:6][grimwood.sans.anim:13]* deres no TIMe for\rdat
 * SAS
-* yu hav to go to\rTOWN
+* KSABAYA gitmen\rlazm
 [s][set.portrait:10]* THE TOWN?
 [set.portrait:03]* WHAT HAPPENED?[w:07]\n* IS SOMETHING\rWRONG?
 [t][voice:6]* de town...[w:07]\n* eeryone...
-* ppl are HURT!
+* insanlar YARALI!
 [s][set.portrait:10]* PEOPLE ARE HURT?
 [t][voice:6]* yaYA!
-* you have to go and\rhelp!
+* gidip yardim\retmelisin!
 [s][set.portrait:18]* OKAY![w:07]\n* THANK YOU FOR\rALERTING ME!
 [set.portrait:00]* I’M ON THE CASE!
 [pause:045][set.camera.progression:03] [next]

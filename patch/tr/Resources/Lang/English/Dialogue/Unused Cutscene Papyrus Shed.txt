@@ -1,38 +1,38 @@
 [p]* i like the snow.
-* i like the crunch it makes\rwhen i walk.
-* building snowmen are fun,[w:07]\reven if my brother is way\rbetter at it.
-* some people don't like the\rsnow.[w:07] they don't like heavy\rclothing.
-* but they have to deal with\rit,[w:07] otherwise they go numb\rfrom the pain.
+* yururken cikardigi citirtiyi\rseviyorum.
+* kardan adam yapmak eglenceli,[w:07]\rkardesim bunda benden cok\rdaha iyi olsa da.
+* bazi insanlar kari sevmez.[w:07]\rkalin giysileri de\rsevmezler.
+* ama bununla basa cikmak\rzorundalar,[w:07] yoksa acidan\ruyusuyorlar.
 * heh.
-* lucky them, huh?
+* ne sanslilar, degil mi?
 [grimwood.cutscene.papyrus.shed.1] [next]
 [show]* i killed them.
-* i killed all of them.
-* it took a while,[w:07] for sure.
-* it was like taking small doses\rof poison to build an immunity.
-* for weeks i would hide out\rin the forest and wait for\rsomeone to show.
-* then i would pick at them.[w:07]\rslowly,[w:07] carefully.
-* most struggled,[w:07] but they all\rgave up eventually.
+* hepsini oldurdum.
+* biraz zaman aldi,[w:07] kesinlikle.
+* bagisiklik kazanmak icin kucuk\rdozlarda zehir almak gibiydi.
+* haftalarca ormanda saklanip\rbirinin gelmesini\rbekledim.
+* sonra onlari didiklerdim.[w:07]\ryavasca,[w:07] dikkatlice.
+* cogu direndi,[w:07] ama sonunda\rhepsi pes etti.
 * ve devam ettikce...[w:07]\n* bunda daha iyi oldum.
-* their screams got shorter,[w:07]\rand i was home for dinner.
-* only hard part then was\rkeeping myself clean.
-* i hate myself.\n[w:07]* and i blame you.
-* i'm going to make sure you\rfeel the pain i feel.
-* even if it means completely\rlosing myself in the process.
-* and when i'm done,[w:07] and\reveryone's gone...
-* i'll tear you to shreds.[w:07]\n* i'll make you wish you had\rnever been born.
-* i'll force you to fear death\ronce again.
+* cigliklari kisaldi,[w:07]\rve aksam yemegine evdeydim.
+* o zaman tek zor kisim\rkendimi temiz tutmakti.
+* kendimden nefret ediyorum.\n[w:07]* ve seni sucluyorum.
+* hissettigim aciyi senin de\rhissetmeni saglayacagim.
+* bu surecte kendimi tamamen\rkaybetmek anlamina gelse bile.
+* ve isim bittiginde,[w:07] ve\rherkes gittiginde...
+* seni paramparca edecegim.[w:07]\n* hic dogmamis olmayi\rdilemeni saglayacagim.
+* sana olumden yeniden\rkorkmayi ogretecegim.
 * ve bir daha asla zerre kadar\rkontrolun olmamasini\rsaglayacagim.
-* from then on,[w:07] you'll play\rby my rules.
-* and only when i'm satisfied\ri'll let you die.
-* capiche?
+* o andan itibaren,[w:07] benim\rkurallarimla oynayacaksin.
+* ve ancak tatmin oldugumda\rolmene izin verecegim.
+* anlasildi mi?
 [pause:090] [next]
 [show]* and just so you know...
-* i'm only telling you this\rbecause you're sick.
-* i know if you have questions,[w:07]\ryou'll find answers.
-* so i'm glad we're on the\rsame page.
-* get comfortable,[w:07] i'll find you\rwhen i'm done.
-* i need a drink.
+* bunu sana sadece hasta\roldugun icin soyluyorum.
+* biliyorum ki sorularin varsa,[w:07]\rcevaplarini bulursun.
+* bu yuzden ayni fikirde\rolmamiza sevindim.
+* rahatina bak,[w:07] isim bitince\rseni bulurum.
+* bir ickiye ihtiyacim var.
 [pause:090] [grimwood.cutscene.papyrus.shed.2] [pause:120] [next]
 [font:0][voice:0][speed:66]   [w:12]   [next]
 [show]* (You're left in complete\rdarkness.)
