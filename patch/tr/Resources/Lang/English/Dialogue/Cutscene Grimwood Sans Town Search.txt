@@ -1,0 +1,23 @@
+[draw.portrait][draw.box][s]* HELLO?[w:07]\n* IS EVERYONE ALRIGHT?
+[grimwood.sans.anim:14][set.portrait:18]* I WAS TOLD...
+[grimwood.sans.anim:13][set.portrait:17]* ...
+[pause:999][set.camera.progression:02] [next]
+[draw.portrait][draw.box][s][set.portrait:25]* ... NOBODY'S HERE...
+[set.portrait:26]* ...
+[pause:045][set.camera.progression:04] [next]
+[draw.portrait][draw.box.noskip][s][set.portrait:19]* ALPHYS![w:07]\n* ALPHYS,[w:07] COME QUICK! [w:18] [next]
+[set.portrait:25]* SOMETHING...[w:18] [next]
+[set.portrait:19]* SOMETHING WENT\rRAMPANT ACROSS\rTHE TOWN![w:20] [next]
+[set.camera.progression:05] [next]
+[a][set.portrait:02]* Slow down, Sans![w:07]\n* I’m on my way!
+[set.portrait:03]* Stay where you are!
+[s][set.portrait:24]* EVERYTHING IS...
+[set.portrait:31][effect:shake,0]* NO ONE’S RESPONDING![effect:shake,0]
+[grimwood.sans.anim:35][set.portrait:24]* I DON’T KNOW WHAT\rDID THIS!
+[a][grimwood.sans.anim:35][set.portrait:11]* You need to get out\rof there, Sans!!
+[s][set.portrait:26]* I CAN'T FIND ANYONE,[w:07]\rAND...
+[grimwood.sans.anim:35][pause:045] [next]
+[draw.portrait][draw.box][s][set.portrait:24]* OH NO.[w:07]\n* PAPYRUS?[w:07] WHERE IS\r[effect:shake,1]PAPYRUS[effect:shake,0]?!
+* WE SAID WE'D MEET\rAT...
+[a][set.portrait:15]* Sans![w:07]\n* You need to [next]
+[set.camera.progression:06]

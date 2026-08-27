@@ -1,0 +1,59 @@
+[p]* i like the snow.
+* i like the crunch it makes\rwhen i walk.
+* building snowmen are fun,[w:07]\reven if my brother is way\rbetter at it.
+* some people don't like the\rsnow.[w:07] they don't like heavy\rclothing.
+* but they have to deal with\rit,[w:07] otherwise they go numb\rfrom the pain.
+* heh.
+* lucky them, huh?
+[grimwood.cutscene.papyrus.shed.1] [next]
+[show]* i killed them.
+* i killed all of them.
+* it took a while,[w:07] for sure.
+* it was like taking small doses\rof poison to build an immunity.
+* for weeks i would hide out\rin the forest and wait for\rsomeone to show.
+* then i would pick at them.[w:07]\rslowly,[w:07] carefully.
+* most struggled,[w:07] but they all\rgave up eventually.
+* and as i went on...[w:07]\n* i got better at it.
+* their screams got shorter,[w:07]\rand i was home for dinner.
+* only hard part then was\rkeeping myself clean.
+* i hate myself.\n[w:07]* and i blame you.
+* i'm going to make sure you\rfeel the pain i feel.
+* even if it means completely\rlosing myself in the process.
+* and when i'm done,[w:07] and\reveryone's gone...
+* i'll tear you to shreds.[w:07]\n* i'll make you wish you had\rnever been born.
+* i'll force you to fear death\ronce again.
+* and i'll make sure that you\rnever have any ounce of\rcontrol again.
+* from then on,[w:07] you'll play\rby my rules.
+* and only when i'm satisfied\ri'll let you die.
+* capiche?
+[pause:090] [next]
+[show]* and just so you know...
+* i'm only telling you this\rbecause you're sick.
+* i know if you have questions,[w:07]\ryou'll find answers.
+* so i'm glad we're on the\rsame page.
+* get comfortable,[w:07] i'll find you\rwhen i'm done.
+* i need a drink.
+[pause:090] [grimwood.cutscene.papyrus.shed.2] [pause:120] [next]
+[font:0][voice:0][speed:66]   [w:12]   [next]
+[show]* (You're left in complete\rdarkness.)
+[pause:120] [next]
+[show]* (There's not much you can\rdo[w:18] as you.)
+[pause:090] [next]
+[show]* (You decided to close your\reyes.)
+* (Ve PAPYRUS'un[w:16] ne yaptigini\rdusun.)
+[pause:120] [next]
+[show]* (... But yet,[w:16] it's hard to come\rup with anything.)
+* (Bir kez olsun,[w:07] dunyaya dair\ranlayisin yanlis.)
+* (Simdiye dek tanistigin\rbaska birini dusunuyorsun...)
+* (Ama aklina hicbir sey gelmiyor.)
+* (Hafizan seni yaniltiyor.)
+* (Sanki bu insanlari hic\rtanimiyormussun gibi.)
+* (Zaten onlari hic\rtanimadin ki.)
+* (Yine de,[w:07] bir sey bulmaya\rcalisiyorsun...[w:16] dusunecek\rbirini.)
+* (Bir goruntu,[w:07] cok soluk,[w:07] belirmeye\rbasliyor.)
+* (Tanidigini sandigin biri.)
+* (Bu goruntuye zihninde\rtutunmaya karar veriyorsun.)
+* (Cunku bu noktada,[w:07] hayatta\rkalmak istiyorsan...)
+[pause:060] [next]
+[show]* (They may be your only hope.)
+[pause:090] [grimwood.cutscene.papyrus.shed.3]

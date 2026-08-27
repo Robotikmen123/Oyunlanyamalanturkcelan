@@ -1,0 +1,4 @@
+[draw.box]* (An object familiar to Sans\rrests atop the snow.)
+[set.camera.progression:01]
+[draw.box]* (Sans got the [color:255,000,000]Shed Keys[color:255,255,255].)
+[set.camera.progression:03]

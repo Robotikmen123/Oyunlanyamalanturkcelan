@@ -1,0 +1,59 @@
+[draw.portrait][s]* ARE YOU READY TO\rCREATE THE BEST\rSNOW SCULPTURES YET?
+[p]* ok.
+[s][grimwood.sans.anim:15][set.portrait:18]* I JUST KNOW THIS\rONE'S GONNA BE\rMAGNIFICENT!
+[grimwood.sans.frame:14]* IT HAS TO BE AN\rAWESOME SNOWMAN\rFOR AN AWESOME DAY!
+[p][grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:01]* right.
+[s][set.portrait:00]* A HOLIDAY IS NO\rEXCUSE TO SLACK\rOFF!
+[p][set.portrait:01]* tell that to the dogs.
+[s][grimwood.sans.anim:14][set.portrait:11]* OH,[w:07] DON'T YOU EVEN\rSTART!
+[set.portrait:01]* I KNOW YOU'RE JUST\rDYING TO HEAD TO\rMUFFET'S!
+[grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:00]* THE GUARD MAY NOT\rBE ON DUTY TODAY...
+* AMA OYLEYMIS GIBI\rDAVRANACAGIZ!
+[p][set.portrait:00]* ok.
+[grimwood.cutscene.snowman.0] [grimwood.cutscene.snowman.posechange.1] [grimwood.sans.anim:29] [snd.wing] [w:90] [next]
+[draw.portrait][draw.box][s][grimwood.sans.anim:31][grimwood.sans.frame:05][grimwood.papyrus.anim:17][grimwood.papyrus.frame:00][expression:05]* HEY,[w:07] PAPYRUS?
+[p][grimwood.papyrus.frame:02]* what’s up?
+[s][expression:06]* I WAS ON THE PHONE\rWITH ALPHYS EARLIER.
+[p]* ok.
+[s][expression:06]* AND SHE SAID I\rSHOULD MAYBE TAKE A\rVACATION FROM WORK.
+[p][grimwood.papyrus.frame:03]* oh,[w:07] cool.
+* a vacation sounds nice.
+[s][expression:18]* YEAH.[w:07] WELL...
+[grimwood.sans.frame:07][grimwood.papyrus.frame:01][expression:22]* SHE SAID IT WAS YOUR\rIDEA.
+[p][expression:01]* ...
+[grimwood.sans.frame:05][grimwood.papyrus.frame:02][expression:00]* yeah,[w:07] i think i remember\rtalking to her about\rthat.
+[s][expression:03]* WHY?
+[p][grimwood.papyrus.frame:01][expression:01]* you’ve been working\rhard.
+[grimwood.papyrus.frame:03]* i thought maybe a\rvacation could be a\rnice reward for you.
+[s][expression:06]* I APPRECIATE THE\rSENTIMENT,
+[grimwood.papyrus.frame:00][expression:09]* BUT YOU KNOW HOW\rIMPORTANT THIS IS\rRIGHT NOW!
+[expression:15]* YOU’VE BEEN COMING\rWITH ME TO EACH AND\rEVERY SINGLE ONE,
+[expression:06]* SO THE TIMING JUST\rFEELS WEIRD.
+[p][grimwood.papyrus.frame:02][expression:01]* i was just looking out\rfor you.
+[expression:00]* you’re just so cool,[w:07]\ri wanted to do\rsomething nice for you.
+[grimwood.papyrus.frame:03]* y’know,[w:07] to show i care.
+[s][grimwood.papyrus.frame:02][expression:03]* WHY DO YOU KEEP\rSAYING IT LIKE IT’S A\rVACATION FOR ME?
+[p][grimwood.papyrus.frame:03][expression:00]* ...well,[w:07] someone has to\rkeep watch here.[w:07] isn’t\rthat right?
+[expression:02]* like you said,[w:07] this is\rimportant stuff.
+[expression:00]* we can’t just abandon\rour work when it\rmatters most.
+[s][grimwood.papyrus.frame:02][expression:05]* I...
+[grimwood.sans.frame:07][expression:06]* I THINK I UNDERSTAND.
+[p][grimwood.sans.frame:06][grimwood.papyrus.frame:01]* that’s awesome,[w:07] bro.
+[grimwood.papyrus.frame:03]* do you need help\rpacking your bags?
+[s][grimwood.sans.frame:07][expression:16]* NO,[w:07] I DON’T WANT TO\rGO JUST YET.
+[grimwood.sans.frame:06][grimwood.papyrus.frame:01][expression:00]* WHEN OUR WORK IS\rDONE,[w:07] WE CAN GO ON A\rVACATION TOGETHER!
+[p][grimwood.papyrus.frame:05][expression:01]* oh.
+[s][grimwood.papyrus.frame:02]* I APPRECIATE YOU\rLOOKING OUT FOR ME,[w:07]\rPAPYRUS.
+[expression:18]* BUT I WON’T ROB YOU\rOF A GREAT VACATION\rWITH YOUR BROTHER!
+[p][grimwood.papyrus.frame:01][expression:01]* wow.[w:07] thanks.
+[s]* IT ONLY GIVES US\rSOMETHING TO LOOK\rFORWARD TO!
+[p][expression:01]* i guess.
+[pause:100][grimwood.papyrus.frame:00] [skippable] [next]
+[draw.portrait][draw.box][s][expression:03]* ... WHERE WOULD WE\rEVEN GO?
+[p][grimwood.papyrus.frame:01]* i dunno.
+[s][grimwood.sans.frame:08][expression:04]* THIS WHOLE THING\rWAS YOUR IDEA!
+[p][grimwood.papyrus.frame:03]* yeah,[w:07] guess i didn’t\rthink that far ahead.
+[s][grimwood.sans.frame:06][grimwood.papyrus.frame:02][expression:16]* OH,[w:07] WELL.
+[grimwood.sans.frame:09][expression:18]* I GUESS WE CAN CROSS\rTHAT BRIDGE WHEN WE\rGET TO IT.
+[p][grimwood.sans.frame:06][grimwood.papyrus.frame:03]* ok.
+[hide][grimwood.cutscene.snowman.5][grimwood.sans.anim:29][grimwood.papyrus.anim:16]

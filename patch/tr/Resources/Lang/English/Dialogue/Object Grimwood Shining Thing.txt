@@ -1,0 +1,1 @@
+* (Yerde parlayan bir nesne\rvar.)|* (Alinsin mi?)[choice]\n \n        Evet          Hayir

@@ -1,0 +1,44 @@
+[draw.portrait][draw.box][t][voice:6][effect:shake,2][expression:00]* [xscale:99][yscale:60]SAS!
+[pause:060][set.camera.progression:01] [next]
+[draw.portrait][draw.box][t][voice:6][effect:shake,1][scale:20][grimwood.temmie.anim:13][grimwood.temmie.effect:01][expression:03]* HOOOOOOIIiiiiii!
+[s][set.camera.progression:02][set.portrait:18][effect:shake,0][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* OH,[w:07] TEMMIE![w:07]\n* IT’S BEEN SO\rLONG!
+[set.portrait:00]* HOW HAVE YOU\rBEEN?
+[t][grimwood.sans.anim:13][voice:6][expression:04]* im ok but WHAT are\ru doing here
+[expression:05]* took me forever to\rfind yo u
+[s]* JUST FOLLOWED SOME\rFOOTPRINTS THAT LED\rHERE.
+* NOT SURE WHO THESE\rPUZZLES BELONG TO,
+* AMA YARDIM EDIP ONLARI\rSIFIRLAYABILECEGIMI\rSANDIM.
+[t][voice:6][expression:07]* ok wthaver
+[grimwood.temmie.anim:20][expression:02]* SAS
+[expression:05]* yu hav to go to\rTOWN
+[s][set.portrait:10][grimwood.temmie.frame:00]* THE TOWN?
+[set.portrait:03]* WHAT HAPPENED?[w:07]\n* IS SOMETHING\rWRONG?
+[t][voice:6][grimwood.temmie.effect:02][expression:05]* de town...[w:07]\n* eeryone...
+[grimwood.temmie.anim:23][grimwood.temmie.effect:03][expression:11]* ppl are HURT!
+[s][set.portrait:10][grimwood.temmie.effect:00]* PEOPLE ARE HURT?
+[t][voice:6][grimwood.temmie.anim:17][grimwood.temmie.effect:02][expression:03]* yaYA!
+[grimwood.temmie.anim:03][expression:00]* you have to go and\rhelp!
+[s][set.portrait:18][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* OKAY![w:07]\n* THANK YOU FOR\rALERTING ME!
+[set.portrait:00]* I’M ON THE CASE!
+[pause:030][set.camera.progression:03] [grimwood.temmie.effect:04] [w:15] [next]
+[draw.portrait][draw.box][t][grimwood.sans.dir:08][grimwood.sans.frame:00][voice:6][grimwood.temmie.anim:22][grimwood.temmie.dir:24][expression:02]* wait [effect:shake,1][xscale:60]STOP
+[effect:shake,0][xscale:20][update.tem.pos][grimwood.temmie.effect:01][expression:12]* nononono[w:07]\n* stop it STOP [xscale:90]IT[xscale:20]
+[s][set.portrait:03][grimwood.temmie.effect:00]* WHAT?[w:07]\n* BUT YOU SAID [next]
+[t][voice:6][expression:02]* yaya tem said dat\rbut lOOK
+[pause:015][grimwood.temmie.anim:12][grimwood.temmie.frame:00][grimwood.temmie.effect:05] [next]
+[draw.portrait][draw.box][t][expression:02]* lookat[w:07]\n* [xscale:40]this[xscale:20]
+[pause:999][grimwood.sans.anim:00][grimwood.sans.dir:00][grimwood.sans.frame:00][set.camera.progression:04] [next]
+[draw.portrait][draw.box][t][grimwood.temmie.anim:17][update.tem.pos][grimwood.temmie.effect:01][expression:03]* [xscale:67][yscale:30]SHOTCUT
+[s][set.portrait:10][xscale:20][yscale:20][grimwood.temmie.anim:00]* OH!
+[pause:999][set.camera.progression:05] [next]
+[draw.portrait][draw.box][t][voice:6][update.tem.pos][grimwood.temmie.effect:02]* thiss take,s[w:07] you\rto town
+[grimwood.temmie.anim:16][grimwood.temmie.dir:16][grimwood.temmie.effect:03][expression:03]*[xscale:60] [effect:shake,3]GO NOW[xscale:20]
+[s][grimwood.sans.anim:15][set.portrait:18][effect:shake,0][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* THANKS, TEMMIE!
+[pause:999][set.camera.progression:07] [next]
+[draw.portrait][draw.box][t][voice:4][pitch:24000][expression:14]* Off he goes.[w:07] Again.
+* ... yine de,[w:07] komik.
+* Bu sefer...[w:07] daha az emin\rhissediyorum.
+* It’s like it can go\reither way,[w:07] honestly.
+[pause:060] [next]
+[draw.portrait][draw.box][t][voice:4][pitch:24000][expression:08]* Oh, well.[w:07]\n* I better prepare\ranyway.
+[set.camera.progression:09]

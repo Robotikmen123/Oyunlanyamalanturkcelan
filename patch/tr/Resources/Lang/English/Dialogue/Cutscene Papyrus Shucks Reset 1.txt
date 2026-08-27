@@ -1,0 +1,21 @@
+[p]* i killed them.
+* i killed all of them.
+* it took me a while to really\rget the hang of it.
+* i needed to have what you\rdidn't have.
+* patience was my key.
+* i couldn’t take any chances\rwith the guard until you\rshowed up.
+* i waited hours upon hours in\rthe woods for the chance to\rget alone with someone.
+* ... ama bir sekilde,[w:07] bir sekilde\rbiliyordum.
+* that i wasn’t going fast\renough.
+[pause:060] [next]
+[show]* ruined home was perfect.[w:07]\risolated.
+* ... kolay.
+* once i got past the old man,[w:07]\rit was my perfect time to\rlet myself loose.
+* i can’t wait to show you\rjust how strong i am.
+* ... ama hazir degilim.
+* and neither are you.
+[pause:075] [next]
+[show]* there’s still time.
+* and i plan to make the most\rof it.
+[grimwood.cutscene.papyrus.shed.4] [grimwood.cutscene.papyrus.shed.2] [pause:120] [next]
+[grimwood.cutscene.papyrus.shed.3]

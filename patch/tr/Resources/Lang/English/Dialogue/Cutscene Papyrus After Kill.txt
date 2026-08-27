@@ -1,0 +1,28 @@
+[p]* want in on this?
+[set.camera.progression:01]
+[draw.box][p]* too slow.
+[set.camera.progression:03]
+[draw.box][p]* ...
+* ...heh.
+* what are we doing?
+* isn’t it obvious by now?
+* quit trying to hide it,[w:07] we\rboth know what’s going on.
+* i’m a dead man.
+* why else would you try to\rfind me?
+* haha...[w:07] heheheheh...
+[set.camera.progression:04]
+[draw.box][p]* ha...[w:07] haha...
+* oh,[w:07] look at me.
+* i’m a mess.
+[set.camera.progression:05]
+[draw.box][p]* but that doesn’t bother me.
+* i don’t even care anymore.
+* if this is the game we’re\rgoing to play,[w:07] then fine.[w:07]\n* i’ll play.
+* i’m getting good at it.
+* i LIKE it.
+* please,[w:07] keep coming back to\rme.
+* all i want is to make you\rsuffer.
+* i want to hurt you.[w:07]\n* make you bleed.
+[pause:030] [next]
+[draw.box][font:0][voice:9]* I don't care about anything\relse.
+[set.camera.progression:06]

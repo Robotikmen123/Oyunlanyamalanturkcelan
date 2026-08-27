@@ -1,0 +1,63 @@
+[draw.portrait][p]* yeah, so i said:\r[w:07]"that's no airplane!"
+* "o benim karim!"
+[as][set.portrait:01]* Oh ho ho![w:07]\n* That was a good one!
+[p]* thank you,[w:07] thank you.
+* you're the best\raudience i've ever had.
+[as][set.portrait:05]* You're too kind,[w:07]\rmy friend.
+[set.portrait:01]* It makes me glad to\rhear you've been\rdoing well.
+[p]* same to you.
+[as]* I would like to catch\rup on our lives,[w:07]\rif you will.
+[p]* by all means.
+[as]* Tell me,[w:07] what do you\rdo for an occupation?
+* Orada neler oldugunu\rmerak ediyorum\rdogrusu.
+[set.portrait:02]* Besides,[w:07] you've told me\rso much about that crew,
+[set.portrait:01]* Without mentioning\rtheir purpose!
+[p]* well,[w:07] my brother and i\rare stationed as\rsentries.
+* but uh...[w:07]\n* i don't really care\rabout it that much.
+[as][set.portrait:02]* How come?[w:07]\n* You are doing important\rwork,[w:07] are you not?
+[p]* don't get me wrong,[w:07]\n* i'm glad to serve my\rkingdom.
+* it's just...[w:07] i don't like\rto worry about the\rfuture.
+* i like to stay in the\rmoment.
+* focus on the present,[w:07]\ry'know?
+[as][set.portrait:00]* I understand.
+* We often tend to get\rhung up on our futures.
+* It's nice to take it\rslow sometimes.
+[set.portrait:02]* So tell me,[w:07] what's it\rfor?[w:07]\n* What keeps you going?
+[p]* my brother,[w:07] really.
+* he puts everything\rhe has into this job.
+* and seeing him feel\rproud of his\raccomplishments...
+* it's enough for me,[w:07]\rreally.
+* sorry,[w:07] that's probably\rnot super interesting.
+[as][set.portrait:01]* No,[w:07] do not say that.
+[set.portrait:00]* There is nothing wrong\rin finding solace in\rothers.
+* Seeing others do better\rcan inspire us to be\rbetter ourselves.
+[set.portrait:01]* And from the sounds of\rit,[w:07] you have a great\rinfluence.
+[p]* heh, yeah.[w:07]\n* he's the coolest.
+* he really wants to meet\ra human someday.
+* he practices his\rmonologues in the\rmirror constantly.
+[as][set.portrait:11]* Is he not afraid?
+[p][set.portrait:04]* of humans?[w:07]\n* nah,[w:07] he admires them\ractually.
+[set.portrait:02]* part of me thinks he\rtook the job to get\rcloser to one.
+[set.portrait:07]* to be friends with one,[w:07]\rmaybe? i dunno.
+[as][set.portrait:11]* That...[w:07] doesn't seem to\rline up with his line\rof work.
+* Or our history,[w:07] for\rthat matter.
+[p]* i thought so, too.[w:07]\n* but he's passionate\rabout it.
+* i think he has a pretty\rgood shot,[w:07] in all\rhonesty.
+[as][set.portrait:02]* You're certain?
+[p]* yeah.[w:07] why not?
+* who wouldn't wanna be\rbest buds with my bro?
+[as][set.portrait:01]* I suppose I can't remedy\rthat.
+[set.portrait:00]* It's nice in a way.
+* Uzun zaman once,[w:07] insanlarla\rbir arada yasamayi\rhayal ederdim.
+[set.portrait:11]* Nowadays that's...[w:07]\rdifficult to imagine\rgiven our circumstances.
+* Cogu insanin magaralarimizdan\rmemnun kalacagindan\rsupheliyim.
+* Ve sinirlarini.
+[set.portrait:00]* Yet the way you speak\rof your brother and\rhis ambitions...
+[set.portrait:01]* I think we could have a\rlot to offer them,[w:07] if\rtimes were better.
+[p]* yeah,[w:07] well said.
+[as]* Peace among all.[w:07]\n* Wouldn't that be\rfascinating?
+[p]* it would.
+* peace among all.
+
+
+[p]* peace among all.

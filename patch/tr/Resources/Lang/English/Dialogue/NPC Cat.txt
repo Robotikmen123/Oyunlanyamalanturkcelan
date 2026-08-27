@@ -1,0 +1,2 @@
+* Bunu duyuyor musun?|* The cold winds...[w:07] they've come\ronce again.|* The angel must be near![w:07]\n* They must be!|* It would certainly explain all\rthe weird things going on...|[npc.set.sprite:12][npc.shake:08][snd.wing]* Huh?[w:07] No,[w:07] not THOSE weird\rthings!|[npc.set.sprite:13]* I'm talking about the LIGHTS!|[npc.set.sprite:12][npc.shake:08][snd.wing]* ...What? Those are just\rFIREFLIES?|[npc.set.sprite:14]* Oh.[w:07] Nevermind then.
+* Yeah,[w:07] I guess I got a little\rcarried away.|* Ama beni suclayabilir misin?[w:07]\n* Atesbocekleri cilgin.

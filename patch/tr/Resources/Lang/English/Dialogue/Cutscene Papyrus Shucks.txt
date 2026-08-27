@@ -1,0 +1,29 @@
+[p]* i killed them.
+* i killed all of them.
+* it took a while,[w:07] for sure.
+* it was like taking small doses\rof poison to build an immunity.
+* for months i would hide out\rin the forest and wait for\rsomeone to show.
+* then i would pick at them.[w:07]\rslowly,[w:07] carefully.
+* most struggled,[w:07] but they all\rgave up eventually.
+* and as i went on...[w:07]\n* i got better at it.
+* their screams got shorter,[w:07]\rand i was home in time for\rdinner.
+* only hard part then was\rkeeping myself clean.
+* i hate myself.\n[w:07]* and i blame you.
+* i'm going to make sure you\rfeel the pain i feel.
+* even if it means completely\rlosing myself in the process.
+* and when i'm done,[w:07] and\reveryone's gone...
+* i'll tear you to shreds.[w:07]\n* i'll make you wish you had\rnever been born.
+* i'll force you to fear death\ronce again.
+* and i'll make sure that you\rnever have any ounce of\rcontrol again.
+* from then on,[w:07] you'll play\rby my rules.
+* and only when i'm satisfied,\ri'll let you die.
+* capiche?
+[pause:090] [next]
+[show]* and just so you know...
+* i'm only telling you this\rbecause you're sick.
+* i know if you have questions,[w:07]\ryou'll find answers.
+* so i'm glad we're on the\rsame page.
+* get comfortable,[w:07] i'll find you\rwhen i'm done.
+* i need a drink.
+[grimwood.cutscene.papyrus.shed.4] [grimwood.cutscene.papyrus.shed.2] [pause:120] [next]
+[grimwood.cutscene.papyrus.shed.3]

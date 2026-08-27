@@ -1,0 +1,13 @@
+* ...Defol buradan,[w:07] evlat.|* These woods aren’t meant for\rsomeone like you.|* Unless you have enough\rexperience,[w:07] you’re better off\rstaying at the lodge.|* The entrance is northwest of\rwhere you came,|* Ama iceri girmek icin o iskelete\rsorman gerekecek.|* Git onunla konus.|\n     [choice:18]Have you            [choice:19]Leave\n     caught anything
+* Balikcilik hep yasaldi,[w:07]\rcogu tabu saysa bile.|* So I do it here.[w:07] Where I can\rbe at peace.|* So don’t ridicule me.[w:07]\n* I don’t need to hear about\rmorals from a child.|* It was normal to do this on\rthe surface.|* To some,[w:07] it was even considered\ra sport.|* Bahse girerim ailen bunu sana\rhic soylemedi,[w:07] degil mi?|* ...tch.[w:07] Nasil yapabildiler?|\n   [choice:20]Are you okay      [choice:21]You should\n                     be careful
+* ...|* Fark etmez.|* Gunun sonunda,[w:07] hicbirimiz\rdegiliz.|* We’re stuck in this mountain.[w:07]\n* We’re not going to leave.|* It’s not worth it to mask our\rfeelings with a smile.|* Not when there was so much we\rcould have done to avoid it.|\n    [choice:21]You should         [choice:19]Leave\n    be careful
+* The disappearances mean\rnothing to me.|* It’s happened before,[w:07] you know.|* Some say Grimwood eats people\ralive.|* Lanet aptallar.[w:07]\n* Bu ormanlar oyun bahcesi\rdegil.|* This entire mountain’s a tomb.[w:07]\n* It’s never been safe for\ranyone.|* We only made things worse by\rinhabiting it.|* Ve sira bendeyse,[w:07] varsin oyle olsun.|\n   [choice:20]Are you okay          [choice:19]Leave
+
+* Wait.
+* ...Disarida dikkatli ol.
+* You’re young.[w:07] You couldn’t\runderstand the dangers of\rthese woods.
+* Not entirely.
+* It’s easy to get lost in your\rown thoughts.
+* Ama bu baskalarinin pahasina\rolmamali.
+* Or at least,[w:07] that’s what I've\rbeen telling myself.
+* Iyi sanslar.

@@ -1,0 +1,87 @@
+[draw.portrait][s]* ARE YOU READY TO\rCREATE THE BEST\rSNOW SCULPTURES YET?
+[p]* ok.
+[s][grimwood.sans.anim:15][set.portrait:18]* I JUST KNOW THIS\rONE'S GONNA BE\rMAGNIFICENT!
+[grimwood.sans.frame:14]* IT HAS TO BE AN\rAWESOME SNOWMAN\rFOR AN AWESOME DAY!
+[p][grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:01]* right.
+[s][set.portrait:00]* A HOLIDAY IS NO\rEXCUSE TO SLACK\rOFF!
+[p][set.portrait:01]* tell that to the dogs.
+[s][grimwood.sans.anim:14][set.portrait:11]* OH,[w:07] DON'T YOU EVEN\rSTART!
+[set.portrait:01]* I KNOW YOU'RE JUST\rDYING TO HEAD TO\rMUFFET'S!
+[grimwood.sans.anim:00][grimwood.sans.frame:00][set.portrait:00]* THE GUARD MAY NOT\rBE ON DUTY TODAY...
+* AMA OYLEYMIS GIBI\rDAVRANACAGIZ!
+[p][set.portrait:00]* ok.
+[grimwood.cutscene.snowman.0] [grimwood.cutscene.snowman.posechange.1] [next]
+[draw.portrait][draw.box][s][grimwood.sans.anim:31][grimwood.sans.frame:00][set.portrait:18]* . . .
+[grimwood.sans.frame:03]* SPEAKING OF THE\rDOGS...
+[grimwood.sans.frame:02][set.portrait:05]* HAVE YOU...[w:07] HEARD\rFROM THEM?
+[p][grimwood.papyrus.anim:17][grimwood.papyrus.frame:01][set.portrait:02]* i thought you would.
+[s][grimwood.sans.frame:03][grimwood.papyrus.frame:00][set.portrait:18]* I'M NOT THE ONE THAT\rGOES DRINKING WITH\rTHEM EVERY NIGHT.
+[p][grimwood.papyrus.anim:17][grimwood.papyrus.frame:01][set.portrait:04]* oh.[w:07] yeah.
+[grimwood.sans.frame:00][grimwood.papyrus.frame:03][set.portrait:03]* they're fine.[w:07]\n* same as usual.
+[s][grimwood.sans.frame:03][set.portrait:18]* OKAY.[w:07] GOOD.
+[pause:090][grimwood.sans.anim:28][grimwood.papyrus.frame:00] [pause:100][grimwood.cutscene.snowman.posechange.2][grimwood.papyrus.anim:16] [pause:045][grimwood.sans.frame:00] [next]
+[draw.portrait][draw.box][s][grimwood.sans.anim:31][grimwood.sans.frame:05][grimwood.papyrus.anim:17][grimwood.papyrus.frame:02][set.portrait:07]* I WAS JUST ASKING\rBECAUSE...
+[grimwood.papyrus.anim:17][grimwood.papyrus.frame:01][set.portrait:05]* THEIR SEARCHES HAVE\rNOT BEEN SUCCESSFUL\rEITHER.
+[p][grimwood.papyrus.frame:00][set.portrait:01]* ok.
+[s][set.portrait:08]* DON'T "OK" ME!
+[set.portrait:07]* I'M CONCERNED.\n[w:07]* IT'S NOT LIKE PEOPLE\rTO JUST DISAPPEAR.
+[p][grimwood.papyrus.frame:04][set.portrait:01]* i dunno.[w:07] it's been\rknown to happen.
+[p][grimwood.papyrus.frame:03][set.portrait:00]* remember when you\rgot trapped under\rsome snow?
+[p][set.portrait:01]* coulda happened to\ranyone.
+[s][grimwood.papyrus.frame:02][set.portrait:06]* NOT TO THIS EXTENT.
+[s][grimwood.papyrus.frame:02][set.portrait:09]* IT’S BEEN HAPPENING\rMORE AND MORE\rFREQUENTLY!
+[s][grimwood.papyrus.frame:01][set.portrait:06]* WHY ISN’T THIS\rBEING TAKEN MORE\rSERIOUSLY?
+[p][grimwood.papyrus.frame:04][set.portrait:01]* dunno.
+[s][grimwood.papyrus.frame:02][set.portrait:03]* WHAT'S WITH YOU\rTODAY?
+[set.portrait:06]* YOU'VE BEEN SO\rGRUMPY ALL DAY!
+[p][grimwood.papyrus.frame:00][set.portrait:00]* no i haven't.
+[s][grimwood.sans.frame:07][set.portrait:18]* YES YOU HAVE![w:07]\n* YOU'RE GRUMPY RIGHT\rNOW!
+[p][grimwood.sans.frame:05][grimwood.papyrus.frame:01][set.portrait:02]* i've just been putting\rmore effort into my\rsnowman.
+[s][grimwood.sans.frame:07][grimwood.papyrus.frame:00][set.portrait:04]* IT'S THE SAME AS ALL\rTHE OTHERS!
+[p][grimwood.papyrus.frame:01][set.portrait:04]* oh.
+[s][grimwood.sans.frame:05][grimwood.papyrus.frame:02][set.portrait:06]* WHAT'S GOING ON,[w:07]\rPAPYRUS?
+[p][grimwood.papyrus.frame:03][set.portrait:02]* nothing.[w:07]\n* i just didn't get much\rsleep last night.
+[pause:060][grimwood.papyrus.anim:16] [next]
+[draw.portrait][draw.box][s][grimwood.sans.frame:08][grimwood.papyrus.anim:17][set.portrait:10]* WHAT?
+[p][grimwood.papyrus.frame:02][set.portrait:03]* i didn't sleep\rmuch.
+[s][grimwood.sans.frame:07][set.portrait:13]* NO,[w:07] I HEARD YOU.
+[set.portrait:17]* I'M JUST CONFUSED.
+[grimwood.papyrus.frame:01][set.portrait:18]* WHEN DO YOU EVER\rNOT GET ENOUGH\rSLEEP?
+[grimwood.sans.frame:05][set.portrait:06]* ...
+[grimwood.papyrus.frame:00][set.portrait:05]* PAPYRUS...
+* ... HAYIR.[w:07] TABII KI.
+[grimwood.papyrus.frame:04]* I SHOULD HAVE\rSEEN IT SOONER!
+[set.portrait:09]* HOW COULD I NOT\rHAVE KNOWN?
+[grimwood.papyrus.frame:00][set.portrait:06]* YOU'RE JUST AS\rCONCERNED AS I AM.
+* YUZUNDEKI IFADEDEN\rGAYET BELLI\rOLUYOR!
+[p][grimwood.papyrus.frame:03][set.portrait:00]* it is?
+[s][set.portrait:01]* YES!
+[grimwood.papyrus.frame:02][set.portrait:05]* WE'VE BEEN SCOURING\rTHESE WOODS FOR\rMONTHS,
+* VE HALA HICBIR SEY\rBULAMADIM!
+[set.portrait:27]* IT MUST BE SO\rDRAINING FOR YOU!
+[grimwood.cutscene.snowman.posechange.3][grimwood.papyrus.frame:01][set.portrait:01]* PAPYRUS.[w:07]\n* YOU MUST GO HOME\rIMMEDIATELY!
+[grimwood.sans.anim:14][grimwood.papyrus.frame:02][set.portrait:00]* OBSESSING OVER\rTHINGS IS BAD FOR\rYOUR HEALTH.
+[set.portrait:18]* SO AS YOUR LOVING\rBROTHER...
+* SANA MOLA VERMENI\rONERIYORUM!
+[p][grimwood.sans.anim:13][grimwood.papyrus.frame:01][set.portrait:01]* ok.[w:07]\n* thanks.
+[s][grimwood.cutscene.snowman.posechange.4][set.portrait:00]* WE CAN CONTINUE OUR\rSEARCH TOMORROW.
+[p][grimwood.papyrus.dir:16][set.portrait:00]* i thought we were\rhere to build\rsnowmen.
+[s][set.portrait:18]* OH![w:07]\n* THAT'S WHAT I\rMEANT.
+[p][set.portrait:00]* got it.
+[s][grimwood.sans.anim:14][set.portrait:00]* AS FOR ME...[w:07]\n* I STILL HAVE WORK\rTO DO.
+[set.portrait:13]* IT MAY BE A HOLIDAY,[w:07]\rBUT ALPHYS PUT ME\rUP TO A SPECIAL TASK...
+[p][grimwood.sans.anim:13][set.portrait:00]* did she?
+[s][set.portrait:18]* YES![w:07]\n* ONE SO SECRET AND\rIMPORTANT...
+* NE OLDUGUNU\rSOYLEYEMEM!
+[p][set.portrait:01]* alright.
+[s][set.portrait:00]* SO I'LL BE OFF!
+[set.portrait:18]* I'LL SEE YOU AT\rMUFFET'S!
+[grimwood.cutscene.snowman.1] [next]
+[draw.portrait][draw.box][p][set.portrait:00]* i thought you told me\rto go home.
+[s][set.portrait:01]* THAT PLACE BASICALLY\rIS YOUR HOME.
+[p][set.portrait:02]* true.
+[set.portrait:00]* see you,[w:07] then.
+[s][set.portrait:18]* BYE!
+[hide][grimwood.cutscene.snowman.2] [grimwood.papyrus.anim:12] [w:66] [next]
+[draw.box][p][speed:090]* ...[speed:030]
+[grimwood.cutscene.snowman.3] [grimwood.cutscene.snowman.4]

@@ -1,0 +1,3 @@
+[draw.box][s]* (THE TOWN...)
+* (...KAYBOLMALARLA ILGILI\rOLABILIR MI..?)
+[set.camera.progression:01]

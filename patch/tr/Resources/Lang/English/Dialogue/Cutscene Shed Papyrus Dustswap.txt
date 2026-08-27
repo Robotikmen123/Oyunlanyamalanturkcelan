@@ -1,0 +1,39 @@
++[draw.box][p][voice:9][speed:060]* look at me.
++* look at what you made me\rdo.
++* LOOK AT ME.
++* ...
++* you think you’re special?
++* that the rest of us mean\rNOTHING?
++* i hate you.
++* i hate everything about you.
++* ...
++* we both know where this is\rgoing.
++* i'll[w:10] KILL[w:10] you.
++[set.camera.progression:02]
++
++
++
++
++
++
++
++[draw.box][p][speed:030]* you [effect:shake,1]DAMN BRAT[effect:shake,0]!
++* you think a [effect:shake,0]BATTLE[effect:shake,0] can\rsave you?!
++[pause:010]
++[draw.box][p][effect:shake,0]* come ON![w:07]\n* where's that spirit [effect:shake,1]NOW?! [w:20] [next]
++[set.camera.progression:06]
++[draw.box][p][effect:shake,2]* [xscale:40][yscale:40]ANSWER ME!
++[pause:120] [next]
++[draw.box][p][effect:shake,0][xscale:20][yscale:20]* . . .
++[pause:090][set.camera.progression:08] [next]
++[draw.box]* did i...?
++[pause:090] [next]
++[draw.box][p]* heh.[w:07] heh heh heh...
++[set.camera.progression:09]* go on.[w:07] do it.
++* try again.
++* this doesn’t change anything.
++* i’m going to win.
++* i’m going to beat you.
++* nothing else matters.
++[noskip][speed:090][effect:shake,0][snd.stop.all]* i won’t stop this until\ri [color:255,000,000]WIN[color:255,255,255].
++[set.camera.progression:10]

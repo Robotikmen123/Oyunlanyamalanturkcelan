@@ -1,0 +1,2 @@
+[speed:090]*  B e h i n d   y o u .[speed:030]|[grimwood.event.papyrus.chase.start]
+* (Fena halde sessiz.)
