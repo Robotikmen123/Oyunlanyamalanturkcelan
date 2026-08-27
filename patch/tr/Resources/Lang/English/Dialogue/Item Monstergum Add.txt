@@ -1,1 +1,1 @@
-[draw.box][inv.sound]* (Monster Gum was added to\ryour inventory.)
+[draw.box][inv.sound]* (Canavar Sakizi envanterine\reklendi.)

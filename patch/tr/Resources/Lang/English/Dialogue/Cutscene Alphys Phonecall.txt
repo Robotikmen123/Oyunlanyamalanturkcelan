@@ -1,4 +1,4 @@
-[draw.portrait][draw.box][s]* HEY, CAPTAIN!
+[draw.portrait][draw.box][s]* HEY, KAPTAN!
 [set.portrait:18]* JUST CALLING TO\rGIVE MY DAILY\rREPORT.
 [a][set.portrait:18]* Bunu yapmak zorunda\rdegildin,[w:07] Sans.
 * Bugun tatil,\rhatirladin mi?
@@ -36,5 +36,5 @@
 [a][set.portrait:18]* ...Tesekkur ederim.[w:07]\n* Yarin gorusuruz.
 [s][set.portrait:05]* I'LL SEE YOU\rTOMORROW.
 [pause:060] [set.camera.progression:02] [pause:075] [next]
-[draw.box][set.camera.progression:04][font:0][voice:0][inv.sound]* (Monster Gum was added to your\rinventory.)
+[draw.box][set.camera.progression:04][font:0][voice:0][inv.sound]* (Canavar Sakizi envanterine\reklendi.)
 [inv.sound]* (You got 10G.)

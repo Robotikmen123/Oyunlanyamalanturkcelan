@@ -21,24 +21,24 @@
 [s][set.portrait:18][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* OKAY![w:07]\n* THANK YOU FOR\rALERTING ME!
 [set.portrait:00]* I’M ON THE CASE!
 [pause:030][set.camera.progression:03] [grimwood.temmie.effect:04] [w:15] [next]
-[draw.portrait][draw.box][t][grimwood.sans.dir:08][grimwood.sans.frame:00][voice:6][grimwood.temmie.anim:22][grimwood.temmie.dir:24][expression:02]* wait [effect:shake,1][xscale:60]STOP
-[effect:shake,0][xscale:20][update.tem.pos][grimwood.temmie.effect:01][expression:12]* nononono[w:07]\n* stop it STOP [xscale:90]IT[xscale:20]
+[draw.portrait][draw.box][t][grimwood.sans.dir:08][grimwood.sans.frame:00][voice:6][grimwood.temmie.anim:22][grimwood.temmie.dir:24][expression:02]* dur [effect:shake,1][xscale:60]DUR
+[effect:shake,0][xscale:20][update.tem.pos][grimwood.temmie.effect:01][expression:12]* hayirhayirhayir[w:07]\n* dur artik DUR [xscale:90]ARTIK[xscale:20]
 [s][set.portrait:03][grimwood.temmie.effect:00]* WHAT?[w:07]\n* BUT YOU SAID [next]
 [t][voice:6][expression:02]* yaya tem said dat\rbut lOOK
 [pause:015][grimwood.temmie.anim:12][grimwood.temmie.frame:00][grimwood.temmie.effect:05] [next]
-[draw.portrait][draw.box][t][expression:02]* lookat[w:07]\n* [xscale:40]this[xscale:20]
+[draw.portrait][draw.box][t][expression:02]* suna bak[w:07]\n* [xscale:40]hele[xscale:20]
 [pause:999][grimwood.sans.anim:00][grimwood.sans.dir:00][grimwood.sans.frame:00][set.camera.progression:04] [next]
-[draw.portrait][draw.box][t][grimwood.temmie.anim:17][update.tem.pos][grimwood.temmie.effect:01][expression:03]* [xscale:67][yscale:30]SHOTCUT
+[draw.portrait][draw.box][t][grimwood.temmie.anim:17][update.tem.pos][grimwood.temmie.effect:01][expression:03]* [xscale:67][yscale:30]KISAYOL
 [s][set.portrait:10][xscale:20][yscale:20][grimwood.temmie.anim:00]* OH!
 [pause:999][set.camera.progression:05] [next]
-[draw.portrait][draw.box][t][voice:6][update.tem.pos][grimwood.temmie.effect:02]* thiss take,s[w:07] you\rto town
+[draw.portrait][draw.box][t][voice:6][update.tem.pos][grimwood.temmie.effect:02]* bu senii[w:07] kasabaya\rgoturur
 [grimwood.temmie.anim:16][grimwood.temmie.dir:16][grimwood.temmie.effect:03][expression:03]*[xscale:60] [effect:shake,3]GO NOW[xscale:20]
 [s][grimwood.sans.anim:15][set.portrait:18][effect:shake,0][grimwood.temmie.anim:00][grimwood.temmie.effect:00]* THANKS, TEMMIE!
 [pause:999][set.camera.progression:07] [next]
-[draw.portrait][draw.box][t][voice:4][pitch:24000][expression:14]* Off he goes.[w:07] Again.
+[draw.portrait][draw.box][t][voice:4][pitch:24000][expression:14]* Iste gidiyor.[w:07] Yine.
 * ... yine de,[w:07] komik.
 * Bu sefer...[w:07] daha az emin\rhissediyorum.
 * Sanki iki yone de\rgidebilirmis gibi,[w:07] acikcasi.
 [pause:060] [next]
-[draw.portrait][draw.box][t][voice:4][pitch:24000][expression:08]* Oh, well.[w:07]\n* I better prepare\ranyway.
+[draw.portrait][draw.box][t][voice:4][pitch:24000][expression:08]* Neyse.[w:07]\n* Yine de hazirlansam\riyi olur.
 [set.camera.progression:09]

@@ -3,24 +3,27 @@
 
 Katalog tum Dialogue/ dosyalarina uygulanir; tekrar eden satirlar bir kez
 cevrilir. stdin'den JSON {kaynak: ceviri} bekler.
+
+Markup imzasi kaynakla ayni olmayan ceviri kataloga HIC alinmaz.
 """
 import json, os, re, sys
 
-TAG = re.compile(r"\\[[^\\]\\n]*\\]")
-ESC = re.compile(r"\\\\[rn]")
+TAG = re.compile(r"\[[^\]\n]*\]")   # [w:07], [set.portrait:16], [effect:shake,1]
+ESC = re.compile(r"\\[rn]")         # metin icindeki \r ve \n kacis dizileri
+
+def sig(s):
+    return sorted(TAG.findall(s)), len(ESC.findall(s))
+
 SRC = "/home/user/dt/game/Dusttrust X ACT 1 (v1.1)/Resources/Lang/English/Dialogue"
 P = "tools/catalog/dialogue.json"
 
 new = json.load(sys.stdin)
-
-# Markup imzasi kaynakla ayni degilse kataloga HIC girmesin.
-bad = [(e, t) for e, t in new.items()
-       if (sorted(TAG.findall(e)), len(ESC.findall(e)))
-       != (sorted(TAG.findall(t)), len(ESC.findall(t)))]
+bad = [(e, t) for e, t in new.items() if sig(e) != sig(t)]
 if bad:
     for e, t in bad:
         print(f"REDDEDILDI\n  kaynak: {e}\n  ceviri: {t}", file=sys.stderr)
     sys.exit(f"{len(bad)} ceviri markup uyusmazligi nedeniyle reddedildi")
+
 shared = {}
 if os.path.exists(P):
     cat = json.load(open(P, encoding="utf-8"))

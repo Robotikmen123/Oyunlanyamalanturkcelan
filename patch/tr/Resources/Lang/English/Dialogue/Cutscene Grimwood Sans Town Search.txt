@@ -1,11 +1,11 @@
-[draw.portrait][draw.box][s]* HELLO?[w:07]\n* IS EVERYONE ALRIGHT?
+[draw.portrait][draw.box][s]* MERHABA?[w:07]\n* HERKES IYI MI?
 [grimwood.sans.anim:14][set.portrait:18]* I WAS TOLD...
 [grimwood.sans.anim:13][set.portrait:17]* ...
 [pause:999][set.camera.progression:02] [next]
-[draw.portrait][draw.box][s][set.portrait:25]* ... NOBODY'S HERE...
+[draw.portrait][draw.box][s][set.portrait:25]* ... KIMSE YOK...
 [set.portrait:26]* ...
 [pause:045][set.camera.progression:04] [next]
-[draw.portrait][draw.box.noskip][s][set.portrait:19]* ALPHYS![w:07]\n* ALPHYS,[w:07] COME QUICK! [w:18] [next]
+[draw.portrait][draw.box.noskip][s][set.portrait:19]* ALPHYS![w:07]\n* ALPHYS,[w:07] CABUK GEL! [w:18] [next]
 [set.portrait:25]* SOMETHING...[w:18] [next]
 [set.portrait:19]* SOMETHING WENT\rRAMPANT ACROSS\rTHE TOWN![w:20] [next]
 [set.camera.progression:05] [next]
@@ -17,7 +17,7 @@
 [a][grimwood.sans.anim:35][set.portrait:11]* Oradan cikman\rlazim, Sans!!
 [s][set.portrait:26]* I CAN'T FIND ANYONE,[w:07]\rAND...
 [grimwood.sans.anim:35][pause:045] [next]
-[draw.portrait][draw.box][s][set.portrait:24]* OH NO.[w:07]\n* PAPYRUS?[w:07] WHERE IS\r[effect:shake,1]PAPYRUS[effect:shake,0]?!
+[draw.portrait][draw.box][s][set.portrait:24]* OLAMAZ.[w:07]\n* PAPYRUS?[w:07] NEREDE\r[effect:shake,1]PAPYRUS[effect:shake,0]?!
 * BULUSACAGIMIZI\rSOYLEMISTIK...
 [a][set.portrait:15]* Sans![w:07]\n* Senin [next]
 [set.camera.progression:06]

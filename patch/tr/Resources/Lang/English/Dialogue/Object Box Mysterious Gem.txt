@@ -1,5 +1,5 @@
 * (Muhurlu tahta bir sandik.)[w:07]\n* (Acmak icin ALTIN\rgerekiyor.)|* (Gizemli esya 1G'ye\ralinsin mi?)\n        [choice:10]Evet          [choice:11]Hayir
 [noskip][hide][w:15] [next]
-[draw.box][absorbed.sound]* (GREEN GEMSTONE was added to\ryour...[w:07] Huh?!)[w:07]\n* (But the gem was absorbed!!) 
+[draw.box][absorbed.sound]* (YESIL DEGERLI TAS envanterine\reklendi...[w:07] Ha?!)[w:07]\n* (Ama tas emildi!!) 
 * Artik ise yaramaz.
 * (Yeterli ALTININ yok.)[w:07]\n* (Ekonomi zor.)

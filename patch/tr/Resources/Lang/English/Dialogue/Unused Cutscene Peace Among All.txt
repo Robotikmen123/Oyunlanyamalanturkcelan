@@ -1,9 +1,9 @@
-[draw.portrait][p]* yeah, so i said:\r[w:07]"that's no airplane!"
+[draw.portrait][p]* evet, ben de dedim ki:\r[w:07]"o ucak falan degil!"
 * "o benim karim!"
 [as][set.portrait:01]* Oh ho ho![w:07]\n* Bu iyiydi!
 [p]* thank you,[w:07] thank you.
 * sen simdiye kadarki en iyi\rseyircimsin.
-[as][set.portrait:05]* You're too kind,[w:07]\rmy friend.
+[as][set.portrait:05]* Cok naziksin,[w:07]\rdostum.
 [set.portrait:01]* It makes me glad to\rhear you've been\rdoing well.
 [p]* same to you.
 [as]* Hayatlarimizi konusmak\risterdim,[w:07]\reger istersen.
@@ -35,11 +35,11 @@
 [p]* heh, yeah.[w:07]\n* he's the coolest.
 * bir gun bir insanla tanismayi\rgercekten cok istiyor.
 * surekli aynanin karsisinda\rmonologlarini\rprova ediyor.
-[as][set.portrait:11]* Is he not afraid?
+[as][set.portrait:11]* Korkmuyor mu?
 [p][set.portrait:04]* of humans?[w:07]\n* nah,[w:07] he admires them\ractually.
 [set.portrait:02]* part of me thinks he\rtook the job to get\rcloser to one.
 [set.portrait:07]* to be friends with one,[w:07]\rmaybe? i dunno.
-[as][set.portrait:11]* That...[w:07] doesn't seem to\rline up with his line\rof work.
+[as][set.portrait:11]* Bu...[w:07] onun isiyle pek\rortusmuyor\rgibi.
 * Ya da tarihimizi,[w:07] hatta\rondan da ote.
 [p]* i thought so, too.[w:07]\n* but he's passionate\rabout it.
 * bence gayet iyi bir\rsansi var,[w:07] acikcasi\rsoylemek gerekirse.

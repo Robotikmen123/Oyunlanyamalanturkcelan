@@ -1,30 +1,30 @@
-|[draw.portrait][as][expression:01]* The tea is ready! [w:10]
+|[draw.portrait][as][expression:01]* Cay hazir! [w:10]
 |[p][expression:09]* right on. [w:10]
 |[pause:275][set.camera.progression:01] [next]
-|[draw.portrait][draw.box][as]* I really am thankful\rthat you decided to\rcome over,[w:07] Papyrus.
+|[draw.portrait][draw.box][as]* Gelmeye karar verdigin\ricin gercekten\rminnettarim,[w:07] Papyrus.
 |* Bir daha disaridan\rziyaretcim olur mu emin\rdegildim,[w:07] ama...
 |[expression:01]* You are always welcome\rhere,[w:07] my friend.
 |[p][grimwood.papyrus.anim:20][expression:06]* thanks,[w:07] i appreciate it.
 |[as][grimwood.papyrus.anim:18][grimwood.papyrus.frame:00]* Umarim cayi\rbegenirsin,[w:07] eski bir\rtarifimdir.
 |[p][grimwood.papyrus.anim:21][expression:09]* don’t sweat it,[w:07] i’m\rsure it’s great.
 |[grimwood.papyrus.anim:22][pause:120] [next]
-|[draw.portrait][draw.box][p][grimwood.papyrus.frame:00][expression:10]* oh,[w:07] wow.
+|[draw.portrait][draw.box][p][grimwood.papyrus.frame:00][expression:10]* oh,[w:07] vay.
 |[expression:08]* that’s actually really\rgood.
 |[grimwood.papyrus.anim:23][expression:07]* you got a talent for\rthis,[w:07] old man.
-|[asgore.anim:15][expression:10]* ... oops.
+|[asgore.anim:15][expression:10]* ... eyvah.
 |[as][grimwood.papyrus.anim:18][grimwood.papyrus.frame:00][expression:01]* Ho ho ho![w:07]\n* Begenmene cok\rsevindim.
-|[asgore.anim:12][asgore.frame:00]* It’s been so long since\rI’ve been able to share\rit with someone,
+|[asgore.anim:12][asgore.frame:00]* Bunu biriyle paylasabileli\rcok uzun zaman\roldu,
 |* Ustaligimi kaybettim diye\rendiselenmistim!
 |[p][grimwood.papyrus.anim:20][expression:09]* well don’t worry any\rmore,[w:07] this is awesome.
 |[grimwood.papyrus.anim:19]* and i’m not even that\rbig of a tea person.
 |[as][expression:02]* Oh, gercekten mi?[w:07]\n* Sen neyi tercih edersin,[w:07]\rdostum?
 |[p][expression:09]* i usually just drink\rsome honey at my\rtown’s local bakery.
 |[as]* ...
-|[asgore.anim:15][expression:01]* Well,[w:07] that’s magnificent!
-|[asgore.anim:12][asgore.frame:00][expression:00]* I would like to catch\rup on our lives,[w:07]\rif you will.
+|[asgore.anim:15][expression:01]* Vay,[w:07] bu muhtesem!
+|[asgore.anim:12][asgore.frame:00][expression:00]* Hayatlarimizi konusmak\risterdim,[w:07]\reger istersen.
 |[p][grimwood.papyrus.anim:24][expression:11]* by all means.
 |[as][grimwood.papyrus.anim:19][expression:02]* Soyle bana,[w:07] ne is\ryapiyorsun?
-|[expression:00]* I am very curious to\rknow what goes on\routside these caverns.
+|[expression:00]* Bu magaralarin disinda\rneler oldugunu cok\rmerak ediyorum.
 |[expression:01]* Besides,[w:07] you have told\rme so much about that\rcrew...
 |[expression:01]* Without mentioning\rtheir purpose!
 |[p][grimwood.papyrus.anim:24][expression:09]* well,[w:07] my brother and i\rare stationed as\rsentries.
@@ -35,9 +35,9 @@
 |* sanirim seyin pek de\rhayrani\rdegilim...
 |[grimwood.papyrus.anim:20]* "capturing humans"[w:07]\rpart of my job.
 |[as][grimwood.papyrus.anim:18][grimwood.papyrus.frame:00][expression:05]* Anliyorum.
-|[expression:00]* It’s difficult to find\rthe will to do what we\rmust.
+|[expression:00]* Yapmamiz gerekeni yapacak\riradeyi bulmak\rzor.
 |[expression:01]* But from what I can\rtell,[w:07] you are an honest\ryoung man.
-|[expression:00]* I believe when the time\rcomes,[w:07] you will do the\rright thing.
+|[expression:00]* Inaniyorum ki zamani\rgelince,[w:07] dogru olani\ryapacaksin.
 |[p][expression:09]* thanks.
 |[as]* Soyle bana,[w:07] ne ugruna?[w:07]\rSeni ayakta tutan\rnedir?
 |[p][grimwood.papyrus.anim:20][expression:09]* my brother,[w:07] really.
@@ -47,7 +47,7 @@
 |[expression:00]* sorry,[w:07] that's probably\rnot super interesting.
 |[as][expression:02]* Hayir,[w:07] boyle soyleme.
 |[expression:02]* There is nothing wrong\rin finding solace in\rothers.
-|[expression:00]* Seeing others do better\rcan inspire us to be\rbetter ourselves.
+|[expression:00]* Baskalarinin daha iyisini\ryaptigini gormek bizi de\rdaha iyi olmaya tesvik eder.
 |[expression:01]* And from the sounds of\rit,[w:07] you have a great\rinfluence.
 |[p][grimwood.papyrus.anim:24][expression:06]* heh,[w:07] yeah.[w:07]\n* he's the coolest.
 |[grimwood.papyrus.anim:19][expression:09]* he really wants to meet\ra human someday.
@@ -64,16 +64,16 @@
 |[p][expression:09]* yeah.[w:07] why not?
 |[grimwood.papyrus.anim:20][expression:08]* who wouldn't wanna be\rbest buds with my bro?
 |[as][grimwood.papyrus.anim:18][grimwood.papyrus.frame:00][expression:01]* Sanirim buna bir sey\rdiyemem.
-|[expression:00]* It's...[w:07] nice, in a way.
+|[expression:00]* Bu...[w:07] bir bakima guzel.
 |[expression:02]* A long time ago,[w:07] I\rdreamed of coexisting\rwith humans.
 |[expression:03]* Nowadays that's...[w:07]\rdifficult to imagine\rgiven our circumstances.
 |* Cogu insanin magaralarimizdan\rmemnun kalacagindan\rsupheliyim.
-|[expression:00]* Yet,[w:07] the way you speak\rof your brother and his\rambitions...
+|[expression:00]* Yine de,[w:07] kardesinden\rve onun\rhayallerinden bahsedisin...
 |[expression:01]* I think we could have\ra lot to offer them.[w:07]\n* If times were better.
 |[p][expression:09]* yeah,[w:07] well said.
 |[as]* Emin ol,[w:07] senin ve kardesin\rgibi daha cok insanimiz\rolsaydi...
 |[expression:01]* We could see a peaceful\rfuture someday.
-|[expression:00]* All we need to do is to\rtry to be kind every\rday.[w:07] Just a little.
+|[expression:00]* Tek yapmamiz gereken her\rgun nazik olmaya\rcalismak.[w:07] Birazcik.
 |* Bana bunu soz ver.[w:07]\n* Verir misin,[w:07] Papyrus?
 |[p][expression:00]* what,[w:07] to be kind?
 |[as][expression:05]* Bu hayalden asla\rvazgecmemeyi.
@@ -82,7 +82,7 @@
 |[p][expression:00]* peace among all,[w:07] huh?
 |[expression:09]* ... what the heck.[w:07] sure,[w:07]\rold man.[w:07] i think i can\rkeep that promise.
 |[as][expression:01]* Oh,[w:07] muhtesem![w:07]\n* Bunu duymak beni cok\rmutlu etti.
-|[expression:00]* Thank you for indulging\rme,[w:07] Papyrus.[w:07] I'm glad to\rcall you my friend.
+|[expression:00]* Beni kirmadigin icin\rtesekkurler,[w:07] Papyrus.[w:07] Sana dostum\rdiyebildigim icin mutluyum.
 |[p][grimwood.papyrus.anim:19][expression:09]* any time, old man.
 |[p][grimwood.papyrus.anim:24][expression:07]* and, uh...[w:07] same.
 |[set.camera.progression:02]
@@ -97,7 +97,7 @@
 |
 |
 |
-|[draw.box][p]* to what it’s all been\rfor.
+|[draw.box][p]* tum bunlarin ne ugruna\rolduguna.
 |[pause:090] [next]
-|[draw.portrait][draw.box][p][expression:13]* peace among all.
+|[draw.portrait][draw.box][p][expression:13]* herkese huzur.
 |[set.camera.progression:99]

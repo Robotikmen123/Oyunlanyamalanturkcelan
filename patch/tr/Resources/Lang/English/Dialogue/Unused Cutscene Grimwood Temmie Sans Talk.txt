@@ -16,8 +16,8 @@
 [s][set.portrait:18]* OKAY![w:07]\n* THANK YOU FOR\rALERTING ME!
 [set.portrait:00]* I’M ON THE CASE!
 [pause:045][set.camera.progression:03] [next]
-[draw.portrait][draw.box][t][voice:6]* wait [effect:shake,1][xscale:60]STOP
-[effect:shake,0][xscale:20]* nononono[w:07]\n* stop STOP IT
+[draw.portrait][draw.box][t][voice:6]* dur [effect:shake,1][xscale:60]DUR
+[effect:shake,0][xscale:20]* hayirhayirhayir[w:07]\n* dur DUR ARTIK
 [s][set.portrait:03]* WHAT?[w:07]\n* BUT YOU SAID [next]
 [t][voice:6]* yaya tem said dat\rbut ikn ow SOMETHING
 * bir [yscale:50]KISAYOL

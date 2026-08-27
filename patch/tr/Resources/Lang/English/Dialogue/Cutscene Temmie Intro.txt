@@ -23,7 +23,7 @@
 * Bu yuzden ONLARI DURDURMALIYIZ.
 [p]* ...
 [t]* Don’t play with me, Papyrus!\n* You know we need to stop them!
-[effect:shake,0]* To get them to at least do\r[effect:shake,1]SOMETHING!
+[effect:shake,0]* En azindan [effect:shake,1]BIR SEY\ryapmalarini saglamak icin!
 [p][effect:shake,0]* you think i haven’t tried?
 [t]* Ha! Not everything!
 * Seni taniyorum, Papyrus.[w:07]\n* Ne oldugunu.

@@ -1,4 +1,4 @@
-[draw.box]* (An object familiar to Sans\rrests atop the snow.)
+[draw.box]* (Sans'a tanidik gelen bir nesne\rkarin ustunde duruyor.)
 [set.camera.progression:01]
-[draw.box]* (Sans got the [color:255,000,000]Shed Keys[color:255,255,255].)
+[draw.box]* (Sans [color:255,000,000]Kulube Anahtarlarini[color:255,255,255] aldi.)
 [set.camera.progression:03]

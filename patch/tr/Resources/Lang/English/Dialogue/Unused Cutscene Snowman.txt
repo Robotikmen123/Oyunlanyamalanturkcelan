@@ -34,7 +34,7 @@
 [s][grimwood.sans.anim:15]* AND WATCH FOR ANY MISSING\rPEOPLE!
 [p]* sounds good to me.
 [grimwood.cutscene.snowman.0] [next]
-[drawbox][p][grimwood.snowman.papyrus.anim:00]* i'm beat.
+[drawbox][p][grimwood.snowman.papyrus.anim:00]* yoruldum.
 [s][grimwood.sans.anim:16]* WE BARELY STARTED!
 [p]* sorry, sans.
 [p]* i don't think i got much\rsleep last night.
@@ -67,7 +67,7 @@
 [s]* JUST NOT TOO MUCH.
 [p]* sure thing.
 [grimwood.cutscene.snowman.1] [next]
-[drawbox][p]* where are you going?
+[drawbox][p]* nereye gidiyorsun?
 [s]* I'LL PROBABLY BE HEADING\rHOME.
 [s]* NAPSTATON IS ALMOST ON!
 [p]* oh, yeah.

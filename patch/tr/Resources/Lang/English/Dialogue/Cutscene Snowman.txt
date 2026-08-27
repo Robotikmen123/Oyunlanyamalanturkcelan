@@ -1,4 +1,4 @@
-[draw.portrait][s]* ARE YOU READY TO\rCREATE THE BEST\rSNOW SCULPTURES YET?
+[draw.portrait][s]* EN IYI KAR\rHEYKELLERINI YAPMAYA\rHAZIR MISIN?
 [p]* ok.
 [s][grimwood.sans.anim:15][set.portrait:18]* I JUST KNOW THIS\rONE'S GONNA BE\rMAGNIFICENT!
 [grimwood.sans.frame:14]* IT HAS TO BE AN\rAWESOME SNOWMAN\rFOR AN AWESOME DAY!
@@ -20,7 +20,7 @@
 [grimwood.sans.frame:00][grimwood.papyrus.frame:03][set.portrait:03]* they're fine.[w:07]\n* same as usual.
 [s][grimwood.sans.frame:03][set.portrait:18]* OKAY.[w:07] GOOD.
 [pause:090][grimwood.sans.anim:28][grimwood.papyrus.frame:00] [pause:100][grimwood.cutscene.snowman.posechange.2][grimwood.papyrus.anim:16] [pause:045][grimwood.sans.frame:00] [next]
-[draw.portrait][draw.box][s][grimwood.sans.anim:31][grimwood.sans.frame:05][grimwood.papyrus.anim:17][grimwood.papyrus.frame:02][set.portrait:07]* I WAS JUST ASKING\rBECAUSE...
+[draw.portrait][draw.box][s][grimwood.sans.anim:31][grimwood.sans.frame:05][grimwood.papyrus.anim:17][grimwood.papyrus.frame:02][set.portrait:07]* SADECE SEY DIYE\rSORUYORDUM...
 [grimwood.papyrus.anim:17][grimwood.papyrus.frame:01][set.portrait:05]* THEIR SEARCHES HAVE\rNOT BEEN SUCCESSFUL\rEITHER.
 [p][grimwood.papyrus.frame:00][set.portrait:01]* ok.
 [s][set.portrait:08]* DON'T "OK" ME!
@@ -42,7 +42,7 @@
 [s][grimwood.sans.frame:05][grimwood.papyrus.frame:02][set.portrait:06]* WHAT'S GOING ON,[w:07]\rPAPYRUS?
 [p][grimwood.papyrus.frame:03][set.portrait:02]* nothing.[w:07]\n* i just didn't get much\rsleep last night.
 [pause:060][grimwood.papyrus.anim:16] [next]
-[draw.portrait][draw.box][s][grimwood.sans.frame:08][grimwood.papyrus.anim:17][set.portrait:10]* WHAT?
+[draw.portrait][draw.box][s][grimwood.sans.frame:08][grimwood.papyrus.anim:17][set.portrait:10]* NE?
 [p][grimwood.papyrus.frame:02][set.portrait:03]* i didn't sleep\rmuch.
 [s][grimwood.sans.frame:07][set.portrait:13]* NO,[w:07] I HEARD YOU.
 [set.portrait:17]* I'M JUST CONFUSED.
@@ -77,7 +77,7 @@
 [s][set.portrait:00]* SO I'LL BE OFF!
 [set.portrait:18]* I'LL SEE YOU AT\rMUFFET'S!
 [grimwood.cutscene.snowman.1] [next]
-[draw.portrait][draw.box][p][set.portrait:00]* i thought you told me\rto go home.
+[draw.portrait][draw.box][p][set.portrait:00]* bana eve git demistin\rsaniyordum.
 [s][set.portrait:01]* THAT PLACE BASICALLY\rIS YOUR HOME.
 [p][set.portrait:02]* true.
 [set.portrait:00]* see you,[w:07] then.

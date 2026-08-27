@@ -1,4 +1,4 @@
-[draw.portrait][s]* ARE YOU READY TO\rCREATE THE BEST\rSNOW SCULPTURES YET?
+[draw.portrait][s]* EN IYI KAR\rHEYKELLERINI YAPMAYA\rHAZIR MISIN?
 [p]* ok.
 [s][grimwood.sans.anim:15][set.portrait:18]* I JUST KNOW THIS\rONE'S GONNA BE\rMAGNIFICENT!
 [grimwood.sans.frame:14]* IT HAS TO BE AN\rAWESOME SNOWMAN\rFOR AN AWESOME DAY!
@@ -49,7 +49,7 @@
 [s]* IT ONLY GIVES US\rSOMETHING TO LOOK\rFORWARD TO!
 [p][expression:01]* i guess.
 [pause:100][grimwood.papyrus.frame:00] [skippable] [next]
-[draw.portrait][draw.box][s][expression:03]* ... WHERE WOULD WE\rEVEN GO?
+[draw.portrait][draw.box][s][expression:03]* ... NEREYE\rGIDERDIK KI?
 [p][grimwood.papyrus.frame:01]* i dunno.
 [s][grimwood.sans.frame:08][expression:04]* THIS WHOLE THING\rWAS YOUR IDEA!
 [p][grimwood.papyrus.frame:03]* yeah,[w:07] guess i didn’t\rthink that far ahead.

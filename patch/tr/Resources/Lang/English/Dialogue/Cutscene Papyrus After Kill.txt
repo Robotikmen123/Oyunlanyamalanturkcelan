@@ -1,6 +1,6 @@
 [p]* want in on this?
 [set.camera.progression:01]
-[draw.box][p]* too slow.
+[draw.box][p]* cok yavas.
 [set.camera.progression:03]
 [draw.box][p]* ...
 * ...heh.
@@ -15,7 +15,7 @@
 * oh,[w:07] su halime bak.
 * berbat haldeyim.
 [set.camera.progression:05]
-[draw.box][p]* but that doesn’t bother me.
+[draw.box][p]* ama bu beni rahatsiz etmiyor.
 * artik umursamiyorum bile.
 * oynayacagimiz oyun buysa,[w:07]\rpekala.[w:07]\n* oynarim.
 * bunda iyilesiyorum.
@@ -24,5 +24,5 @@
 * tek istedigim sana aci\rcektirmek.
 * seni incitmek istiyorum.[w:07]\n* kanatmak istiyorum.
 [pause:030] [next]
-[draw.box][font:0][voice:9]* I don't care about anything\relse.
+[draw.box][font:0][voice:9]* Baska hicbir sey\rumurumda degil.
 [set.camera.progression:06]
