@@ -1,7 +1,7 @@
 * (Muhurlu tahta bir sandik.)[w:07]\n* (Acmak icin ALTIN\rgerekiyor.)|* (Gizemli esya 20G'ye\ralinsin mi?)\n        [choice:06]Evet          [choice:07]Hayir
 [noskip][hide][w:15] [next]
 [draw.box][inv.sound]* (DULL KNIFE was added to\ryour [color:255,255,000]INVENTORY[color:255,255,255].)
-* Now useless.
+* Artik ise yaramaz.
 * (Yeterli ALTININ yok.)
 
 

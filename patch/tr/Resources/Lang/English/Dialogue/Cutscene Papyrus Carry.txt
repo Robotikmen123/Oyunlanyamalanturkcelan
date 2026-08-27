@@ -2,5 +2,5 @@
 * i didn't want it to come to\rthis,[w:07] but when do things ever\rgo my way?
 [grimwood.cutscene.papyrus.carry.1] [next]
 [show]* tonight...[w:12]\n* tonight i'm putting it all on\rthe line.
-* and i'm not looking back.
+* ve arkama bakmiyorum.
 [grimwood.cutscene.papyrus.carry.2]

@@ -6,7 +6,7 @@
 [t][grimwood.sans.anim:13][voice:6][expression:04]* im ok but WHAT are\ru doing here
 [expression:05]* took me forever to\rfind yo u
 [s]* JUST FOLLOWED SOME\rFOOTPRINTS THAT LED\rHERE.
-* NOT SURE WHO THESE\rPUZZLES BELONG TO,
+* BU BULMACALAR KIME AIT\rBILMIYORUM,
 * AMA YARDIM EDIP ONLARI\rSIFIRLAYABILECEGIMI\rSANDIM.
 [t][voice:6][expression:07]* ok wthaver
 [grimwood.temmie.anim:20][expression:02]* SAS

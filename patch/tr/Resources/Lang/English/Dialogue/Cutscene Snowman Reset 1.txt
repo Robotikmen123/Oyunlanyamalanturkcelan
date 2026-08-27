@@ -17,7 +17,7 @@
 [p]* ok.
 [s][expression:06]* AND SHE SAID I\rSHOULD MAYBE TAKE A\rVACATION FROM WORK.
 [p][grimwood.papyrus.frame:03]* oh,[w:07] cool.
-* a vacation sounds nice.
+* bir tatil iyi gelirdi.
 [s][expression:18]* YEAH.[w:07] WELL...
 [grimwood.sans.frame:07][grimwood.papyrus.frame:01][expression:22]* SHE SAID IT WAS YOUR\rIDEA.
 [p][expression:01]* ...

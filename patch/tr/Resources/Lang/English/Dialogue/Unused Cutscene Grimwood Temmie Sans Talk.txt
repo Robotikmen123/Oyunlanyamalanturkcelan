@@ -20,7 +20,7 @@
 [effect:shake,0][xscale:20]* nononono[w:07]\n* stop STOP IT
 [s][set.portrait:03]* WHAT?[w:07]\n* BUT YOU SAID [next]
 [t][voice:6]* yaya tem said dat\rbut ikn ow SOMETHING
-* a [yscale:50]SHOTCUT
+* bir [yscale:50]KISAYOL
 [s][set.portrait:10][yscale:20]* OH!
 [t][voice:6]* go EAS,T[w:07] takes you\rto town
 *[xscale:60] [effect:shake,1]GO NOW[xscale:20]
@@ -28,6 +28,6 @@
 [pause:150][set.camera.progression:04] [next]
 [hide.portrait][draw.box][t][voice:4][pitch:24000]* Oh,[w:07] it’s too easy!
 * Neredeyse kotu hissediyorum.
-* Oh well...[w:07]\n* It is what it is.
-* Let’s see if you’re ready\rnow,[w:07] Papyrus.
+* Neyse...[w:07]\n* Olan oldu.
+* Bakalim simdi hazir misin,[w:07]\rPapyrus.
 [set.camera.progression:05]

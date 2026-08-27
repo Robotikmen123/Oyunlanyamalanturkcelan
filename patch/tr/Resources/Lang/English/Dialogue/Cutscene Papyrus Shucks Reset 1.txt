@@ -16,6 +16,6 @@
 * and neither are you.
 [pause:075] [next]
 [show]* there’s still time.
-* and i plan to make the most\rof it.
+* ve bundan en iyi sekilde\ryararlanmayi planliyorum.
 [grimwood.cutscene.papyrus.shed.4] [grimwood.cutscene.papyrus.shed.2] [pause:120] [next]
 [grimwood.cutscene.papyrus.shed.3]

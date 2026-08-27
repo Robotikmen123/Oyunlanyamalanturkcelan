@@ -57,7 +57,7 @@
 |[grimwood.papyrus.anim:19][expression:08]* part of me thinks he\rtook the job to get\rcloser to one.
 |[expression:09]* to be friends with\rone,[w:07] maybe?[w:07]\ri dunno.
 |[as][expression:11]* That...[w:07] doesn't seem to\rline up with his line\rof work.
-|* Or our history,[w:07] for\rthat matter.
+|* Ya da tarihimizi,[w:07] hatta\rondan da ote.
 |[p][expression:06]* i thought so, too.[w:07]\n* but he's passionate\rabout it.
 |[grimwood.papyrus.anim:24][expression:11]* i think he has a pretty\rgood shot,[w:07] in all\rhonesty.
 |[as][grimwood.papyrus.anim:19][expression:02]* You're certain?
@@ -74,7 +74,7 @@
 |[as]* I assure you,[w:07] if we had\rmore people like you and\ryour brother...
 |[expression:01]* We could see a peaceful\rfuture someday.
 |[expression:00]* All we need to do is to\rtry to be kind every\rday.[w:07] Just a little.
-|* Promise me this.[w:07]\n* Will you,[w:07] Papyrus?
+|* Bana bunu soz ver.[w:07]\n* Verir misin,[w:07] Papyrus?
 |[p][expression:00]* what,[w:07] to be kind?
 |[as][expression:05]* To never give up this\rdream.
 |* Bir gun herkesin huzuru\rbulabildigi bir yerde yasamayi\rumuyorum.

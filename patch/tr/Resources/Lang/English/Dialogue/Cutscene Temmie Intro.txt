@@ -1,45 +1,45 @@
 [t]* Just how long do you think\rwe’ve done this?
 * Ne zamandir bu oyunun bir\rparcasiyiz?
-* THEIR game.
+* ONLARIN oyunu.
 * Acikcasi, biktim artik.
-* That human... That THING.
+* O insan... O SEY.
 [pitch:28000]* They don’t know what they’re\rdoing.
 [p]* clearly,[w:07] they do.
 [t]* Ha![w:07] You’d think so.
 [pitch:24000]* No,[w:07] this isn’t a tragedy,[w:07]\rplanned and coordinated.
 [pitch:14000]* This is...[w:13] mindless.
 [pitch:36000]* It’s FRUSTRATING me just how\rSIMPLE it is!
-* That’s why I came to you.
-* You and I are the only people\rwho know just how bad this\rREALLY is.
-* To do something, over and over\rand over and over and OVER\ragain...
+* Bu yuzden sana geldim.
+* Bunun GERCEKTEN ne kadar kotu\roldugunu bilen tek kisiler\rsen ve benim.
+* Bir seyi tekrar tekrar ve\rtekrar ve tekrar ve TEKRAR\ryapmak...
 [t][pitch:42000][effect:shake,0]* And to NOT.[w:07] [pitch:48000][xscale:40]CHANGE.[w:07][scale:20]\n[effect:shake,2]* [pitch:64000][xscale:80][yscale:40]AT ALL?![xscale:20][yscale:20]
 [t][effect:shake,0]* Sure,[w:07] they do different things\rin the MOMENT.
-* Say something here,[w:07] take an\ritem there...
+* Surada bir sey soyle,[w:07] burada bir\resya al...
 * Ama hepsi ayni sekilde bitiyor.
-* To them,[w:07] it’s a GAME.
-* So why CARE about consequences?
+* Onlar icin,[w:07] bu bir OYUN.
+* Peki sonuclari neden UMURSAYASIN?
 [p]* so they’re never gonna stop.
 [t]* Exactly!
-* So we need to STOP THEM.
+* Bu yuzden ONLARI DURDURMALIYIZ.
 [p]* ...
 [t]* Don’t play with me, Papyrus!\n* You know we need to stop them!
 [effect:shake,0]* To get them to at least do\r[effect:shake,1]SOMETHING!
 [p][effect:shake,0]* you think i haven’t tried?
 [t]* Ha! Not everything!
 * Seni taniyorum, Papyrus.[w:07]\n* Ne oldugunu.
-* You want to find answers just\ras much as I do.
+* Sen de en az benim kadar\rcevap bulmak istiyorsun.
 * Ve onlari elde etmek icin HER SEYI\ryapardin.
 [p]* you don't know me.
 * i gave up trying to find\rmeaning a long time ago.
 [t]* LIAR!
-* You’re not like anyone else.[w:07]\n* You’re CURSED with the\rknowledge you possess.
-* You see things differently,[w:07]\rand because of that...
+* Sen kimseye benzemiyorsun.[w:07]\n* Sahip oldugun bilgiyle\rLANETLENDIN.
+* Sen olaylara farkli bakiyorsun,[w:07]\rve bu yuzden...
 * Sonuca kendi basina nasil\rvaracagini TAM OLARAK biliyorum.
 [p]* what’s that supposed to mean?
 [t][pitch:24000]* You know what I mean, Papyrus.
 * Noktalari birlestir.
-* The human is your greatest\rexample.
-* You have some time to\rfigure it out.
+* Insan senin en buyuk\rornegin.
+* Bunu cozmek icin biraz\rvaktin var.
 * Ve eger yapmazsan...
-* Well, you already know what\rwill happen.
+* Zaten ne olacagini\rbiliyorsun.
 [pitch:48000][voice:6]* In the meantime...[w:07]\n* I’ll be seeing you!!
